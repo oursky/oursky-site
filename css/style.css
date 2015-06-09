@@ -92,21 +92,34 @@ a.btn-menu svg {
 /* Header */
 
 header {
-  padding: 20px 0 0;
+  padding: 20px 0 20px;
   position: fixed;
   width: 100%;
   top:0;
   left:0;
   z-index: 99;
+  -webkit-transition: background-color 800ms ease, padding 800ms ease;
+  -moz-transition: background-color 800ms ease, padding 800ms ease;
+  -ms-transition: background-color 800ms ease, padding 800ms ease;
+  -o-transition: background-color 800ms ease, padding 800ms ease;
+  transition: background-color 800ms ease, padding 800ms ease;
+  background: rgba(0,0,0,0);
 }
 
 .header-logo {
   width: 122px;
+  display: inline-block;
+  padding-top: 5px;
 }
 
 .header-logo svg {
   width: 122px;
-  fill:#fff;
+  fill: #fff;
+}
+
+header.add-bg {
+  background: rgba(0,0,0,0.5);
+  padding: 10px 0 10px;
 }
 
 
