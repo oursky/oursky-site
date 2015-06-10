@@ -524,6 +524,26 @@ a.tag-anchor:hover {
 }
 
 
+/* --------- Contact --------- */
+
+.contact-info {
+  list-style: none;
+}
+
+.contact-info li {
+  padding-bottom: 30px;
+}
+
+.location {
+  padding-left: 38px;
+  background: url("../img/icon-location.svg") 12px 3px no-repeat;
+}
+
+.tel {
+  padding-left: 38px;
+  background: url("../img/icon-phone.svg") 9px 3px  no-repeat;
+}
+
 /* -------- Footer --------- */
 
 .footer-top {

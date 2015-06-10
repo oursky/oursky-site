@@ -28,7 +28,7 @@
 				<li><a href="#">Blog</a></li>
 				<li><a href="#">Code@Oursky</a></li>
 				<li><a href="#">Jobs</a></li>
-				<li><a href="#">Contact</a></li>
+				<li><a href="${bf.util.site_path_helper('contact')}">Contact</a></li>
 
 			</uk>
 		</div>
