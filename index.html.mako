@@ -61,7 +61,7 @@
 	<div class="row">
 	    <div class="columns small-12 large-8 large-centered center">
 			<h3 class="sub-tag">We build state of the arts products</h3>
-			<p class="paragraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in quam dignissim, rutrum tellus sed, aliquet nisi. </p>
+			<p class="paragraph">With a team of 35 talented developers, designers and project managers, we use latest technologies and best practices to create web &amp; mobile apps which got millions of downloads, and won multiple awards including <br/> Best of 2013 selected by Apple App Store and Hong Kong ICT Awards of the Year 2014.</p>
 		</div>
 	</div>
 	</section>
@@ -101,7 +101,7 @@
 		<div class="row">
 	    <div class="columns small-12 large-8 large-centered center">
 			<h3 class="sub-tag">Learn with MVP</h3>
-			<p class="paragraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in quam dignissim, rutrum tellus sed, aliquet nisi. Proin volutpat feugiat urna finibus sagittis. Sed odio purus, faucibus nec velit et, porta egestas eros. Donec nec volutpat augue, eget dignissim enim. Integer consequat suscipit justo eget cursus. </p>
+			<p class="paragraph">Here at Oursky, we break the project down into smaller chunks and aim for a Minimum Viable Product (MVP) that we can show our users ASAP in the development cycle. Understand your users sooner, less risk towards the end. </p>
 			<p class="spacer">
 				<img src="img/mvp-1.png">
 			</p>
