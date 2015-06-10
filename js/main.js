@@ -8,6 +8,10 @@ $.fn.exists = function(callback) {
   return this;
 };
 
+$('.nav-toggle').click(function() {
+	$('#main-nav').toggleClass("show");
+ });
+
 $('#tag-line-wrap').exists(function() {
 
 

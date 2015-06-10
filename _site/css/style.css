@@ -39,6 +39,14 @@ strong {
 }
 
 
+.title-grey {
+  font-size: 16px;
+  font-weight: 400;
+  color:#aaa;
+  letter-spacing: 2px;
+}
+
+
 
 /* Buttons */
 
@@ -85,7 +93,7 @@ a.btn-menu{
   display: inline-block;
   color:#fff;
   vertical-align: middle;
-  padding: 0 20px;
+  padding: 0 0 0 20px;
 }
 
 
@@ -126,6 +134,78 @@ header.add-bg {
   padding: 10px 0 10px;
 }
 
+/* -- Main Nav -- */
+
+#main-nav {
+  position: fixed;
+  width: 100%;
+  top:-600px;
+  left: 0;
+  z-index: 10000;
+  background: #fff;
+  padding: 20px 0 40px;
+  transition:top 700ms cubic-bezier(.82,.06,.5,1);
+  -webkit-transition:top 700ms cubic-bezier(.82,.06,.5,1);
+  -moz-transition:top 700ms cubic-bezier(.82,.06,.5,1);
+  -o-transition:top 700ms cubic-bezier(.82,.06,.5,1);
+}
+
+#main-nav.show {
+  top:0;
+}
+
+#main-nav svg {
+  width:122px;
+}
+
+.nav-close {
+  padding: 3px 0 0;
+}
+
+#main-nav ul {
+  margin: 40px 0;
+  padding: 0;
+}
+
+#main-nav ul li {
+  list-style: none;
+  padding: 0;
+  
+}
+
+#main-nav ul li a {
+  line-height: 70px;
+  font-size: 30px;
+  color:#3155A5;
+}
+
+.nav-block {
+  margin-top: 40px;
+}
+
+.nav-work-block {
+  width: 100%;
+  padding: 60px 0;
+  text-align: center;
+  font-size: 48px;
+  background: #666;
+  color:#fff;
+  margin-bottom: 20px;
+  background-size: auto 100%;
+  background-position: center;
+  display: block;
+}
+
+.nav-work-block:hover {
+  color:#f8f8f8;
+}
+
+a.nav-cta {
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+}
 
 
 
@@ -365,6 +445,14 @@ div.footnote {
 
 .floatRight {
   float:right;
+}
+
+.alignleft {
+  text-align: left;
+}
+
+.alignRight {
+  text-align: right;
 }
 
 .clear {
