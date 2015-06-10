@@ -7,7 +7,7 @@
     data-cycle-speed="1500"
     data-cycle-slides="> div" id="tag-line-wrap" >
 
-    <div class="tag-line hero-img-1">
+    <div class="tag-line hero-img-1 hero-img">
       <div class="row full-height">
         <div class="columns large-12 full-height">
 	        	<div class="aligner hero-img-icon-1">
@@ -17,7 +17,7 @@
       </div>
     </div>
 
-     <div class="tag-line hero-img-2">
+     <div class="tag-line hero-img-2 hero-img">
       <div class="row full-height">
         <div class="columns large-12 full-height">
 	        	<div class="aligner hero-img-icon-2">
@@ -28,7 +28,7 @@
     </div>
 
 
-     <div class="tag-line hero-img-3">
+     <div class="tag-line hero-img-3 hero-img">
       <div class="row full-height">
         <div class="columns large-12 full-height">
 	        	<div class="aligner hero-img-icon-3">
