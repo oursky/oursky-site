@@ -126,7 +126,7 @@
 			<h3>Work with us.</h3>
 			<p>Got an idea for a project? <br>
 			We'd love to hear from you</p>
-			<a href="#" class="btn">Start your project</a>
+			<a href="${bf.util.site_path_helper('start')}" class="btn">Start your project</a>
 		</div>
 	</div>
 

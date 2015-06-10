@@ -1,4 +1,4 @@
-<header>
+<header class="header-white">
   
       <div class="row">
 
@@ -18,7 +18,6 @@
         </div>
 
         <div class="large-4 columns alignRight">
-          <a href="${bf.util.site_path_helper('start')}" class="btn-header btn">Start your project</a>
           <a href="#" class="btn-menu nav-toggle">
           	<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 			<path d="M0,1 L25,1 L25,3 L0,3 L0,1 Z M0,12 L25,12 L25,14 L0,14 L0,12 Z M0,23 L25,23 L25,25 L0,25 L0,23 Z" id="menu"></path>

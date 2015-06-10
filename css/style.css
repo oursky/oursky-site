@@ -39,6 +39,23 @@ strong {
 }
 
 
+.small {
+  font-size: 12px;
+}
+
+.bold {
+  font-weight: 600;
+}
+
+.normal {
+  font-weight: 400;
+}
+
+.font-spacer {
+  letter-spacing: 2px;
+}
+
+
 .title-grey {
   font-size: 16px;
   font-weight: 400;
@@ -46,6 +63,9 @@ strong {
   letter-spacing: 2px;
 }
 
+.heading-title h1 {
+  font-size: 52px;
+}
 
 
 /* Buttons */
@@ -97,7 +117,7 @@ a.btn-menu{
 }
 
 
-a.btn-menu svg {
+.btn-menu svg {
   fill:#fff;
 }
 
@@ -134,6 +154,11 @@ header.add-bg {
   padding: 10px 0 10px;
 }
 
+header.header-white .header-logo svg,
+header.header-white a.btn-menu svg {
+  fill:#3155A5;
+}
+
 /* -- Main Nav -- */
 
 #main-nav {
@@ -148,6 +173,7 @@ header.add-bg {
   -webkit-transition:top 700ms cubic-bezier(.82,.06,.5,1);
   -moz-transition:top 700ms cubic-bezier(.82,.06,.5,1);
   -o-transition:top 700ms cubic-bezier(.82,.06,.5,1);
+  border-bottom: 1px solid #eee;
 }
 
 #main-nav.show {
@@ -228,6 +254,10 @@ a.nav-cta {
   justify-content: space-between;
 }
 
+
+.heading-title {
+  padding: 120px 0 60px;
+}
 
 /* -- Landing -- */
 
@@ -404,12 +434,8 @@ a.tag-anchor:hover {
   color:#fff;
 }
 
-.heading-title {
-  padding: 120px 0 60px;
-}
 
-.heading-title h1 {
-  font-size: 52px;
+#title-about h1 {
   color: #fff;
 }
 
@@ -445,6 +471,57 @@ a.tag-anchor:hover {
 
 }
 
+
+/* --------- Plans ----------- */
+
+.plan-block .plan-icon-wrap {
+  height: 180px;
+}
+
+.plan-block .plan-icon-wrap img {
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.plan-block span {
+  display: block;
+  font-weight: 400;
+  font-size: 22px;
+  letter-spacing: 3px;
+}
+
+.plan-block ul {
+  margin:20px 0;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+  min-height: 200px;
+  padding: 10px 0;
+  list-style-type:circle;
+}
+
+.budget {
+  color: #D4D4D4;
+  letter-spacing: 2px;
+}
+
+.budget strong {
+  font-weight: 600;
+}
+
+#ondemand .box {
+  max-width: 180px;
+}
+
+#faq h3 {
+  margin: 20px 0;
+}
+
+.faq-block {
+  background-color: #F8F8F8;
+}
 
 
 /* -------- Footer --------- */
@@ -501,6 +578,10 @@ div.footnote {
 
 .spacer {
   margin: 120px 0;
+}
+
+.spacer-small {
+  margin: 50px 0;
 }
 
 .floatLeft {
