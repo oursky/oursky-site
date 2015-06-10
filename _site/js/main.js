@@ -48,3 +48,28 @@ $('#tag-line-wrap').exists(function() {
 	});
 
 });
+
+$('.heading-dark').exists(function(){
+
+	var effectStart=jQuery('.heading-dark').offset().top // 100px scroll or less will equiv to 1 opacity
+    ,effectEnd=jQuery('.heading-dark').offset().top + jQuery('.heading-dark').height() // 200px scroll or more will equiv to 0 opacity
+	;
+
+
+	$('.heading-dark').scrollPoint({
+	         up   : effectStart - 20,
+	         down : effectEnd
+	    });
+	    
+	    // Event trigger each time you scroll to now if you are in or out the zone
+	    $(document).on('scrollPointMove', '.heading-dark', function(e) {
+	        var func = !e.isIn ? "addClass" : "removeClass";
+	        $('header')[func]('add-bg');
+	    });
+
+})
+
+
+$('#about-office').exists(function(){
+	$(this).parallax("50%", -0.2);
+})

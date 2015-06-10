@@ -16,6 +16,8 @@ ${self.head()}
       ${self.footer()}
     
     ${self.body_scripts()}
+  
+
   </body>
 </html>
 <%def name="head()"><%include file="head.mako" /></%def>

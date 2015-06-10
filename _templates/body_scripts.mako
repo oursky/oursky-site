@@ -7,5 +7,3 @@
 <script>
       $(document).foundation();
 </script>
-
-

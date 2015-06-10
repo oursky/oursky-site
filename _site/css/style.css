@@ -215,6 +215,20 @@ a.nav-cta {
   padding: 100px 0;
 }
 
+
+.flex-box-row {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: space-between;
+  -moz-justify-content: space-between;
+  -ms-justify-content: space-between;
+  justify-content: space-between;
+}
+
+
 /* -- Landing -- */
 
 /* Tag line */
@@ -381,6 +395,56 @@ a.tag-anchor:hover {
 .mvp-graph img {
   height:400px;
 }
+
+
+/* ---------- About ---------- */
+
+#title-about {
+  background: #3155A5;
+  color:#fff;
+}
+
+.heading-title {
+  padding: 120px 0 60px;
+}
+
+.heading-title h1 {
+  font-size: 52px;
+  color: #fff;
+}
+
+#about-office {
+  height: 420px;
+  width: 100%;
+  background: url("../img/office.png") center;
+  background-size: auto 460px;
+  background-repeat: no-repeat;
+
+}
+
+#personnel {
+  padding-bottom: 200px;
+}
+
+#personnel h6 {
+  font-weight: 600;
+  padding: 40px;
+  letter-spacing: 2px;
+}
+
+#personnel .box {
+  text-align: center;
+  font-size: 16px;
+  line-height: 48px;
+}
+
+
+
+#personnel .box img {
+  width: 140px;
+
+}
+
 
 
 /* -------- Footer --------- */
