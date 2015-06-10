@@ -18,7 +18,7 @@
       (function() {
         var config = {
           kitId: 'rpj1ljo',
-          scriptTimeout: 3000
+          scriptTimeout: 50
         };
         var h = document.getElementsByTagName('html')[0];
         h.className += ' wf-loading';
