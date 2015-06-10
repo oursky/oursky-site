@@ -34,6 +34,10 @@ a:hover, a:active {
   margin:0 auto 1.8em;
 }
 
+strong {
+  font-weight: 400;
+}
+
 
 
 /* Buttons */
@@ -97,7 +101,7 @@ header {
   width: 100%;
   top:0;
   left:0;
-  z-index: 99;
+  z-index: 9999;
   -webkit-transition: background-color 800ms ease, padding 800ms ease;
   -moz-transition: background-color 800ms ease, padding 800ms ease;
   -ms-transition: background-color 800ms ease, padding 800ms ease;
@@ -135,22 +139,53 @@ header.add-bg {
 
 /* Tag line */
 
-.hero-img {
+.hero-img-1 {
   background: url("../img/hero-1.png") center bottom no-repeat;
   background-size: auto 90%;
-}
-
-.hero-img-icon {
-  background: url("../img/hero-1-icon.svg") center no-repeat;
-  background-size: 200px;
-}
-
-#tagline {
   background-color: #232323;
+}
+
+.hero-img-2 {
+  background: url("../img/hero-2.png") center no-repeat;
+  background-size: cover;
+}
+
+.hero-img-3 {
+  background: url("../img/hero-3.png") center no-repeat;
+  background-size: cover;
+}
+
+.hero-img-icon-1 {
+  background: url("../img/hero-1-icon.svg") center no-repeat;
+  background-size: 260px;
+}
+
+.hero-img-icon-2 {
+  background: url("../img/hero-2-icon.svg") center no-repeat;
+  background-size: 520px;
+}
+
+
+.hero-img-icon-3 {
+  background: url("../img/hero-3-icon.svg") center no-repeat;
+  background-size: 280px;
+}
+
+
+.tag-wrap {
+  height: 100%;
+}
+
+.tag-line {
+  width:100%;
   height:620px;
 }
 
-.tagline {
+.tag-line-wrap {
+  background-color: #000;
+}
+
+.tag {
   color: #fff;
   text-align: center;
   text-transform: capitalize;
@@ -166,6 +201,7 @@ header.add-bg {
   font-weight: 400;
   font-size: 14px;
   line-height: 26px;
+  z-index: 9999;
 }
 
 a.tag-anchor:hover {
@@ -173,7 +209,7 @@ a.tag-anchor:hover {
 }
 
 
-#tagline h1 {
+.tag-line h1 {
   font-size: 82px;
   font-weight: 200;
 }
