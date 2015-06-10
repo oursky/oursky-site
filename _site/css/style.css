@@ -727,3 +727,20 @@ div.footnote {
 .aligner-item--bottom {
   align-self: flex-end;
 }
+
+
+
+/* ----- PRODUCT PAGES ------- */
+
+
+/* Jamn Player */
+
+#title-jamn {
+  background: url("../img/hero-jamn.png") center no-repeat #000;
+  background-size: cover;
+  padding: 180px 0;
+}
+
+#title-jamn h1{
+  color: #fff;
+}

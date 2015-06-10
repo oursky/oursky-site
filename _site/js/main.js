@@ -16,8 +16,8 @@ $('.nav-toggle').click(function(e) {
 $('#tag-line-wrap').exists(function() {
 
 
-	var effectStart=jQuery('#tag-line-wrap').offset().top // 100px scroll or less will equiv to 1 opacity
-    ,effectEnd=jQuery('#tag-line-wrap').offset().top + jQuery('#tag-line-wrap').height() // 200px scroll or more will equiv to 0 opacity
+	var effectStart=jQuery('#tag-line-wrap').offset().top 
+    ,effectEnd=jQuery('#tag-line-wrap').offset().top + jQuery('#tag-line-wrap').outerHeight()
     ,fading = $('.aligner')
 	;
 
@@ -27,7 +27,6 @@ $('#tag-line-wrap').exists(function() {
 	         down : effectEnd
 	    });
 	    
-	    // Event trigger each time you scroll to now if you are in or out the zone
 	    $(document).on('scrollPointMove', '#tag-line-wrap', function(e) {
 	        var func = !e.isIn ? "addClass" : "removeClass";
 	        $('header')[func]('add-bg');
@@ -52,8 +51,8 @@ $('#tag-line-wrap').exists(function() {
 
 $('.heading-dark').exists(function(){
 
-	var effectStart=jQuery('.heading-dark').offset().top // 100px scroll or less will equiv to 1 opacity
-    ,effectEnd=jQuery('.heading-dark').offset().top + jQuery('.heading-dark').height() // 200px scroll or more will equiv to 0 opacity
+	var effectStart=jQuery('.heading-dark').offset().top 
+    ,effectEnd=jQuery('.heading-dark').offset().top + jQuery('.heading-dark').outerHeight()
 	;
 
 
@@ -62,7 +61,6 @@ $('.heading-dark').exists(function(){
 	         down : effectEnd
 	    });
 	    
-	    // Event trigger each time you scroll to now if you are in or out the zone
 	    $(document).on('scrollPointMove', '.heading-dark', function(e) {
 	        var func = !e.isIn ? "addClass" : "removeClass";
 	        $('header')[func]('add-bg');

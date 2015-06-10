@@ -72,7 +72,7 @@
 		<div class="columns large-6">
 			<h2>Jamn Player</h2>
 			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in quam dignissim, rutrum tellus sed, aliquet nisi. Proin volutpat feugiat urna finibus sagittis. Sed odio purus, faucibus nec velit et, porta egestas eros. Donec nec volutpat augue, eget dignissim enim. Integer consequat suscipit justo eget cursus. </p>
-			<p><a href="#" class="btn all-caps white">Read more</a></p>
+			<p><a href="${bf.util.site_path_helper('jamn')}" class="btn all-caps white">Read more</a></p>
 		</div>
 		<div class="columns large-6">
 			<img src="img/product-jamn.png">

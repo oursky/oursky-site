@@ -36,7 +36,7 @@
 		<div class="columns large-5 end">
 			<div class="nav-block">
 				<h6 class="all-caps title-grey">Recent works</h6>
-				<a class="nav-work-block" style="background-image:url('${bf.util.site_path_helper('img/nav-work-1.png')}')">
+				<a href="${bf.util.site_path_helper('jamn')}" class="nav-work-block" style="background-image:url('${bf.util.site_path_helper('img/nav-work-1.png')}')">
 					Jamn Player
 				</a>
 				<a class="nav-work-block" style="background-image:url('${bf.util.site_path_helper('img/nav-work-2.png')}')">
