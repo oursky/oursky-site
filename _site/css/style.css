@@ -67,6 +67,10 @@ strong {
   font-size: 52px;
 }
 
+.red {
+  color: red;
+}
+
 
 /* Buttons */
 
@@ -123,6 +127,11 @@ a.btn-menu{
 
 a.large-btn {
   padding: 12px 24px;
+}
+
+a.btn-grey {
+  background: #eee;
+  border-color: #c8c8c8;
 }
 
 /* Header */
@@ -562,24 +571,59 @@ a.tag-anchor:hover {
 
 /* Form */
 
-input[type=text] {
+input[type=text], input[type=email] {
   border: none;
   border-bottom: 2px solid #ccc;
   width: 100%;
   font-size: 16px;
   margin-bottom: 24px;
   padding: 10px 0;
+  box-shadow: none;
 }
 
 input[type=text]:focus, 
-input[type=text]:active {
+input[type=text]:active, input[type=email]:focus,
+input[type=email]:active {
   border-color: #000;
   outline: none;
+  background: none;
 }
 
-.checklist label {
-  margin-bottom: 24px;
-  display:inline-block;
+
+input:focus:invalid {
+  border-color: orange;
+}
+
+
+
+.required::-webkit-input-placeholder:after {
+    content:' *';
+    color: red;
+}
+.required:-moz-placeholder:after {
+    /* Firefox 18- */
+    content:' *';
+    color: red;
+}
+.required::-moz-placeholder:after {
+    /* Firefox 19+ */
+    content:' *';
+    color: red;
+}
+.required:-ms-input-placeholder:after {
+    content:' *';
+    color: red;
+}
+
+.checklist input[type="checkbox"] + label, input[type="radio"] + label {
+  margin-bottom: 5px;
+  display:block;
+  margin-right: 10px;
+}
+
+.checklist input[type="checkbox"] {
+  margin: 5px 10px 20px 0; 
+  float:left;
 }
 
 .textarea label {
