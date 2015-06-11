@@ -7,8 +7,8 @@
         href="${bf.util.site_path_helper('img/apple-touch-icon.png')}">
 
   <link rel="stylesheet" href="${bf.util.site_path_helper('css/foundation.css')}">
-  
   <link rel="stylesheet" href="${bf.util.site_path_helper('css/style.css')}">
+  <link rel="stylesheet" href="${bf.util.site_path_helper('css/mobile.css')}">
 
   <script
     src="${bf.util.site_path_helper('js/vendor/modernizr.js')}">

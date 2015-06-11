@@ -168,15 +168,15 @@ header.header-white a.btn-menu svg {
 #main-nav {
   position: fixed;
   width: 100%;
-  top:-600px;
+  top:-700px;
   left: 0;
   z-index: 10000;
   background: #fff;
   padding: 20px 0 40px;
-  transition:top 700ms cubic-bezier(.82,.06,.5,1);
-  -webkit-transition:top 700ms cubic-bezier(.82,.06,.5,1);
-  -moz-transition:top 700ms cubic-bezier(.82,.06,.5,1);
-  -o-transition:top 700ms cubic-bezier(.82,.06,.5,1);
+  transition:top 700ms cubic-bezier(.82,.06,.5,1),opacity 1000ms ease;
+  -webkit-transition:top 700ms cubic-bezier(.82,.06,.5,1),opacity 1000ms ease;
+  -moz-transition:top 700ms cubic-bezier(.82,.06,.5,1),opacity 1000ms ease;
+  -o-transition:top 700ms cubic-bezier(.82,.06,.5,1),opacity 1000ms ease;
   border-bottom: 1px solid #eee;
 }
 
@@ -188,9 +188,6 @@ header.header-white a.btn-menu svg {
   width:122px;
 }
 
-.nav-close {
-  padding: 3px 0 0;
-}
 
 #main-nav ul {
   margin: 40px 0;

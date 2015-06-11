@@ -1,6 +1,7 @@
 <nav id="main-nav">
+	<div class="nav-top">
 	<div class="row">
-		<div class="columns large-2">
+		<div class="columns large-2 medium-2 small-5">
 			<a href="${bf.util.site_path_helper('index.html')}">
 			<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="nav-logo" x="0px" y="0px" viewBox="3 215.1 806 165" enable-background="new 3 215.1 806 165" xml:space="preserve" fill="#3155A5">
 					<g>
@@ -14,14 +15,15 @@
 			</svg>
 			</a>
 		</div>
-		<div class="columns large-2">
+		<div class="columns large-2 medium-2 small-5">
 			<a href="#" class="nav-close floatRight nav-toggle"><img src="${bf.util.site_path_helper('img/close.svg')}"></a>
+		</div>
 		</div>
 	</div>
 
-	<div class="row">
-
-		<div class="columns large-3 large-offset-2">
+	<div class="row nav-wrap">
+		
+		<div class="columns large-3 large-offset-2 medium-4 medium-offset-1">
 			<ul>
 				<li><a href="${bf.util.site_path_helper('index.html')}">Home</a></li>
 				<li><a href="${bf.util.site_path_helper('about')}">About</a></li>
@@ -33,7 +35,7 @@
 			</uk>
 		</div>
 
-		<div class="columns large-5 end">
+		<div class="columns large-5 medium-6 end">
 			<div class="nav-block">
 				<h6 class="all-caps title-grey">Recent works</h6>
 				<a href="${bf.util.site_path_helper('jamn')}" class="nav-work-block" style="background-image:url('${bf.util.site_path_helper('img/nav-work-1.png')}')">
@@ -45,6 +47,5 @@
 				<a href="${bf.util.site_path_helper('start')}" class="nav-cta btn ">Start your project</a>
 			</div>
 		</div>
-
-	</div>
+		</div>
 </nav>
