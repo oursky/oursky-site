@@ -62,6 +62,13 @@ $('#tag-line-wrap').exists(function() {
         paginationClickable: true
     })        
 
+    	$('.tag-anchor').click(function(e){
+
+    		$('body').scrollTo(document.getElementById('products'), 800,{offset:-60});
+    		e.preventDefault();
+
+    	});
+
 
 	  });
 
