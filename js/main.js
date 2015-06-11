@@ -47,6 +47,24 @@ $('#tag-line-wrap').exists(function() {
 	    fading.css('opacity',opacity);
 	});
 
+	$(document).ready(function () {
+    	var Swiper1 = new Swiper ('.swiper-1', {
+      direction: 'horizontal',
+      loop: false,
+        pagination: '.swiper-pagination-1',
+        paginationClickable: true
+    })        
+
+    	var Swiper2 = new Swiper ('.swiper-2', {
+      direction: 'horizontal',
+      loop: false,
+        pagination: '.swiper-pagination-2',
+        paginationClickable: true
+    })        
+
+
+	  });
+
 });
 
 $('.heading-dark').exists(function(){

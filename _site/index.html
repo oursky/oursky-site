@@ -14,6 +14,7 @@
         href="/img/apple-touch-icon.png">
 
   <link rel="stylesheet" href="/css/foundation.css">
+  <link rel="stylesheet" href="/css/swiper.min.css">
   <link rel="stylesheet" href="/css/style.css">
   <link rel="stylesheet" href="/css/mobile.css">
 
@@ -191,7 +192,7 @@
 
 	</div>
 
-    <section id="latest-blog">
+    <section id="latest-blog" class="show-for-medium-up">
     <div class="row">
 	    <div class="columns large-12 center">
 	    	<h6 class="center all-caps">Latest blog post</h6>
@@ -203,38 +204,68 @@
 
 	<section id="products" class="contents">
 	<div class="row">
-	    <div class="columns small-12 large-8 large-centered center">
+	    <div class="columns small-12 medium-8 large-8 large-centered medium-centered center">
 			<h3 class="sub-tag">We build state of the arts products</h3>
 			<p class="paragraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in quam dignissim, rutrum tellus sed, aliquet nisi. </p>
 		</div>
 	</div>
 	</section>
 
-	<section id="jamn">
+	<section class="show-for-small-only">
+		 <div class="swiper-container swiper-1">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide">
+            			<div class="index-jamn">
+						<h2>Jamn Player</h2>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in quam dignissim, rutrum tellus sed, aliquet nisi. Proin volutpat feugiat urna finibus sagittis. Sed odio purus, faucibus nec velit et, porta egestas eros. Donec nec volutpat augue, eget dignissim enim. Integer consequat suscipit justo eget cursus. </p>
+						<p><a href="/jamn" class="btn all-caps white">Read more</a></p>
+					
+						<img src="img/product-jamn.png">
+						</div>
+            </div>
+            <div class="swiper-slide">
+            			<div class="index-bindle">
+							<h2>Bindle</h2>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in quam dignissim, rutrum tellus sed, aliquet nisi. Proin volutpat feugiat urna finibus sagittis. Sed odio purus, faucibus nec velit et, porta egestas eros. Donec nec volutpat augue, eget dignissim enim. Integer consequat suscipit justo eget cursus. </p>
+							<p><a href="#" class="btn all-caps white">Read more</a></p>
+					
+							<img src="img/product-bindle.png">
+						</div>
+            </div>
+          
+        </div>
+        <!-- Add Pagination -->
+        <div class="swiper-pagination swiper-pagination-1"></div>
+    </div>
+	</section>
+
+	<section id="jamn" class="show-for-medium-up index-jamn">
 	
 	<div class="row">
-		<div class="columns large-6">
+		<div class="columns large-6 medium-6">
 			<h2>Jamn Player</h2>
 			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in quam dignissim, rutrum tellus sed, aliquet nisi. Proin volutpat feugiat urna finibus sagittis. Sed odio purus, faucibus nec velit et, porta egestas eros. Donec nec volutpat augue, eget dignissim enim. Integer consequat suscipit justo eget cursus. </p>
 			<p><a href="/jamn" class="btn all-caps white">Read more</a></p>
 		</div>
-		<div class="columns large-6">
-			<img src="img/product-jamn.png">
+		<div class="columns large-6 medium-6 center">
+			<img data-interchange="[img/product-jamn.png, (small)], [img/product-jamn-medium.png, (medium)],[img/product-jamn.png, (large)]" class="landing-product-pic">
+			<noscript><img src="img/product-jamn.png"></noscript>
 		</div>
 	</div>
 
 	</section>
 
-	<section id="bindle">
+	<section id="bindle" class="show-for-medium-up index-bindle">
 	
 	<div class="row">
-		<div class="columns large-6 large-push-6">
+		<div class="columns large-6 large-push-6 medium-6 medium-push-6">
 			<h2>Bindle</h2>
 			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in quam dignissim, rutrum tellus sed, aliquet nisi. Proin volutpat feugiat urna finibus sagittis. Sed odio purus, faucibus nec velit et, porta egestas eros. Donec nec volutpat augue, eget dignissim enim. Integer consequat suscipit justo eget cursus. </p>
 			<p><a href="#" class="btn all-caps white">Read more</a></p>
 		</div>
-		<div class="columns large-6 large-pull-6">
-			<img src="img/product-bindle.png">
+		<div class="columns large-6 large-pull-6 medium-6 medium-pull-6 center">
+			<img data-interchange="[img/product-bindle.png, (small)], [img/product-bindle-medium.png, (medium)],[img/product-bindle.png, (large)]" class="landing-product-pic">
+			<noscript><img src="img/product-bindle.png"></noscript>
 		</div>
 
 	</div>
@@ -246,15 +277,28 @@
 	    <div class="columns small-12 large-8 large-centered center">
 			<h3 class="sub-tag">Learn with MVP</h3>
 			<p class="paragraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in quam dignissim, rutrum tellus sed, aliquet nisi. Proin volutpat feugiat urna finibus sagittis. Sed odio purus, faucibus nec velit et, porta egestas eros. Donec nec volutpat augue, eget dignissim enim. Integer consequat suscipit justo eget cursus. </p>
-			<p class="spacer">
-				<img src="img/mvp-1.png">
-			</p>
+			<div class="spacer mvp-xo">
+					<img data-interchange="[img/mvp-1-small.png, (small)], [img/mvp-1.png, (medium)],[img/mvp-1.png, (large)]" class="landing-product-pic">
+			<noscript><img src="img/mvp-1.png"></noscript>
+			</div>
 			<p class="paragraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in quam dignissim, rutrum tellus sed, aliquet nisi. Proin volutpat feugiat urna finibus sagittis. Sed odio purus, faucibus nec velit et, porta egestas eros. Donec nec volutpat augue, eget dignissim enim. Integer consequat suscipit justo eget cursus. </p>
 		</div>
 		</div>
 	</section>
 
-	<section id="mvp-img">
+	<section class="show-for-small-only">
+		 <div class="swiper-container swiper-2">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide swipe-left"><img src="img/mvp-2.png"></div>
+            <div class="swiper-slide swipe-right"><img src="img/mvp-3.png"></div>
+          
+        </div>
+        <!-- Add Pagination -->
+        <div class="swiper-pagination swiper-pagination-2"></div>
+    </div>
+	</section>
+
+	<section id="mvp-img" class="show-for-medium-up">
 		<div class="floatLeft mvp-graph mvp-graph-left">
 			<img src="img/mvp-2.png">
 		</div>
@@ -286,7 +330,7 @@
     </div>
 
     <div class="row">
-      <div class="columns large-2">
+      <div class="columns large-2 medium-3 small-12 footer-logo-wrap">
         <svg id="footer-logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="3 215.1 806 165" enable-background="new 3 215.1 806 165" xml:space="preserve">
       <g>
         <path d="M312.7 311.6c0 15-1.8 33.5-17.4 49.7c-15 15.6-32.3 18-48.8 18s-33.8-2.4-48.8-18 c-15.6-15.9-17.4-34.4-17.4-49.7v-84.8c0-4.5 3.6-8.1 8.1-8.1h19.8c4.5 0 8.1 3.6 8.1 8.1v83.6c0 6.9 0.6 18.3 8.1 26.4 c6.3 6.9 15 8.1 21.9 8.1s15.6-1.5 21.9-8.1c7.8-8.1 8.1-19.5 8.1-26.4v-83.6c0-4.5 3.6-8.1 8.1-8.1H304c4.5 0 8.1 3.6 8.1 8.1 v84.8H312.7z"/>
@@ -298,8 +342,8 @@
       </g>
       </svg>
       </div>
-      <div class="columns large-5">
-        <ul class="footer-sitemap">
+      <div class="columns large-5 medium-8 small-12">
+        <ul class="footer-sitemap show-for-medium-up">
 
 
           <li>
@@ -336,9 +380,11 @@
   </div>
 
   <div class="row">
-    <div class="footnote">
-    <span class="footnote floatLeft">&copy; 2015 OURSKY. All rights reserved.</span>
-      <span class="footnote floatRight all-caps">Develop with passion</span>
+    <div class="columns large-6 medium-6 small-12 footnote-left credit">
+    <span class="footnote">&copy; 2015 OURSKY. All rights reserved.</span>
+    </div>
+     <div class="columns large-6 medium-6 small-12 footnote-right alignRight credit">
+      <span class="footnote all-caps">Develop with passion</span>
     </div>
   </div>
 
@@ -350,6 +396,7 @@
 <script src="/js/cycle2.js"></script>
 <script src="/js/scrollPoint.js"></script>
 <script src="/js/parallax.js"></script>
+<script src="/js/swiper.jquery.js"></script>
 <script src="/js/main.js"></script>
 <script>
       $(document).foundation();

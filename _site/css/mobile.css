@@ -3,6 +3,13 @@
 
 /* Small Screens */
 
+@media only screen { 
+
+	/* Landing */
+
+
+}
+
 @media only screen and (max-width: 40em) {
 
 	/* Navigation */
@@ -56,4 +63,124 @@
 	}
 
 
+	/* Landing */
+
+	.tag-line h1 {
+ 		font-size: 38px;
+ 	}
+
+ 	#mvp-img {
+ 		overflow: scroll;
+ 		-webkit-overflow-scrolling: touch;
+
+ 	}
+
+ 	.swiper-container {
+        width: 100%;
+        height: 100%;
+    }
+    .swiper-slide {
+        text-align: center;
+        font-size: 18px;
+        background: #fff;
+        /* Center slide text vertically */
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        -webkit-justify-content: center;
+        justify-content: center;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        -webkit-align-items: center;
+        align-items: center;
+    }
+
+ 	.swipe-right {
+ 		background: #EEF4FF;
+ 	}
+
+ 	.swipe-left {
+ 		background: #fafafa;
+ 	}
+
+ 	.swiper-1 img {
+ 		height: 300px;
+ 		margin-top: 20px;
+ 	}
+
+ 	.swiper-1 p {
+ 		margin:1.5em 2em;
+ 	}
+
+ 	.swiper-2 img {
+ 		height: 450px;
+ 		margin: 70px 0;
+ 	}
+
+ 	/* Footer */
+
+ 	.footer-logo-wrap {
+ 		text-align: center;
+ 	}
+
+ 	.footnote {
+ 		padding-top: 0;
+ 		padding-bottom: 0;
+ 	}
+
+
+ 	.credit {
+ 		padding-top: 0;
+ 		padding-bottom: 0;
+ 		text-align: center;
+ 	}
+
+ 	.footnote-left {
+ 		padding-top: 10px;
+ 	}
+
+ 	.footnote-right {
+ 		padding-bottom: 20px;
+ 	}
+
+
  }
+
+ /* Medium Screens */
+
+@media only screen and (min-width: 40.063em) { 
+
+
+} 
+
+
+ @media only screen and (min-width: 40.063em) and (max-width: 64em) { 
+
+ 	/* Typo */
+
+ 	.sub-tag {
+ 		font-size: 28px;
+ 	}
+
+ 	/* Landing */
+
+ 	.tag-line h1 {
+ 		font-size: 62px;
+ 	}
+
+ 	.landing-product-pic {
+ 		width: 90%;
+ 		margin-bottom: 40px;
+ 	}
+
+ 	.mvp-graph {
+ 		padding:60px 20px 60px;
+ 		text-align: center;
+
+ 	}
+
+
+ } 
