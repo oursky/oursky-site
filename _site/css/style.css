@@ -145,7 +145,7 @@ header {
 .header-logo {
   width: 122px;
   display: inline-block;
-  padding-top: 5px;
+  padding-top: 10px;
 }
 
 .header-logo svg {
