@@ -18,7 +18,7 @@
             <div class="swiper-slide">
             			<div class="plan-block">
 						<div class="plan-icon-wrap center">
-							<img src="../img/prototype-icon.svg">
+							<img src="../img/icon-prototype.png">
 						</div>
 						<span class="all-caps center" style="color:#9CDCDB">Prototype</span>
 						<ul>
@@ -33,7 +33,7 @@
               <div class="swiper-slide">
             			<div class="plan-block">
 								<div class="plan-icon-wrap center">
-								<img src="../img/mvp-icon.svg">
+								<img src="../img/icon-mvp.png">
 							</div>
 							<span class="all-caps center" style="color:#3155A5">MVP</span>
 							<ul>
@@ -49,7 +49,7 @@
               <div class="swiper-slide">
             			<div class="plan-block">
 							<div class="plan-icon-wrap center">
-								<img src="../img/large-scale-icon.svg">
+								<img src="../img/icon-large-scale.png">
 							</div>
 							<span class="all-caps center" style="color:#D68585">Large-scale</span>
 							<ul>
@@ -70,7 +70,7 @@
 		<div class="row">
 			<div class="columns large-4 medium-4 plan-block ">
 				<div class="plan-icon-wrap center">
-					<img src="../img/prototype-icon.svg">
+					<img src="../img/icon-prototype.png">
 				</div>
 				<span class="all-caps center" style="color:#9CDCDB">Prototype</span>
 				<ul>
@@ -82,7 +82,7 @@
 			</div>
 			<div class="columns large-4 medium-4 plan-block">
 				<div class="plan-icon-wrap center">
-					<img src="../img/mvp-icon.svg">
+					<img src="../img/icon-mvp.png">
 				</div>
 				<span class="all-caps center" style="color:#3155A5">MVP</span>
 				<ul>
@@ -96,7 +96,7 @@
 			</div>
 			<div class="columns large-4  medium-4 plan-block">
 				<div class="plan-icon-wrap center">
-					<img src="../img/large-scale-icon.svg">
+					<img src="../img/icon-large-scale.png">
 				</div>
 				<span class="all-caps center" style="color:#D68585">Large-scale</span>
 				<ul>
@@ -121,19 +121,19 @@
 			<div class="columns large-8 large-centered medium-10 medium-centered">
 				<div class="flex-box-row">
 			 	 	<div class="box center">
-			 	 		<img src="../img/icon-design.svg">
+			 	 		<img src="../img/icon-design.png">
 			 	 		<h6>Design</h6>
 			 	 		<p class="small">Wireframe, Mock Ups,
 						Hi-fidelity Prototype</p>
 					</div>
 			  		<div class="box center">
-			 	 		<img src="../img/icon-develop.svg">
+			 	 		<img src="../img/icon-dev.png">
 			 	 		<h6>Development</h6>
 			 	 		<p class="small">iOS, Android, Web (Python, 
 						Go, Ruby on Rails)</p>
 					</div>
 					<div class="box center">
-			 	 		<img src="../img/icon-analytic.svg">
+			 	 		<img src="../img/icon-analytic.png">
 			 	 		<h6>Analytics</h6>
 			 	 		<p class="small">AB Testing, Funnel Analysis,
 						Conversion Tracking</p>
