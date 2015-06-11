@@ -120,6 +120,14 @@
  		margin: 70px 0;
  	}
 
+
+ 	/* About */
+
+ 	#personnel .box {
+ 		max-width: 80px;
+ 		font-size: 13px;
+ 	}
+
  	/* Footer */
 
  	.footer-logo-wrap {
