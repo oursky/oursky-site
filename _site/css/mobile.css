@@ -57,9 +57,11 @@
 
 	.nav-work-block {
 		width: calc(50% - 10px);
-		font-size: 32px;
+		font-size: 18px;
 		margin-right: 10px;
 		float: left;
+		padding-top: 30px;
+		padding-bottom: 30px;
 	}
 
 
