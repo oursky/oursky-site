@@ -136,6 +136,14 @@
  		font-size: 13px;
  	}
 
+ 	#personnel .box p {
+ 		font-size:13px;
+ 	}
+
+ 	#personnel .box span.small {
+ 		font-size:11px;
+ 	}
+
 
  	/* Plan */
 
