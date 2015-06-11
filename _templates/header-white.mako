@@ -2,7 +2,7 @@
   
       <div class="row">
 
-        <div class="large-2 columns">
+         <div class="large-2 medium-4 small-5 columns">
           <a class="header-logo" href="${bf.util.site_path_helper('index.html')}">
           	<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="3 215.1 806 165" enable-background="new 3 215.1 806 165" xml:space="preserve">
 			<g>
@@ -17,7 +17,7 @@
           </a>
         </div>
 
-        <div class="large-4 columns alignRight">
+        <div class="large-4 medium-6 small-5 columns alignRight">
           <a href="#" class="btn-menu nav-toggle">
           	<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 			<path d="M0,1 L25,1 L25,3 L0,3 L0,1 Z M0,12 L25,12 L25,14 L0,14 L0,12 Z M0,23 L25,23 L25,25 L0,25 L0,23 Z" id="menu"></path>

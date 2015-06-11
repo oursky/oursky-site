@@ -61,7 +61,7 @@
   
       <div class="row">
 
-        <div class="large-2 columns">
+         <div class="large-2 medium-4 small-5 columns">
           <a class="header-logo" href="/index.html">
           	<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="3 215.1 806 165" enable-background="new 3 215.1 806 165" xml:space="preserve">
 			<g>
@@ -76,7 +76,7 @@
           </a>
         </div>
 
-        <div class="large-4 columns alignRight">
+        <div class="large-4 medium-6 small-5 columns alignRight">
           <a href="#" class="btn-menu nav-toggle">
           	<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 			<path d="M0,1 L25,1 L25,3 L0,3 L0,1 Z M0,12 L25,12 L25,14 L0,14 L0,12 Z M0,23 L25,23 L25,25 L0,25 L0,23 Z" id="menu"></path>
@@ -320,11 +320,40 @@
     
 	  <script src="/js/vendor/jquery.js"></script>
 	<script src="/js/foundation.min.js"></script>
+	<script src="/js/swiper.jquery.js"></script>
 	<script>
+
+		$.fn.exists = function(callback) {
+		  var args = [].slice.call(arguments, 1);
+
+		  if (this.length) {
+		    callback.call(this, args);
+		  }
+
+		  return this;
+		};
+
 		$('.nav-toggle').click(function(e) {
 		$('#main-nav').toggleClass("show");
 		e.preventDefault();
 		 });
+
+		$('.swiper-elem-plan').exists(function() {
+
+			$(document).ready(function () {
+			    	var Swiper1 = new Swiper ('.swiper-elem-plan', {
+			      direction: 'horizontal',
+			      loop: false,
+			        pagination: '.swiper-pagination-1',
+			        paginationClickable: true,
+			        initialSlide: 1
+			    })        
+
+			});
+
+		});
+
+
 	</script>
 	  
 
