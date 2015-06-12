@@ -97,6 +97,7 @@ a.btn:hover {
 a.btn.white {
   color:#fff;
   border-color:#fff;
+  border-color:rgba(255,255,255,0.4);
 }
 
 a.btn.white:hover {
@@ -107,6 +108,7 @@ a.btn.white:hover {
 
 a.btn-header {
   border-color: #fff;
+  border-color:rgba(255,255,255,0.4);
   color:#fff;
   padding: 10px 14px;
 
