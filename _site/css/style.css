@@ -142,6 +142,14 @@ a.btn:hover {
   transform: translateX(0px) translateY(-2px);
 }
 
+a.btn:active {
+  -moz-transform: translateX(0px) translateY(0px);
+  -webkit-transform: translateX(0px) translateY(0px);
+  -o-transform: translateX(0px) translateY(0px);
+  -ms-transform: translateX(0px) translateY(0px);
+  transform: translateX(0px) translateY(0px);
+}
+
 a.btn-grey {
   background: #eee;
   border-color: #c8c8c8;
