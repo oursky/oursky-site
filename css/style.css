@@ -588,6 +588,14 @@ a.tag-anchor:hover {
 
 /* --------- Contact --------- */
 
+#title-contact {
+  background-color: #3155A5;
+}
+
+#title-contact h1 {
+  color: #fff;
+}
+
 .contact-info {
   list-style: none;
 }

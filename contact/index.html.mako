@@ -1,7 +1,7 @@
 <%inherit file="../_templates/site.mako" />
 
 
-	<div id="title-about" class="heading-title heading-dark">
+	<div id="title-contact" class="heading-title heading-dark">
 
 		<div class="row">
 	    <div class="columns small-12 large-8 large-centered center">
