@@ -8,6 +8,11 @@ h1,h2,h3,h4,h5,h6,a,p,span,input {
   font-family: 'freight-sans-pro', sans-serif;
 }
 
+h6 {
+  font-weight: 600;
+  letter-spacing: 2px;
+}
+
 p {
   margin-bottom: 1.8em;
 }
@@ -227,6 +232,10 @@ header.header-white a.btn-menu svg {
   opacity: 0.8;
 }
 
+
+#main-nav h6 {
+  padding: 0;
+}
 
 .nav-block {
   margin-top: 40px;
@@ -458,33 +467,38 @@ a.tag-anchor:hover {
 /* ---------- About ---------- */
 
 #title-about {
-  background: #3155A5;
+  background-color: #3155A5;
   color:#fff;
-}
-
-
-#title-about h1 {
-  color: #fff;
-}
-
-#about-office {
-  height: 420px;
-  width: 100%;
-  background: url("../img/office.png") center;
-  background-size: auto 460px;
+  background-image: url("../img/hero-about.jpg");
   background-repeat: no-repeat;
-
+  height: 80%;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  position: relative;
+  padding: 0 50px;
+  max-height: 700px;
+  min-height: 500px;
 }
+
+
+ #title-about h2 {
+  color: #fff;
+  width: calc(100% - 100px);
+}
+
+#services .box {
+  max-width: 180px;
+}
+
+
 
 #personnel {
   padding-bottom: 200px;
 }
 
-#personnel h6 {
-  font-weight: 600;
-  padding: 40px;
-  letter-spacing: 2px;
-}
+
 
 #personnel .box {
   text-align: center;
@@ -771,6 +785,16 @@ input:focus:invalid {
 
 .center {
   text-align: center;
+}
+
+.v-center {
+  top:50%;
+  position: absolute;
+  transform: translate(0px, -50%);
+  -webkit-transform: translate(0px, -50%);
+  -moz-transform: translate(0px, -50%);
+  -o-transform: translate(0px, -50%);
+  -ms-transform: translate(0px, -50%);
 }
 
 .full-height {

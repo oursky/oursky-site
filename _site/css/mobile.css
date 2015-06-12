@@ -131,9 +131,24 @@
 
  	/* About */
 
+ 	#personnel .flex-box-row, #services .flex-box-row  {
+ 		-webkit-justify-content: space-around;
+        justify-content: space-around;
+        flex-direction:column;
+        -webkit-flex-direction:column;
+ 	}
+
+ 	#services .box {
+ 		padding-left: 20px;
+ 		padding-right: 20px;
+ 		min-width: 100%;
+ 	}
+
  	#personnel .box {
- 		max-width: 80px;
+ 		max-width: 130px;
  		font-size: 13px;
+ 		min-width: 100%;
+ 
  	}
 
  	#personnel .box p {
@@ -169,14 +184,25 @@
 		margin-bottom: 55px;
 	}
 
-	#ondemand .box {
-		max-width: 80px;
-	}
 
 	#ondemand .box .small {
-		font-size: 11px;
 		line-height: 14px;
 	}
+
+	#ondemand .flex-box-row  {
+ 		-webkit-justify-content: space-around;
+        justify-content: space-around;
+        flex-direction:column;
+        -webkit-flex-direction:column;
+ 	}
+
+ 	#ondemand .box {
+ 		padding-left: 20px;
+ 		padding-right: 20px;
+ 		min-width: 100%;
+ 	}
+
+ 	
 
 	/* Form */
 
@@ -248,5 +274,9 @@
 
  	}
 
+	#personnel .flex-box-row, #services .flex-box-row  {
+ 		-webkit-justify-content: space-around;
+        justify-content: space-around;
+ 	}
 
  } 

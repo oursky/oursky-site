@@ -94,6 +94,6 @@ $('.heading-dark').exists(function(){
 })
 
 
-$('#about-office').exists(function(){
+$('.parallax').exists(function(){
 	$(this).parallax("50%", -0.2);
 })
