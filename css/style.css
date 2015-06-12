@@ -683,6 +683,7 @@ input:focus:invalid {
 .textarea textarea {
   width: 100%;
   margin-bottom: 24px;
+  height: 120px;
   border: 1px solid #ccc;
 }
 
