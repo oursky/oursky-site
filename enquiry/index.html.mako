@@ -17,7 +17,7 @@
 					</p>
 					<p class="small center"> Fields with <span class="red">*</span> are required </p>
 
-					<form>
+					<form id="enquiry-form">
 						<div class="row">
 						    <div class="large-12 columns">
 							  <input type="text" placeholder="Contact Person" class="required" required />
@@ -43,15 +43,15 @@
 						<div class="row">
 							<div class="large-12 columns checklist spacer-small">
 							      <label>Which of the following services do you need? <span class="red">*</span></label><br>
-							      <input id="checkbox1" type="checkbox">
+							      <input id="checkbox1" type="checkbox" class="prototype">
 							      <label for="checkbox1">
 							     Develop a prototype or design mockup for my product idea.
 								  </label><br>
-								  <input id="checkbox2" type="checkbox">
+								  <input id="checkbox2" type="checkbox" class="mvp">
 							      <label for="checkbox2">
 							     Develop a MVP for my web / mobile product idea.
 								  </label><br>
-								  <input id="checkbox3" type="checkbox">
+								  <input id="checkbox3" type="checkbox" class="largescale">
 							      <label for="checkbox3">
 							     Consultation and analyse for my web / app’s conversions / retentions.
 								  </label><br>

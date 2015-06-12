@@ -26,7 +26,7 @@
 							<li>Suitable for presenting the idea to your potential investor / partners.</li>
 						</ul>
 						<p class="center all-caps budget"><strong>BUDGET</strong> ~HKD 100K<p>
-						<p class="center"><a href="${bf.util.site_path_helper('enquiry')}" class="btn">Get Started</a></p>
+						<p class="center"><a href="${bf.util.site_path_helper('enquiry')}?ref=prototype" class="btn">Get Started</a></p>
 						</div>
             </div>
             
@@ -42,7 +42,7 @@
 								<li>Validate the idea before expanding to other platforms.</li>
 							</ul>
 							<p class="center all-caps budget"><strong>BUDGET</strong> ~HKD 420K<p>
-							<p class="center"><a href="${bf.util.site_path_helper('enquiry')}" class="btn">Get Started</a></p>
+							<p class="center"><a href="${bf.util.site_path_helper('enquiry')}/?ref=mvp" class="btn">Get Started</a></p>
 						</div>
             </div>
 
@@ -56,7 +56,7 @@
 								<li>Suitable only if your idea needs to be launched on multiple platforms.</li>
 							</ul>
 							<p class="center all-caps budget"><strong>BUDGET</strong> ~HKD 810K<p>
-							<p class="center"><a href="${bf.util.site_path_helper('enquiry')}" class="btn">Get Started</a></p>
+							<p class="center"><a href="${bf.util.site_path_helper('enquiry')}/?ref=largescale" class="btn">Get Started</a></p>
 						</div>
             </div>
           
@@ -78,7 +78,7 @@
 					<li>Suitable for presenting the idea to your potential investor / partners.</li>
 				</ul>
 				<p class="center all-caps budget"><strong>BUDGET</strong> ~HKD 100K<p>
-				<p class="center"><a href="${bf.util.site_path_helper('enquiry')}" class="btn">Get Started</a></p>
+				<p class="center"><a href="${bf.util.site_path_helper('enquiry')}/?ref=prototype"  class="btn">Get Started</a></p>
 			</div>
 			<div class="columns large-4 medium-4 plan-block">
 				<div class="plan-icon-wrap center">
@@ -91,7 +91,7 @@
 					<li>Validate the idea before expanding to other platforms.</li>
 				</ul>
 				<p class="center all-caps budget"><strong>BUDGET</strong> ~HKD 420K<p>
-				<p class="center"><a href="${bf.util.site_path_helper('enquiry')}" class="btn">Get Started</a></p>
+				<p class="center"><a href="${bf.util.site_path_helper('enquiry')}/?ref=mvp" class="btn">Get Started</a></p>
 
 			</div>
 			<div class="columns large-4  medium-4 plan-block">
@@ -103,7 +103,7 @@
 					<li>Suitable only if your idea needs to be launched on multiple platforms.</li>
 				</ul>
 				<p class="center all-caps budget"><strong>BUDGET</strong> ~HKD 810K<p>
-				<p class="center"><a href="${bf.util.site_path_helper('enquiry')}" class="btn">Get Started</a></p>
+				<p class="center"><a href="${bf.util.site_path_helper('enquiry')}/?ref=largescale" class="btn">Get Started</a></p>
 
 			</div>
 		</div>
