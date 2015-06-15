@@ -61,7 +61,8 @@
 	<div class="row">
 	    <div class="columns small-12 medium-8 large-8 large-centered medium-centered center">
 			<h3 class="sub-tag">We build state of the arts products</h3>
-			<p class="paragraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in quam dignissim, rutrum tellus sed, aliquet nisi. </p>
+			<p class="paragraph">With a team of 35 talented developers, designers and project managers, we use latest technologies and best practices to create web &amp; mobile apps which got millions of downloads, and won multiple awards including 
+			Best of 2013 selected by Apple App Store and Hong Kong ICT Awards of the Year 2014. </p>
 		</div>
 	</div>
 	</section>
@@ -131,12 +132,13 @@
 		<div class="row">
 	    <div class="columns small-12 large-8 large-centered center">
 			<h3 class="sub-tag">Learn with MVP</h3>
-			<p class="paragraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in quam dignissim, rutrum tellus sed, aliquet nisi. Proin volutpat feugiat urna finibus sagittis. Sed odio purus, faucibus nec velit et, porta egestas eros. Donec nec volutpat augue, eget dignissim enim. Integer consequat suscipit justo eget cursus. </p>
-			<div class="spacer mvp-xo">
+			<p class="paragraph">Projects are often carried out from start to finish, from conceptualising and design to implementation to bug fixing, everything is done in a continuous flow. Only until after the project is done, will it then be launched to users. </p>
+			<div class="spacer-small mvp-xo">
 					<img data-interchange="[img/mvp-1-small.png, (small)], [img/mvp-1.png, (medium)],[img/mvp-1.png, (large)]" class="landing-product-pic">
 			<noscript><img src="img/mvp-1.png"></noscript>
 			</div>
-			<p class="paragraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in quam dignissim, rutrum tellus sed, aliquet nisi. Proin volutpat feugiat urna finibus sagittis. Sed odio purus, faucibus nec velit et, porta egestas eros. Donec nec volutpat augue, eget dignissim enim. Integer consequat suscipit justo eget cursus. </p>
+			<p class="paragraph">Here at Oursky, we break the project down into smaller chunks and aim for a Minimum Viable Product (MVP) that we can show our users ASAP in the development cycle. Understand your users sooner, less risk towards the end. 
+			</p>
 		</div>
 		</div>
 	</section>

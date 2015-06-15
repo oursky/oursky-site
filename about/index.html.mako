@@ -3,7 +3,12 @@
 
 	<div id="title-about" class="heading-title heading-dark center">
 
-			    	<h2 class="v-center">We work with clients to plan, design <br> and build digital products.</h2>
+			<div class="v-center">
+	    	<h2>We work with clients to plan, design <br> and build digital products.</h2>
+
+			<p class="paragraph spacer-small">We are a digital company proudly based in Hong Kong that focuses on app design and development. We also work with individuals and businesses of all sizes to develop creative online products and experiences.</p>
+
+			</div>
     
 
 	</div>
@@ -11,23 +16,31 @@
    
 
 	<section id="about-1">
-		<div class="row">
-	    <div class="columns small-12 large-8 large-centered center">
-	    	<h6 class="all-caps spacer-small">Digitize your idea</h6>
 
-			<p class="paragraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in quam dignissim, rutrum tellus sed, aliquet nisi. Proin volutpat feugiat urna finibus sagittis. Sed odio purus, faucibus nec velit et, porta egestas eros. Donec nec volutpat augue, eget dignissim enim. Integer consequat suscipit justo eget cursus. </p>
-			
-		</div>
+		<div class="spacer-small">
+			<div class="row ">
+		    <div class="columns small-12 large-4">
+		    	<h6 class="all-caps">We care about codes</h6>
+
+				<p>Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program, said Linus Torvalds. We love coding and we code beautifully.</p>
+				
+			</div>
+			  <div class="columns small-12 large-4">
+		    	<h6 class="all-caps">We believe in UX</h6>
+
+				<p>User experience is one of the most important aspects in an app, we take it seriously with solid research and metrics to find out what is best for users.</p>
+				
+			</div>
+			  <div class="columns small-12 large-4">
+		    	<h6 class="all-caps">We do Analytics</h6>
+
+				<p>Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program, said Linus Torvalds. We love coding and we code beautifully.</p>
+				
+			</div>
+			</div>
 		</div>
 
-		<div class="row">
-	    <div class="columns small-12 large-8 large-centered center">
-			<p class="paragraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in quam dignissim, rutrum tellus sed, aliquet nisi. Proin volutpat feugiat urna finibus sagittis. Sed odio purus, faucibus nec velit et, porta egestas eros. Donec nec volutpat augue, eget dignissim enim. Integer consequat suscipit justo eget cursus. </p>
-
-			<p class="spacer-small"><img src="../img/prizes.png" width="180"></p>
-			
-		</div>
-		</div>
+		
 	</section>
 
 	<section id="services">

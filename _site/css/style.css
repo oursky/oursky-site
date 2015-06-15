@@ -487,7 +487,7 @@ a.tag-anchor:hover {
   background-repeat: no-repeat;
   background-position: center center;
   position: relative;
-  padding: 0 50px;
+  padding: 0;
   max-height: 700px;
   min-height: 500px;
 }
@@ -495,7 +495,13 @@ a.tag-anchor:hover {
 
  #title-about h2 {
   color: #fff;
-  width: calc(100% - 100px);
+}
+
+#title-about .paragraph {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 
 #services .box {

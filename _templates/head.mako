@@ -1,4 +1,4 @@
-  <title>OURSKY</title>
+  <title>Oursky - Web &#38; mobile application development company based in Hong Kong</title>
      <meta charset="utf-8" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
