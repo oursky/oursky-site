@@ -143,6 +143,14 @@
 
  	/* About */
 
+ 	#title-about .title-about-wrap .paragraph {
+		  width: 100%
+	}
+
+	#title-about .title-about-wrap br {
+		display: none;
+	}
+
  	#personnel .flex-box-row, #services .flex-box-row  {
  		-webkit-justify-content: space-around;
         justify-content: space-around;
@@ -285,6 +293,10 @@
  		text-align: center;
 
  	}
+
+ 	#title-about .paragraph {
+	  width: 60%;
+	}
 
 	#personnel .flex-box-row, #services .flex-box-row  {
  		-webkit-justify-content: space-around;
