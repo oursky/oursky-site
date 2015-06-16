@@ -143,6 +143,10 @@
 
  	/* About */
 
+ 	#title-about {
+ 		background-attachment: scroll;
+ 	}
+
  	#title-about .title-about-wrap .paragraph {
 		  width: 100%
 	}
