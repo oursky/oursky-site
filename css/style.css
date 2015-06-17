@@ -318,6 +318,10 @@ a.nav-cta {
 
 .hero-img {
   background-attachment: fixed;
+  -webkit-transform: translateZ(0);
+  -webkit-backface-visibility: hidden;
+  -webkit-perspective: 1000; 
+
 }
 
 .hero-img-1 {
