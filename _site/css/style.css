@@ -15,6 +15,8 @@ h6 {
 
 p {
   margin-bottom: 1.8em;
+  font-size:18px;
+  line-height: 1.75em;
 }
 
 a {
@@ -23,6 +25,14 @@ a {
 
 a:hover, a:active {
   color:#444;
+}
+
+.section-head {
+  font-weight: 800;
+  font-size: 24px;
+  color: #444;
+  letter-spacing: 4px;
+  display:inline-block;
 }
 
 .sub-tag {
@@ -35,7 +45,7 @@ a:hover, a:active {
 
 .paragraph {
   text-align: center;
-  width: 80%;
+  max-width: 1020px;
   margin:0 auto 1.8em;
 }
 
@@ -804,6 +814,14 @@ input:focus:invalid {
 
 .alignRight {
   text-align: right;
+}
+
+.white-bg {
+  background: #fff;
+}
+
+.grey-bg {
+  background: #f3f3f3;
 }
 
 .clear {
