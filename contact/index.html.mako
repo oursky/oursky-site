@@ -17,7 +17,7 @@
 	<section class="spacer-small">
 		<div class="row">
 	    <div class="columns small-12 large-8 large-centered center">
-			<h4>Contact us via <a href="mailto:info@oursky.com">info@oursky.com</a></h4>
+			<h4>Contact us via <a href="mailto:info@oursky.com">hello@oursky.com</a></h4>
 			
 		</div>
 		</div>

@@ -18,6 +18,11 @@
         <path d="M84.5 253.8c24.6 0 44.9 20.1 44.9 44.9s-20.1 44.9-44.9 44.9c-24.6 0-44.9-20.1-44.9-44.9 S59.9 253.8 84.5 253.8 M84.5 216.9C39.5 216.9 3 253.5 3 298.7s36.5 81.5 81.5 81.5s81.5-36.5 81.5-81.5S129.7 216.9 84.5 216.9 L84.5 216.9z"/>
       </g>
       </svg>
+      <br>
+      <span class="footer-contact">_</span>
+      <br>
+      <span class="footer-contact">+852 2155 9299</span><br>
+      <span class="footer-contact"><a href="mailto:hello@oursky.com">hello@oursky.com</a></span>
       </div>
       <div class="columns large-5 medium-8 small-12">
         <ul class="footer-sitemap show-for-medium-up">

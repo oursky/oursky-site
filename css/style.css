@@ -737,7 +737,7 @@ input:focus:invalid {
 }
 
 #footer-logo {
-  fill:#e8e8e8;
+  fill:#ddd;
   width: 122px;
 }
 
@@ -776,6 +776,14 @@ input:focus:invalid {
   color:#d8d8d8;
   padding: 50px 0;
   display: inline-block;
+}
+
+.footer-contact {
+  color:#ddd;
+}
+
+.footer-contact a {
+  color: #ddd;
 }
 
 
