@@ -12,6 +12,9 @@ $.fn.exists = function(callback) {
 
 $('.nav-toggle').click(function(e) {
 	$('#main-nav').toggleClass("show");
+	$('.header-logo').toggleClass("bluelogo");
+	$('.btn-header').toggleClass("hide");
+	$('header').toggleClass("active");
 	e.preventDefault();
  });
 

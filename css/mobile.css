@@ -24,6 +24,10 @@
 
 	/* Navigation */
 
+	.header-logo {
+		padding-top: 5px;
+	}
+
 	#main-nav {
 		top:-100%;
 		height:100%;
@@ -32,8 +36,14 @@
 		opacity: 0;
 	}
 
+
 	#main-nav.show {
 		opacity: 1;
+	}
+
+	.main-nav-logo {
+		margin-top: 3px;
+		display: block;
 	}
 
 	.nav-top {
@@ -43,6 +53,10 @@
 		top:0;
 		padding: 25px 0 20px;
 		z-index: 10000;
+	}
+
+	.nav-block {
+		margin-top: 0;
 	}
 
 	a.btn-menu {
@@ -59,10 +73,6 @@
 	#main-nav ul li a {
 		font-size:24px;
 		line-height: 50px;
-	}
-
-	.nav-block {
-		margin-top: 20px;
 	}
 
 	.nav-work-block {

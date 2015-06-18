@@ -170,12 +170,12 @@ a.btn-grey {
 /* Header */
 
 header {
-  padding: 20px 0 20px;
+  padding: 20px 10px 20px;
   position: fixed;
   width: 100%;
   top:0;
   left:0;
-  z-index: 9999;
+  z-index: 10001;
   -webkit-transition: background-color 800ms ease, padding 800ms ease;
   -moz-transition: background-color 800ms ease, padding 800ms ease;
   -ms-transition: background-color 800ms ease, padding 800ms ease;
@@ -195,14 +195,36 @@ header {
   fill: #fff;
 }
 
+.header-logo.bluelogo svg {
+  fill:#3155A5;
+}
+
 header.add-bg {
   background: rgba(0,0,0,0.5);
-  padding: 10px 0 10px;
+  padding: 10px 10px 10px;
+}
+
+header.active, header.active.add-bg {
+  background: none;
+  padding: 20px 10px 20px;
 }
 
 header.header-white .header-logo svg,
 header.header-white a.btn-menu svg {
   fill:#3155A5;
+}
+
+header .close-icon {
+  display:none;
+  vertical-align: top;
+}
+
+header.active .menu-icon {
+  display: none;
+}
+
+header.active .close-icon {
+  display: inline-block;
 }
 
 /* -- Main Nav -- */
@@ -802,6 +824,10 @@ input:focus:invalid {
 .swiper-pagination-bullet-active {
   background: #3155a5;
   border: 1px solid #fff;
+}
+
+.wf-active a.hide, .wf-active .hide, a.hide, .hide {
+  visibility: hidden;
 }
 
 .spacer {

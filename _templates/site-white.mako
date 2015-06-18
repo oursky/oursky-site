@@ -31,8 +31,11 @@ ${self.head()}
 		};
 
 		$('.nav-toggle').click(function(e) {
-		$('#main-nav').toggleClass("show");
-		e.preventDefault();
+			$('#main-nav').toggleClass("show");
+			$('.header-logo').toggleClass("bluelogo");
+			$('.btn-header').toggleClass("hide");
+			$('header').toggleClass("active");
+			e.preventDefault();
 		 });
 
 		$('.swiper-elem-plan').exists(function() {
