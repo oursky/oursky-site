@@ -33,11 +33,12 @@ ${self.head()}
 		$('.nav-toggle').click(function(e) {
 			$('#main-nav').toggleClass("show");
 			$('.header-logo').toggleClass("bluelogo");
-			$('.btn-header').toggleClass("hide");
 			$('header').toggleClass("active");
+			$('.menu-toggle-switch-x').toggleClass("active");
 			e.preventDefault();
 		 });
 
+		
 		$('.swiper-elem-plan').exists(function() {
 
 			$(document).ready(function () {

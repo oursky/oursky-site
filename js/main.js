@@ -15,6 +15,7 @@ $('.nav-toggle').click(function(e) {
 	$('.header-logo').toggleClass("bluelogo");
 	$('.btn-header').toggleClass("hide");
 	$('header').toggleClass("active");
+	$('.menu-toggle-switch-x').toggleClass("active");
 	e.preventDefault();
  });
 
