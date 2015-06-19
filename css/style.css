@@ -49,6 +49,14 @@ a:hover, a:active {
   margin:0 auto 1.8em;
 }
 
+.column-paragraph {
+  text-align: center;
+  margin-left: 2em;
+  margin-right: 2em;
+  font-size: 14px;
+  margin-bottom: 50px;
+}
+
 strong {
   font-weight: 400;
 }
