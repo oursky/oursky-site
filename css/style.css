@@ -1068,3 +1068,20 @@ input:focus:invalid {
   color: #fff;
 }
 
+/* Bindle */
+
+#title-bindle {
+   background: url("../img/hero-bindle.png") center center no-repeat #1abb9c;
+  background-size: 320px;
+  padding: 180px 0;
+}
+
+#title-bindle h1{
+  color: #fff;
+}
+
+.bindle-color, h1.bindle-color, h2.bindle-color, h3.bindle-color {
+  color:#1abb9c;
+}
+
+
