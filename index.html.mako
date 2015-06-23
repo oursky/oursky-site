@@ -88,7 +88,7 @@
             <div class="swiper-slide">
             			<div class="index-bindle">
 							<h2>Bindle aims to bring you the best way of group messaging - no unwanted noise, no participant limit, no phone number required. You can search a chat hashtag and talk with people that share an interest. </p>
-							<p><a href="#" class="btn all-caps white">Read more</a></p>
+							<p><a href="${bf.util.site_path_helper('bindle')}" class="btn all-caps white">Read more</a></p>
 					
 							<img src="img/product-bindle.png">
 						</div>
@@ -132,7 +132,7 @@
 		<div class="columns large-6 large-push-6 medium-6 medium-push-6">
 			<h2>Bindle</h2>
 			<p>Bindle aims to bring you the best way of group messaging - no unwanted noise, no participant limit, no phone number required. You can search a chat hashtag and talk with people that share an interest. </p>
-			<p><a href="#" class="btn all-caps white">Read more</a></p>
+			<p><a href="${bf.util.site_path_helper('bindle')}" class="btn all-caps white">Read more</a></p>
 		</div>
 		<div class="columns large-6 large-pull-6 medium-6 medium-pull-6 center">
 			<img data-interchange="[img/product-bindle.png, (small)], [img/product-bindle-medium.png, (medium)],[img/product-bindle.png, (large)]" class="landing-product-pic">
