@@ -12,7 +12,8 @@
 
 	</div>
 
-   <section class="contents">
+   <section class="contents product-page">
+
 	<div class="row">
 	    <div class="columns small-12 large-8 large-centered center">
 			<h3 class="sub-tag">Re-imagines your music collection</h3>
@@ -32,6 +33,18 @@
 
 		</div>
 	</div>
+
+	<div class="row">
+		  <div class="columns small-6 large-4 large-offset-2 medium-6 center results">
+		  	<h1 class="blue">7M+</h1>
+		  	<p>Downloads in six months</p>
+		  </div>
+		  <div class="columns small-6 large-4 medium-6 center results end">
+		  	<h1><img src="../img/apple-logo.svg"></h1>
+		  	<p>Featured on Apple App Store</p>
+		  </div>
+	</div>
+
 	</section>
 
 	

@@ -94,6 +94,14 @@ strong {
   color: red;
 }
 
+.grey, h1.grey {
+  color: #e7e7e7;
+}
+
+.blue, h1.blue {
+  color: #3155A5;
+}
+
 
 /* Buttons */
 
@@ -1054,6 +1062,19 @@ input:focus:invalid {
 
 
 /* ----- PRODUCT PAGES ------- */
+
+.product-page img {
+  max-width: 500px;
+  width: 100%;
+}
+
+.results h1 {
+  line-height: 82px;
+}
+
+.results img {
+  height: 80px;
+}
 
 
 /* Jamn Player */
