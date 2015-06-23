@@ -169,20 +169,31 @@
 
 			<div class="columns large-6 medium-6">
 
-				<p class="bold">kasjdfh lakfjasdlf al skdfjasd f?<br>
-				<span class="small normal">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in quam dignissim, rutrum tellus sed, aliquet nisi. Proin volutpat feugiat urna finibus sagittis. Sed odio purus, faucibus nec velit et, porta egestas eros. Donec nec volutpat augue, eget dignissim enim. Integer consequat suscipit justo eget cursus. </span></p>
+				<p class="bold">Is it possible to start if I just got an idea and nothing else?<br>
+				<span class="normal annotate">Sure, you can decide between whether you want to create an MVP or just a design to illustrate the idea first. Talk with us if you are not sure.</span></p>
 
-				<p class="bold">kasjdfh lakfjasdlf al skdfjasd f?<br>
-				<span class="small normal">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in quam dignissim, rutrum tellus sed, aliquet nisi. Proin volutpat feugiat urna finibus sagittis. Sed odio purus, faucibus nec velit et, porta egestas eros. Donec nec volutpat augue, eget dignissim enim. Integer consequat suscipit justo eget cursus. </span></p>
+			</div>
+			<div class="columns large-6 medium-6">
+
+				<p class="bold">I have a prototype / design already, where shall I start with?<br>
+				<span class="normal annotate">You can start with an MVP. We will help you to re-define the scope and launch an MVP in 3 months. </span></p>
 
 			</div>
 
-			<div class="columns large-6 medium-6">
-				<p class="bold">kasjdfh lakfjasdlf al skdfjasd f?<br>
-				<span class="small normal">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in quam dignissim, rutrum tellus sed, aliquet nisi. Proin volutpat feugiat urna finibus sagittis. Sed odio purus, faucibus nec velit et, porta egestas eros. Donec nec volutpat augue, eget dignissim enim. Integer consequat suscipit justo eget cursus. </span></p>
+		</div>
 
-				<p class="bold">kasjdfh lakfjasdlf al skdfjasd f?<br>
-				<span class="small normal">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in quam dignissim, rutrum tellus sed, aliquet nisi. Proin volutpat feugiat urna finibus sagittis. Sed odio purus, faucibus nec velit et, porta egestas eros. Donec nec volutpat augue, eget dignissim enim. Integer consequat suscipit justo eget cursus. </span></p>
+		<div class="row faq-block">
+
+			<div class="columns large-6 medium-6">
+
+				<p class="bold">How can I proceed if I have an existing app and need help on enhancements?<br>
+				<span class="normal annotate">We can start with a small project on studying your existing code base and define the scope of future work with 1 iteration.</span></p>
+
+				</div>
+			<div class="columns large-6 medium-6">
+
+				<p class="bold">Do you have any post-launch services for my product?<br>
+				<span class="normal annotate">We can arrange a retainer contract for maintenance and ongoing updates for your product. We are happy to offer other services like scalability, optimisation ,hiring advice and user-testing as well. </span></p>
 			</div>
 
 		</div>

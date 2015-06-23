@@ -66,6 +66,12 @@ strong {
   font-size: 12px;
 }
 
+.annotate {
+  font-size: 14px;
+  line-height: 24px;
+  display: inline-block;
+}
+
 .bold {
   font-weight: 600;
 }
