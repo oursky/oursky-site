@@ -49,7 +49,7 @@
 		<div class="columns small-12 large-6  end">
 			<ul class="contact-info">
 				<li class="location"><a href="https://www.google.com/maps/place/Section+4,+Nanjing+E+Rd,+Songshan+District,+Taipei+City,+Taiwan+105/@25.051581,121.5536775,17z/data=!3m1!4b1!4m2!3m1!1s0x3442abe99338805f:0x7db3347d083b8250" target="_blank">7F-4, No. 56, Section 4, Nanjing E Rd,  Songshan District, Taipei City, Taiwan 105</a></li>
-				<li class="tel">+852 2155 9299 (Office)  +852 3020 0215 (Fax)
+				<li class="tel">+886 02-25791893 (Office)
 				</li>
 			</ul>
 

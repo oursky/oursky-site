@@ -61,7 +61,7 @@
 	<div class="row">
 	    <div class="columns small-12 medium-8 large-8 large-centered medium-centered center">
 			<h3 class="sub-tag">We build state of the art products </h3>
-			<p class="paragraph">With a team of 35 unparalleled developers, designers and project managers, we use cutting-edge technologies and best practices to create web &amp; mobile apps which got millions of downloads, and won multiple awards including Best of 2013 selected by Apple App Store and Hong Kong ICT Awards of the Year 2014.
+			<p class="paragraph">With a team of 35 talented developers and designers, we use cutting-edge technologies and best practices to create web &amp; mobile apps which got millions of downloads, and won multiple awards including Best of 2013 selected by Apple App Store and Hong Kong ICT Awards of the Year 2014.
 			</p>
 		</div>
 	</div>

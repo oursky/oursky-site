@@ -24,8 +24,8 @@
 						<ul>
 							<li>Design and visualize the main use case with a interactive mockup or demo app.</li>
 							<li>Suitable for presenting the idea to your potential investor / partners.</li>
+                            <li>Deliverable: Clickable Mockup Design</li>
 						</ul>
-						<p class="center all-caps budget"><strong>BUDGET</strong> ~HKD 100K<p>
 						<p class="center"><a href="${bf.util.site_path_helper('enquiry')}?ref=prototype" class="btn">Get Started</a></p>
 						</div>
             </div>
@@ -38,10 +38,9 @@
 							<span class="all-caps center" style="color:#3155A5">MVP</span>
 							<ul>
 								<li>Digitize your core product idea into one platform first.</li>
-								<li>Get out to market quickly with the least budget.</li>
-								<li>Validate the idea before expanding to other platforms.</li>
+								<li>Push an app to test the market and validate the idea quickly.</li>
+								<li>Deliverable: A quick prototype app on iOS / Android / Web build with tools such as parse.com</li>
 							</ul>
-							<p class="center all-caps budget"><strong>BUDGET</strong> ~HKD 420K<p>
 							<p class="center"><a href="${bf.util.site_path_helper('enquiry')}/?ref=mvp" class="btn">Get Started</a></p>
 						</div>
             </div>
@@ -54,8 +53,8 @@
 							<span class="all-caps center" style="color:#D68585">Large-scale</span>
 							<ul>
 								<li>Suitable only if your idea needs to be launched on multiple platforms.</li>
+                                <li>Continuous development from MVP for improvement and scalability.</li>
 							</ul>
-							<p class="center all-caps budget"><strong>BUDGET</strong> ~HKD 810K<p>
 							<p class="center"><a href="${bf.util.site_path_helper('enquiry')}/?ref=largescale" class="btn">Get Started</a></p>
 						</div>
             </div>
@@ -74,10 +73,10 @@
 				</div>
 				<span class="all-caps center" style="color:#9CDCDB">Prototype</span>
 				<ul>
-					<li>Design and visualize the main use case with a interactive mockup or demo app.</li>
-					<li>Suitable for presenting the idea to your potential investor / partners.</li>
+                    <li>Design and visualize the main use case with a interactive mockup or demo app.</li>
+                    <li>Suitable for presenting the idea to your potential investor / partners.</li>
+                    <li>Deliverable: Clickable Mockup Design</li>
 				</ul>
-				<p class="center all-caps budget"><strong>BUDGET</strong> ~HKD 100K<p>
 				<p class="center"><a href="${bf.util.site_path_helper('enquiry')}/?ref=prototype"  class="btn">Get Started</a></p>
 			</div>
 			<div class="columns large-4 medium-4 plan-block">
@@ -86,11 +85,10 @@
 				</div>
 				<span class="all-caps center" style="color:#3155A5">MVP</span>
 				<ul>
-					<li>Digitize your core product idea into one platform first.</li>
-					<li>Get out to market quickly with the least budget.</li>
-					<li>Validate the idea before expanding to other platforms.</li>
+                    <li>Digitize your core product idea into one platform first.</li>
+                    <li>Push an app to test the market and validate the idea quickly.</li>
+                    <li>Deliverable: A quick prototype app on iOS / Android / Web build with tools such as parse.com</li>
 				</ul>
-				<p class="center all-caps budget"><strong>BUDGET</strong> ~HKD 420K<p>
 				<p class="center"><a href="${bf.util.site_path_helper('enquiry')}/?ref=mvp" class="btn">Get Started</a></p>
 
 			</div>
@@ -100,9 +98,9 @@
 				</div>
 				<span class="all-caps center" style="color:#D68585">Large-scale</span>
 				<ul>
-					<li>Suitable only if your idea needs to be launched on multiple platforms.</li>
+                    <li>Suitable only if your idea needs to be launched on multiple platforms.</li>
+                    <li>Continuous development from MVP for improvement and scalability.</li>
 				</ul>
-				<p class="center all-caps budget"><strong>BUDGET</strong> ~HKD 810K<p>
 				<p class="center"><a href="${bf.util.site_path_helper('enquiry')}/?ref=largescale" class="btn">Get Started</a></p>
 
 			</div>

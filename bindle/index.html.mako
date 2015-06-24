@@ -37,8 +37,8 @@
 	<div class="row">
 
 		  <div class="columns small-12 large-4  medium-4 center results">
-		  	<h1 class="grey">7K+</h1>
-		  	<p>Daily active users</p>
+		  	<h1 class="grey">2K</h1>
+		  	<p>Users in largest chat room</p>
 		  </div>
 		 
 		  <div class="columns small-12 large-4  medium-4 center results">

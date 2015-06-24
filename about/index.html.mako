@@ -36,7 +36,7 @@
 			  <div class="columns small-12 medium-4 large-4 center">
 		    	<h6 class="all-caps">We do Analytics</h6>
 
-				<p class="column-paragraph">Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program, said Linus Torvalds. We love coding and we code beautifully.</p>
+				<p class="column-paragraph">We use a data-driven approach to help determine what product features shall we work on, which design works better to convert users, and make decision.</p>
 				
 			</div>
 			</div>
