@@ -100,16 +100,16 @@
 
 		  <div class="columns small-12 large-4  medium-4 center results">
 		  	<h1 class="blue">35+</h1>
-		  	<p>people</p>
+		  	<p>People</p>
 		  </div>
 		 
 		  <div class="columns small-12 large-4  medium-4 center results">
 		  	<h1 class="blue">20+</h1>
-		  	<p>developers and QA engineers</p>
+		  	<p>Developers and QA Engineers</p>
 		  </div>
 		   <div class="columns small-12 large-4 medium-4 center results end">
 		  	<h1 class="blue">2</h1>
-		  	<p>cats</p>
+		  	<p>Cats</p>
 		  </div>
 	</div>
 
