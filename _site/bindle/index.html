@@ -282,9 +282,20 @@
 <script src="/js/swiper.jquery.js"></script>
 <script src="/js/jquery.scrollTo.min.js"></script>
 <script src="/js/main.js"></script>
+<script src="/js/skrollr.min.js"></script>
+<script type="text/javascript">
+var s =  skrollr.init({
+	forceHeight: false
+});
+$( window ).resize(function() {
+  s.refresh();
+});
+</script>
 <script>
       $(document).foundation();
 </script>
+
+
 
   
 
