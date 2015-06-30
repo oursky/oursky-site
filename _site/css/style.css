@@ -39,7 +39,7 @@ a:hover, a:active {
   font-size: 36px;
   color:#3155A5;
   letter-spacing: 2px;
-  font-weight: 600;
+  font-weight: 200;
   margin-bottom: 0.7em;
 }
 
@@ -610,6 +610,8 @@ a.tag-anchor:hover {
  background-size: cover;
  color: #fff;
  padding: 50px 0 0;
+ overflow: hidden;
+ max-height: 500px;
 }
 
 .index-jamn h2 {
@@ -622,6 +624,8 @@ a.tag-anchor:hover {
   background: #33BD9D;
   color: #fff;
   padding: 50px 0 0;
+  overflow: hidden;
+ max-height: 500px;
 }
 
 .index-bindle h2 {
