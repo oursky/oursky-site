@@ -479,7 +479,7 @@ header.header-white .menu-toggle-switch-x span::after{
   -webkit-transform: translateZ(0);
   -webkit-backface-visibility: hidden;
   -webkit-perspective: 1000; 
-  transition: 0.1s ease;
+  transition: 0s ease;
   transition-property: background-position;
 }
 
