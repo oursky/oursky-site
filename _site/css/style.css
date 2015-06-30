@@ -96,6 +96,10 @@ strong {
   font-size: 52px;
 }
 
+.white {
+  color: white;
+}
+
 .red {
   color: red;
 }
@@ -722,6 +726,12 @@ a.tag-anchor:hover {
 
 }
 
+#team {
+  padding: 150px 0;
+  background: url("../img/team.jpg") center center;
+  background-size: cover;
+  margin-bottom: 100px;
+}
 
 /* --------- Plans ----------- */
 
