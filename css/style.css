@@ -43,6 +43,14 @@ a:hover, a:active {
   margin-bottom: 0.7em;
 }
 
+.sub-tag-large {
+  font-size: 62px;
+  color:#3155A5;
+  letter-spacing: 2px;
+  font-weight: 200;
+  margin-bottom: 0.7em;
+}
+
 .paragraph {
   text-align: center;
   max-width: 1020px;
