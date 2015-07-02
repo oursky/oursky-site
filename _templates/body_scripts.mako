@@ -16,9 +16,14 @@
 
 <script type="text/javascript">
 	setTimeout(function () {
-	var s = skrollr.init({
-	forceHeight: false
-	});
+	
+      var s = skrollr.init({
+        forceHeight: false,
+      });
+      if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+        skrollr.init().destroy();
+      }
+      
 }, 100);
 
 $(window).resize(function() {
