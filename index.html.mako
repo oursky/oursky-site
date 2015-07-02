@@ -11,7 +11,7 @@
       <div class="row full-height">
         <div class="columns large-12 full-height">
 	        	<div class="aligner hero-img-icon-1">
-		          <h1 class="tag">We build better <strong>Apps</strong></h1>
+		          <h1 class="tag">We develop better <strong>Apps</strong></h1>
 		     </div>
         </div>
       </div>
@@ -32,7 +32,7 @@
       <div class="row full-height">
         <div class="columns large-12 full-height">
 	        	<div class="aligner hero-img-icon-3">
-		          <h1 class="tag">We build better <strong>Codes</strong></h1>
+		          <h1 class="tag">We write better <strong>Codes</strong></h1>
 		     </div>
         </div>
       </div>
@@ -64,8 +64,8 @@
 	    	<div class="spacer" data-bottom-top="transform:translate3d(0px, 200px, 0px)" data-top="transform:translate3d(0px, -100px, 0px)">
 		    	
 
-				<h3 class="sub-tag">We build state of the art products </h3>
-				<p class="paragraph">With a team of 35 talented developers and designers, we use cutting-edge technologies and best practices to create web &amp; mobile apps which got millions of downloads, and won multiple awards including Best of 2013 selected by Apple App Store and Hong Kong ICT Awards of the Year 2014.
+				<h3 class="sub-tag">We craft state of the art applications</h3>
+				<p class="paragraph">We are a team of 35 talented Hong Kong app developers and designers. With cutting-edge technologies and best practices, we develop web &amp; mobile apps which got millions of downloads, and won multiple awards including Best of 2013 selected by Apple App Store and Hong Kong ICT Awards of the Year 2014.
 				</p>
 
 				<p>
@@ -121,7 +121,6 @@
             <div class="swiper-slide">
             			<div class="index-jamn">
 						<h2>Jamn Player</h2>
-						<p>Jamn PLAYER is a revolutionary app that reimagines your music collection. It analyses every song in your music library so you can play along with your instrument while listening.
 						 </p>
 						<p><a href="${bf.util.site_path_helper('jamn')}" class="btn all-caps white">Read more</a></p>
 					
@@ -131,7 +130,6 @@
             <div class="swiper-slide">
             			<div class="index-bindle">
 							<h2>Bindle</h2>
-							<p>Bindle aims to bring you the best way of group messaging - no unwanted noise, no participant limit, no phone number required. You can search a chat hashtag and talk with people that share an interest. </p>
 							<p><a href="${bf.util.site_path_helper('bindle')}" class="btn all-caps white">Read more</a></p>
 					
 							<img src="img/product-bindle.png">
@@ -159,7 +157,7 @@
 	<div class="row">
 		<div class="columns large-6 medium-6">
 			<h2>Jamn Player</h2>
-			<p>Jamn PLAYER is a revolutionary app that reimagines your music collection. It analyses every song in your music library so you can play along with your instrument while listening. </p>
+			<p>Jamn PLAYER is a revolutionary iOS app that reimagines your music collection. It analyses every song in your music library so you can play along with your instrument while listening.
 			<p><a href="${bf.util.site_path_helper('jamn')}" class="btn all-caps white">Read more</a></p>
 		</div>
 		<div class="columns large-6 medium-6 center">
@@ -175,7 +173,7 @@
 	<div class="row">
 		<div class="columns large-6 large-push-6 medium-6 medium-push-6">
 			<h2>Bindle</h2>
-			<p>Bindle aims to bring you the best way of group messaging - no unwanted noise, no participant limit, no phone number required. You can search a chat hashtag and talk with people that share an interest. </p>
+			<p>Bindle aims to bring you the best way of group messaging on Android, iPhone and iPad - no unwanted noise, no participant limit, no phone number required. You can search a chat hashtag and talk with people that share an interest. </p>
 			<p><a href="${bf.util.site_path_helper('bindle')}" class="btn all-caps white">Read more</a></p>
 		</div>
 		<div class="columns large-6 large-pull-6 medium-6 medium-pull-6 center">

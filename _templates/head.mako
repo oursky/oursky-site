@@ -3,18 +3,18 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
       <meta name="author" content="Oursky Limited">
-      <meta name="keywords" content="content management systems,iphone,android,ios,it solutions,python,ruby on rails,web applications,web design,wordpress">
+      <meta name="keywords" content="app development, mobile application, iphone app developer, develop app, content management systems, python, ruby on rails, web applications, web design, wordpress">
       <meta property="og:title" content="Oursky Limited">
       <meta property="og:type" content="company">
       <meta property="og:url" content="http://oursky.com/">
       <meta property="og:image" content="${bf.util.site_path_helper('img/logo-square.png')}">
       <meta property="og:site_name" content="Oursky Limited">
-      <meta property="og:description" content="Oursky is a software development company. We provide web &#38; mobile application development and consulting services, with a specialization in social network technologies.">
+      <meta property="og:description" content="Oursky develop state of the art web &#38; mobile applications for startups and corporates which got millions of downloads and featured by Apple App Store frequently.">
       <meta name="twitter:card" content="summary">
       <meta name="twitter:url" content="http://oursky.com/">
       <meta name="twitter:title" content="Oursky Limited">
       <meta name="twitter:image" content="${bf.util.site_path_helper('img/logo-square.png')}">
-      <meta name="twitter:description" content="Oursky is a software development company. We provide web &#38; mobile application development and consulting services, with a specialization in social network technologies.">
+      <meta name="twitter:description" content=""Oursky develop state of the art web &#38; mobile applications for startups and corporates which got millions of downloads and featured by Apple App Store frequently.">
 
   <link rel="shortcut icon" href="${bf.util.site_path_helper('favicon.ico')}">
   <link rel="apple-touch-icon"

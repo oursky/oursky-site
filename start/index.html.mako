@@ -6,7 +6,7 @@
 		<div class="row">
 	    <div class="columns small-12 large-8 medium-8 large-centered medium-centered center">
 	    	<h1>Start up your idea.</h1>
-	    	<p class="paragraph">Oursky offers flexible iteration packages to help you turn your idea into a usable product from scratch.</p>
+	    	<p class="paragraph">We're like the CTO of your startups, and are the most experienced in town to execute it well.</p>
 	    </div>
 		</div>
 
