@@ -7,16 +7,23 @@
 <script src="${bf.util.site_path_helper('js/jquery.scrollTo.min.js')}"></script>
 <script src="${bf.util.site_path_helper('js/main.js')}"></script>
 <script src="${bf.util.site_path_helper('js/skrollr.min.js')}"></script>
-<script type="text/javascript">
-var s =  skrollr.init({
-	forceHeight: false
-});
-$( window ).resize(function() {
-  s.refresh();
-});
-</script>
+
 <script>
       $(document).foundation();
 </script>
 
 
+
+<script type="text/javascript">
+	setTimeout(function () {
+	var s = skrollr.init({
+	forceHeight: false
+	});
+}, 100);
+
+$(window).resize(function() {
+setTimeout(function () {
+  s.refresh();
+}, 0);
+});
+</script>

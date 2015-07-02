@@ -1,7 +1,8 @@
 /* TYPO */
 
-body {
+body,html {
   font-family: 'freight-sans-pro', sans-serif;
+  height: 100% !important ;
 
 }
 
