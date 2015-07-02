@@ -90,17 +90,19 @@
 	.tag-line h1 {
  		font-size: 38px;
  	}
- 	.hero-img-1 {
+
+ 	div.tag-line.hero-img-1 {
+	  background-size: auto 800px;
+	  background-position: center center;
+	  background-image: url("../img/hero-1-mobile.png");
+	}
+
+	div.tag-line.hero-img-2 {
 	  background-size: auto 800px;
 	  background-position: center;
 	}
 
-	.hero-img-2 {
-	  background-size: auto 800px;
-	  background-position: center;
-	}
-
-	.hero-img-3 {
+	div.tag-line.hero-img-3 {
 	  background-size: auto 800px;
 	  background-position: center;
 	}
@@ -110,7 +112,7 @@
  	}
 
  	.hero-img-icon-2 {
- 		background-size: 300px;
+ 		background-size: 260px;
  	}
 
  	.hero-img-icon-3 {
