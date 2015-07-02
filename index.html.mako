@@ -71,31 +71,31 @@
 				<p>
 
 					<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-						 viewBox="0 0 121 113.7" enable-background="new 0 0 121 113.7" xml:space="preserve" data-center-top="transform:translate3d(0px, 0px, 0px);opacity:1" data--20-bottom="transform:translate3d(10px, 0px, 0px);opacity:1" data-bottom="transform:translate3d(800px, 0px, 0px);opacity:0" data-220-top="transform:translate3d(-800px, 0px, 0px);opacity:0" width="19%">
+						 viewBox="0 0 121 113.7" enable-background="new 0 0 121 113.7" xml:space="preserve" data-center-top="transform:translate3d(0px, 0px, 0px);opacity:1" data--20-bottom="transform:translate3d(10px, 0px, 0px);opacity:1" data-bottom="transform:translate3d(800px, 0px, 0px);opacity:0"  width="19%">
 					<polygon id="XMLID_1_" style="fill:none;stroke:#d8d8d8;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:600;stroke-dashoffset:0" data--20-bottom="stroke-dashoffset:0;" data-bottom="stroke-dashoffset:600;" points="60.5,13.4 71.7,46 
 						106.2,46.6 78.6,67.3 88.7,100.3 60.5,80.4 32.3,100.3 42.4,67.3 14.8,46.6 49.3,46"/>
 					</svg>
 
 					<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-						 viewBox="0 0 121 113.7" enable-background="new 0 0 121 113.7" xml:space="preserve" data-center-top="transform:translate3d(0px, 0px, 0px);opacity:1" data--70-bottom="transform:translate3d(10px, 0px, 0px);opacity:1" data-bottom="transform:translate3d(800px, 0px, 0px);opacity:0" width="19%" data-180-top="transform:translate3d(-800px, 0px, 0px);opacity:0">
+						 viewBox="0 0 121 113.7" enable-background="new 0 0 121 113.7" xml:space="preserve" data-center-top="transform:translate3d(0px, 0px, 0px);opacity:1" data--70-bottom="transform:translate3d(10px, 0px, 0px);opacity:1" data-bottom="transform:translate3d(800px, 0px, 0px);opacity:0" width="19%" >
 					<polygon id="XMLID_1_" style="fill:none;stroke:#d8d8d8;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:600;stroke-dashoffset:0" data--70-bottom="stroke-dashoffset:0;" data-bottom="stroke-dashoffset:600;" points="60.5,13.4 71.7,46 
 						106.2,46.6 78.6,67.3 88.7,100.3 60.5,80.4 32.3,100.3 42.4,67.3 14.8,46.6 49.3,46"/>
 					</svg>
 
 					<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-						 viewBox="0 0 121 113.7" enable-background="new 0 0 121 113.7" xml:space="preserve" data-center-top="transform:translate3d(0px, 0px, 0px);opacity:1" data--120-bottom="transform:translate3d(10px, 0px, 0px);opacity:1" data-bottom="transform:translate3d(800px, 0px, 0px);opacity:0" data-120-top="transform:translate3d(-800px, 0px, 0px);opacity:0" width="19%">
+						 viewBox="0 0 121 113.7" enable-background="new 0 0 121 113.7" xml:space="preserve" data-center-top="transform:translate3d(0px, 0px, 0px);opacity:1" data--120-bottom="transform:translate3d(10px, 0px, 0px);opacity:1" data-bottom="transform:translate3d(800px, 0px, 0px);opacity:0"  width="19%">
 					<polygon id="XMLID_1_" style="fill:none;stroke:#d8d8d8;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:600;stroke-dashoffset:0" data--120-bottom="stroke-dashoffset:0;" data-bottom="stroke-dashoffset:600;" points="60.5,13.4 71.7,46 
 						106.2,46.6 78.6,67.3 88.7,100.3 60.5,80.4 32.3,100.3 42.4,67.3 14.8,46.6 49.3,46"/>
 					</svg>
 
 					<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-						 viewBox="0 0 121 113.7" enable-background="new 0 0 121 113.7" xml:space="preserve" data-center-top="transform:translate3d(0px, 0px, 0px);opacity:1" data--180-bottom="transform:translate3d(10px, 0px, 0px);opacity:1" data-bottom="transform:translate3d(800px, 0px, 0px);opacity:0" data-70-top="transform:translate3d(-800px, 0px, 0px);opacity:0" width="19%">
+						 viewBox="0 0 121 113.7" enable-background="new 0 0 121 113.7" xml:space="preserve" data-center-top="transform:translate3d(0px, 0px, 0px);opacity:1" data--180-bottom="transform:translate3d(10px, 0px, 0px);opacity:1" data-bottom="transform:translate3d(800px, 0px, 0px);opacity:0"  width="19%">
 					<polygon id="XMLID_1_" style="fill:none;stroke:#d8d8d8;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:600;stroke-dashoffset:0" data--180-bottom="stroke-dashoffset:0;" data-bottom="stroke-dashoffset:600;" points="60.5,13.4 71.7,46 
 						106.2,46.6 78.6,67.3 88.7,100.3 60.5,80.4 32.3,100.3 42.4,67.3 14.8,46.6 49.3,46"/>
 					</svg>
 
 					<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-						 viewBox="0 0 121 113.7" enable-background="new 0 0 121 113.7" xml:space="preserve" data-center-top="transform:translate3d(0px, 0px, 0px);opacity:1" data--220-bottom="transform:translate3d(10px, 0px, 0px);opacity:1" data-bottom="transform:translate3d(800px, 0px, 0px);opacity:0" data-20-top="transform:translate3d(-800px, 0px, 0px);opacity:0" width="19%">
+						 viewBox="0 0 121 113.7" enable-background="new 0 0 121 113.7" xml:space="preserve" data-center-top="transform:translate3d(0px, 0px, 0px);opacity:1" data--220-bottom="transform:translate3d(10px, 0px, 0px);opacity:1" data-bottom="transform:translate3d(800px, 0px, 0px);opacity:0" width="19%">
 					<polygon id="XMLID_1_" style="fill:none;stroke:#d8d8d8;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:600;stroke-dashoffset:0" data--220-bottom="stroke-dashoffset:0;" data-bottom="stroke-dashoffset:600;" points="60.5,13.4 71.7,46 
 						106.2,46.6 78.6,67.3 88.7,100.3 60.5,80.4 32.3,100.3 42.4,67.3 14.8,46.6 49.3,46"/>
 					</svg>
