@@ -10,14 +10,13 @@ ${self.head()}
    
       ${self.header()}
 
-      <div id="skrollr-body">
+      
        
       ${next.body()}
 
           
       ${self.footer()}
 
-	  </div>
     
     ${self.body_scripts()}
   
