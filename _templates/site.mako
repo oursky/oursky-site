@@ -9,11 +9,15 @@ ${self.head()}
   <body>
    
       ${self.header()}
+
+      <div id="skrollr-body">
        
       ${next.body()}
 
           
       ${self.footer()}
+
+	  </div>
     
     ${self.body_scripts()}
   

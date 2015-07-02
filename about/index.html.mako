@@ -88,31 +88,34 @@
 
 	</section>
 
-	<section id="personnel" class="spacer-small">
+	<section>
 		<div class="row">
 			<div class="columns small-12 medium-8 large-8 large-centered medium-centered center">
 				<h6 class="all-caps spacer-small">Our team</h6>
-				<p> Oursky has 35+ talented staffs, with experienced Project Managers, Developers, QA Engineers, Designers, Growth Hackers and Project Consultants specialized in creating digital products with state of the art quality and great experiences </p>
+				<p> Oursky has 35+ talented staffs, including experienced Project Managers, Developers, QA Engineers, Designers, Growth Hackers and Project Consultants. </p>
 			</div>
 		</div>
 
+	</section>
+
+	<section id="team">
 		<div class="row">
 
 		  <div class="columns small-12 large-4  medium-4 center results">
-		  	<h1 class="blue">35+</h1>
-		  	<p>People</p>
+		  	<h1 class="white">35+</h1>
+		  	<p class="white">People</p>
 		  </div>
 		 
 		  <div class="columns small-12 large-4  medium-4 center results">
-		  	<h1 class="blue">20+</h1>
-		  	<p>Developers and QA Engineers</p>
+		  	<h1 class="white">20+</h1>
+		  	<p class="white">Developers and QA Engineers</p>
 		  </div>
 		   <div class="columns small-12 large-4 medium-4 center results end">
-		  	<h1 class="blue">2</h1>
-		  	<p>Cats</p>
+		  	<h1 class="white">2</h1>
+		  	<p class="white">Cats</p>
 		  </div>
-	</div>
 
-	
+		</div>
+
 	</section>
 

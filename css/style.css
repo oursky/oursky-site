@@ -39,7 +39,15 @@ a:hover, a:active {
   font-size: 36px;
   color:#3155A5;
   letter-spacing: 2px;
-  font-weight: 600;
+  font-weight: 200;
+  margin-bottom: 0.7em;
+}
+
+.sub-tag-large {
+  font-size: 62px;
+  color:#3155A5;
+  letter-spacing: 2px;
+  font-weight: 200;
   margin-bottom: 0.7em;
 }
 
@@ -94,6 +102,10 @@ strong {
 
 .heading-title h1 {
   font-size: 52px;
+}
+
+.white {
+  color: white;
 }
 
 .red {
@@ -474,11 +486,13 @@ header.header-white .menu-toggle-switch-x span::after{
 /* Tag line */
 
 .hero-img {
+
   background-attachment: fixed;
   -webkit-transform: translateZ(0);
   -webkit-backface-visibility: hidden;
   -webkit-perspective: 1000; 
-
+  transition: 0s ease;
+  transition-property: background-position;
 }
 
 .hero-img-1 {
@@ -524,7 +538,7 @@ header.header-white .menu-toggle-switch-x span::after{
 }
 
 .tag-line-wrap {
-  background-color: #000;
+   background-color: #363636;
   height:100%;
 }
 
@@ -604,6 +618,8 @@ a.tag-anchor:hover {
  background-size: cover;
  color: #fff;
  padding: 50px 0 0;
+ overflow: hidden;
+ max-height: 500px;
 }
 
 .index-jamn h2 {
@@ -616,6 +632,8 @@ a.tag-anchor:hover {
   background: #33BD9D;
   color: #fff;
   padding: 50px 0 0;
+  overflow: hidden;
+ max-height: 500px;
 }
 
 .index-bindle h2 {
@@ -642,6 +660,10 @@ a.tag-anchor:hover {
 
 .mvp-graph img {
   height:400px;
+}
+
+#chart {
+  background-color: #fafafa;
 }
 
 
@@ -716,6 +738,12 @@ a.tag-anchor:hover {
 
 }
 
+#team {
+  padding: 150px 0;
+  background: url("../img/team.jpg") center center;
+  background-size: cover;
+  margin-bottom: 100px;
+}
 
 /* --------- Plans ----------- */
 
@@ -1064,6 +1092,10 @@ input:focus:invalid {
 .wf-active h1, .wf-active h2, .wf-active h3, .wf-active h4, .wf-active h5, 
 .wf-active h6, .wf-active p, .wf-active a, .wf-active span, .wf-active ul {
  visibility: visible;
+}
+
+#skrollr-body {
+  height: 100%;
 }
 
 
