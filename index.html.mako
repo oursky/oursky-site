@@ -224,28 +224,28 @@
 			<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 514 672" enable-background="new 0 0 514 672" xml:space="preserve" style="width:100%;max-width:500px;">
 					<g id="XMLID_17_" data-center="transform:translate3d(0px, 0px, 0px)" data-200-bottom="transform:translate3d(0px, 50px, 0px)">
 						<circle id="XMLID_1_" fill="none" style="fill:none;stroke:#ff8f4c;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2000;stroke-dashoffset:0"  cx="103.3" cy="119.7" r="74.6"/>
-						<path id="XMLID_8_" style="fill:none;stroke:#ff8f4c;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6000;stroke-dashoffset:0" data-center-top="stroke-dashoffset:6000;" data-end="stroke-dashoffset:0;" d="M127.8,81.4
+						<path id="XMLID_8_" style="fill:none;stroke:#ff8f4c;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1000;stroke-dashoffset:0" data-center-top="stroke-dashoffset:1000;" data-end="stroke-dashoffset:0;" d="M127.8,81.4
 							c-13.6-13.5-35.6-13.5-49.1,0s-13.5,35.6,0,49.1c1.8,1.8,3.7,3.3,5.6,4.6v14.6h37.8v-14.6c2-1.3,3.9-2.8,5.7-4.6
 							C141.4,116.9,141.4,95,127.8,81.4z"/>
 						
-							<line id="XMLID_4_" style="fill:none;stroke:#ff8f4c;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6000;stroke-dashoffset:0" data-center-top="stroke-dashoffset:6000;" data-end="stroke-dashoffset:0;" x1="89.1" y1="157.3" x2="117.5" y2="157.3"/>
+							<line id="XMLID_4_" style="fill:none;stroke:#ff8f4c;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1000;stroke-dashoffset:0" data-center-top="stroke-dashoffset:1000;" data-end="stroke-dashoffset:0;" x1="89.1" y1="157.3" x2="117.5" y2="157.3"/>
 						
-							<line id="XMLID_6_" style="fill:none;stroke:#ff8f4c;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6000;stroke-dashoffset:0" data-center-top="stroke-dashoffset:6000;" data-end="stroke-dashoffset:0;" x1="89.1" y1="164.9" x2="117.5" y2="164.9"/>
+							<line id="XMLID_6_" style="fill:none;stroke:#ff8f4c;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1000;stroke-dashoffset:0" data-center-top="stroke-dashoffset:1000;" data-end="stroke-dashoffset:0;" x1="89.1" y1="164.9" x2="117.5" y2="164.9"/>
 						
-							<line id="XMLID_7_" style="fill:none;stroke:#ff8f4c;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6000;stroke-dashoffset:0" data-center-top="stroke-dashoffset:6000;" data-end="stroke-dashoffset:0;" x1="95.3" y1="173.4" x2="111.3" y2="173.4"/>
+							<line id="XMLID_7_" style="fill:none;stroke:#ff8f4c;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3000;stroke-dashoffset:0" data-center-top="stroke-dashoffset:3000;" data-end="stroke-dashoffset:0;" x1="95.3" y1="173.4" x2="111.3" y2="173.4"/>
 					</g>
 					<g id="XMLID_13_" data-center="transform:translate3d(0px, 0px, 0px)" data-200-bottom="transform:translate3d(0px, 50px, 0px)">
 						<circle id="XMLID_3_" style="fill:none;stroke:#55cebd;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1500;stroke-dashoffset:0" cx="412.1" cy="119.7" r="74.6"/>
-						<polygon id="XMLID_2_" style="fill:none;stroke:#55cebd;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6000;stroke-dashoffset:0" data-center-top="stroke-dashoffset:6000;" data-end="stroke-dashoffset:0;" points="400.8,149.7 378.1,153.4 
+						<polygon id="XMLID_2_" style="fill:none;stroke:#55cebd;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1000;stroke-dashoffset:0" data-center-top="stroke-dashoffset:1000;" data-end="stroke-dashoffset:0;" points="400.8,149.7 378.1,153.4 
 							381.8,130.7 434.6,77.9 453.6,96.8 	"/>
 						
-							<line id="XMLID_9_" style="fill:none;stroke:#55cebd;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6000;stroke-dashoffset:0" data-center-top="stroke-dashoffset:6000;" data-end="stroke-dashoffset:0;" x1="392.9" y1="129.7" x2="432.6" y2="89.9"/>
+							<line id="XMLID_9_" style="fill:none;stroke:#55cebd;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1000;stroke-dashoffset:0" data-center-top="stroke-dashoffset:1000;" data-end="stroke-dashoffset:0;" x1="392.9" y1="129.7" x2="432.6" y2="89.9"/>
 					</g>
 					<g id="XMLID_16_" data-center="transform:translate3d(0px, 0px, 0px)" data--200-bottom="transform:translate3d(0px, 50px, 0px)">
 						<circle id="XMLID_10_" style="fill:none;stroke:#4d70e0;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1400;stroke-dashoffset:0" cx="262.6" cy="372" r="74.6"/>
 						
-							<line id="XMLID_12_" style="fill:none;stroke:#4d70e0;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6000;stroke-dashoffset:0" data--300-bottom="stroke-dashoffset:6000;" data-end="stroke-dashoffset:0;" x1="227.4" y1="403.6" x2="254.2" y2="376.8"/>
-						<path id="XMLID_11_" style="fill:none;stroke:#4d70e0;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6000;stroke-dashoffset:0" data--300-bottom="stroke-dashoffset:6000;" data-end="stroke-dashoffset:0;" d="M309.5,339.8L294,355.2l-13.2-1.6
+							<line id="XMLID_12_" style="fill:none;stroke:#4d70e0;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2000;stroke-dashoffset:0" data--300-bottom="stroke-dashoffset:2000;" data-end="stroke-dashoffset:0;" x1="227.4" y1="403.6" x2="254.2" y2="376.8"/>
+						<path id="XMLID_11_" style="fill:none;stroke:#4d70e0;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2000;stroke-dashoffset:0" data--300-bottom="stroke-dashoffset:2000;" data-end="stroke-dashoffset:0;" d="M309.5,339.8L294,355.2l-13.2-1.6
 							l-1.4-13l15.5-15.5c-10.7-4.9-23.7-2.9-32.5,5.9c-8.7,8.7-10.7,21.6-6,32.3l-39.2,39.2l14.7,14.7l39.2-39.2
 							c10.7,4.7,23.6,2.7,32.3-6C312.2,363.3,314.2,350.4,309.5,339.8z"/>
 					</g>
@@ -308,11 +308,11 @@
 							c0.4,0.1,0.8,0.3,1.1,0.6c0.3,0.2,0.5,0.5,0.7,0.9C299.5,470.2,299.5,470.6,299.5,471z M297.5,471.1c0-0.8-0.5-1.2-1.6-1.2h-0.8
 							v2.5l0.8,0c0.5,0,0.9-0.1,1.2-0.3S297.5,471.5,297.5,471.1z"/>
 					</g>
-					<path id="XMLID_19_"  style="fill:none;stroke:#333333;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6000;stroke-dashoffset:0" data-center-top="stroke-dashoffset:6000;" data-end="stroke-dashoffset:0;" d="M196.4,41.3
+					<path id="XMLID_19_"  style="fill:none;stroke:#333333;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1000;stroke-dashoffset:0" data-center-top="stroke-dashoffset:1000;" data-end="stroke-dashoffset:0;" d="M196.4,41.3
 						c20-9.1,42.2-14.2,65.6-14.2c21.7,0,42.4,4.4,61.3,12.3L316,23.4" />
-					<path id="XMLID_21_" style="fill:none;stroke:#333333;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6000;stroke-dashoffset:0" data-center-bottom="stroke-dashoffset:6000;" data-end="stroke-dashoffset:0;" d="M164.5,371.7
+					<path id="XMLID_21_" style="fill:none;stroke:#333333;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1000;stroke-dashoffset:0" data-center-bottom="stroke-dashoffset:1000;" data-end="stroke-dashoffset:0;" d="M164.5,371.7
 						c-19.7-9.7-37.6-23.7-52.4-41.8c-13.7-16.8-23.4-35.6-29.2-55.2L75,290.5"/>
-					<path id="XMLID_20_" style="fill:none;stroke:#333333;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6000;stroke-dashoffset:0" data-center-top="stroke-dashoffset:6000;" data-end="stroke-dashoffset:0;" d="M438.7,270.2
+					<path id="XMLID_20_" style="fill:none;stroke:#333333;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1000;stroke-dashoffset:0" data-center-top="stroke-dashoffset:1000;" data-end="stroke-dashoffset:0;" d="M438.7,270.2
 						c-5.5,21.2-15.6,41.7-30.3,59.8c-13.7,16.9-30.1,30.2-48.1,39.8l17.1,4.5"/>
 					<g id="XMLID_87_" data-bottom-top="transform:translate3d(0px, 50px, 0px)" data-center="transform:translate3d(0px, 0px, 0px)">
 					<polyline id="XMLID_18_" style="fill:none;stroke:#333333;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:100;stroke-dashoffset:0" data-200-top="stroke-dashoffset:0;" data--100-bottom="stroke-dashoffset:100;" points="259.6,509.6 259.6,590 
