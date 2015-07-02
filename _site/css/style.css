@@ -2,6 +2,7 @@
 
 body {
   font-family: 'freight-sans-pro', sans-serif;
+
 }
 
 h1,h2,h3,h4,h5,h6,a,p,span,input {
@@ -609,6 +610,12 @@ a.tag-anchor:hover {
 #latest-blog a {
   color: #fff;
   font-size: 20px;
+}
+
+/* index: Product */
+
+#products {
+    overflow-x: hidden;
 }
 
 /* index: Jamn Player */
