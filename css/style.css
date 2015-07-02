@@ -497,18 +497,18 @@ header.header-white .menu-toggle-switch-x span::after{
 }
 
 .hero-img-1 {
-  background: url("../img/hero-1.png") center no-repeat;
+  background: url("../img/hero-1.png") center no-repeat fixed;
   background-size: auto 110%;
   background-color: #232323;
 }
 
 .hero-img-2 {
-  background: url("../img/hero-2.png") center no-repeat;
+  background: url("../img/hero-2.png") center bottom no-repeat fixed;
   background-size: auto 110%;
 }
 
 .hero-img-3 {
-  background: url("../img/hero-3.png") center no-repeat;
+  background: url("../img/hero-3.png") center bottom no-repeat fixed;
   background-size: auto 110%;
 }
 
