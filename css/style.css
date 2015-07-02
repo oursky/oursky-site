@@ -212,6 +212,10 @@ header {
   padding-top: 10px;
 }
 
+.header-logo svg {
+  height: 25px;
+}
+
 .header-logo path {
   width: 122px;
   fill: rgba(255,255,255,1);
@@ -674,6 +678,11 @@ a.tag-anchor:hover {
   background-color: #fafafa;
 }
 
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) { 
+   #chart svg {
+    min-height: 500px;
+   }
+}
 
 /* ---------- About ---------- */
 
