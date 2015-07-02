@@ -38,7 +38,7 @@ $('#tag-line-wrap').exists(function() {
 	        $('header')[func]('add-bg');
 	    });
 
-	$('.hero-img').parallax("50%", -0.2);
+	$('.hero-img').parallax("50%", 0.2);
 
 
 	$(window).bind('scroll', function(){

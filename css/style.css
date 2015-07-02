@@ -1,7 +1,9 @@
 /* TYPO */
 
-body {
+body,html {
   font-family: 'freight-sans-pro', sans-serif;
+  height: 100% !important ;
+
 }
 
 h1,h2,h3,h4,h5,h6,a,p,span,input {
@@ -496,18 +498,18 @@ header.header-white .menu-toggle-switch-x span::after{
 }
 
 .hero-img-1 {
-  background: url("../img/hero-1.png") center no-repeat;
+  background: url("../img/hero-1.png") center no-repeat fixed;
   background-size: auto 110%;
   background-color: #232323;
 }
 
 .hero-img-2 {
-  background: url("../img/hero-2.png") center no-repeat;
+  background: url("../img/hero-2.png") center bottom no-repeat fixed;
   background-size: auto 110%;
 }
 
 .hero-img-3 {
-  background: url("../img/hero-3.png") center no-repeat;
+  background: url("../img/hero-3.png") center bottom no-repeat fixed;
   background-size: auto 110%;
 }
 
@@ -609,6 +611,12 @@ a.tag-anchor:hover {
 #latest-blog a {
   color: #fff;
   font-size: 20px;
+}
+
+/* index: Product */
+
+#products {
+    overflow-x: hidden;
 }
 
 /* index: Jamn Player */
