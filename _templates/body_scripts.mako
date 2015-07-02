@@ -24,7 +24,7 @@
         skrollr.init().destroy();
       }
       
-}, 100);
+}, 300);
 
 $(window).resize(function() {
 setTimeout(function () {
