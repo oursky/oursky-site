@@ -103,6 +103,16 @@
  		background-size: 170px;
  	}
 
+ 	div.index-jamn {
+ 		width: 100%;
+ 		padding-bottom: 50px;
+ 	}
+
+ 	div.index-bindle {
+ 		width: 100%;
+ 		padding-bottom: 50px;
+ 	}
+
  	#mvp-img {
  		overflow: scroll;
  		-webkit-overflow-scrolling: touch;
@@ -153,6 +163,8 @@
  		height: 450px;
  		margin: 70px 0;
  	}
+
+
 
 
  	/* About */
