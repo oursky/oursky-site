@@ -5,21 +5,19 @@ $(document).ready(function(){
 		});
 		$('#file').on('change',function(){
 			var filename = this.value;
-	    var lastIndex = filename.lastIndexOf("\\");
-	    if (lastIndex >= 0) {
-	        filename = filename.substring(lastIndex + 1);
-	    }
-	    $('#filename').html(filename);
+		    var lastIndex = filename.lastIndexOf("\\");
+		    if (lastIndex >= 0)
+		        filename = filename.substring(lastIndex + 1);
+	    	$('#filename').html(filename);
 		});
 		 $('.submitForm').on('click', function(){
 		 	var checkedAtLeastOne = false;
 			$('input[type="checkbox"]').each(function() {
-			    if ($(this).is(":checked")) {
+			    if ($(this).is(":checked")) 
 			        checkedAtLeastOne = true;
-			    }
 			});
 			if(!checkedAtLeastOne)
-				$('#checkbox6').prop("checked",true);
+				$('#checkbox1').prop("checked",true);
 			$('#submit').click();
 			ga('send', 'event', {
 			    eventCategory: 'Enquiry',

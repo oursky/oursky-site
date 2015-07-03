@@ -24,12 +24,12 @@
               </div>
             </div>
             <div class="row">
-                <div class="large-12 columns">
-                <input type="email" placeholder="Email" class="required" value="" name="email" id="email" required />
-              </div>
+              <div class="large-12 columns">
+              	<input type="email" placeholder="Email" class="required" value="" name="email" id="email" required />
+            	</div>
             </div>
             <div class="row">
-                <div class="large-12 columns">
+              <div class="large-12 columns">
                 <input type="text" placeholder="Phone" value="" name="phone" id="phone"/>
               </div>
             </div>
@@ -46,27 +46,27 @@
                     <label>Which of the following services do you need? <span class="red">*</span></label><br>
                     <input id="checkbox1" type="checkbox" class="prototype" name="services" value="Develop a prototype or design mockup for my product idea." id="services">
                     <label for="checkbox1">
-                   Develop a prototype or design mockup for my product idea.
+                   	Develop a prototype or design mockup for my product idea.
                   </label><br>
                   <input id="checkbox2" type="checkbox" class="mvp" name="services" value="Develop a MVP for my web / mobile product idea." class="checkbox">
                     <label for="checkbox2">
-                   Develop a MVP for my web / mobile product idea.
+                   	Develop a MVP for my web / mobile product idea.
                   </label><br>
                   <input id="checkbox3" type="checkbox" class="largescale" name="services" value="Continuous development and improvement" >
                     <label for="checkbox3">
-                   Consultation and analyse for my web / app’s conversions / retentions.
+                   	Consultation and analyse for my web / app’s conversions / retentions.
                   </label><br>
                   <input id="checkbox4" type="checkbox" name="services" value="Wireframe and UI Mockup Design Services">
                     <label for="checkbox4">
-                   Web / iOS / Android Development Services
+                   	Web / iOS / Android Development Services
                   </label><br>
                   <input id="checkbox5" type="checkbox" name="services" value="Usability Test Consultation" >
                     <label for="checkbox5">
-                   User Experiece Design
+                   	User Experiece Design
                   </label><br>
                   <input id="checkbox6" type="checkbox" name="services" value="Other Services">
-                    <label for="checkbox6">
-                   Other Services
+                  <label for="checkbox6">
+                  	 Other Services
                   </label><br>  
               </div>
             </div>
