@@ -164,22 +164,38 @@
 		</div>
 
 		<div class="row faq-block">
-
 			<div class="columns large-6 medium-6">
-
-				<p class="bold">Is it possible to start if I just got an idea and nothing else?<br>
-				<span class="normal annotate">Sure, you can decide between whether you want to create an MVP or just a design to illustrate the idea first. Talk with us if you are not sure.</span></p>
-
+				<p class="bold">How shall I start if I just got an idea?<br>
+				<span class="normal annotate">Talk with our consultant and we will help visualize your idea into a wireframe. The wireframe can then be used to make a mockup design and further develop into an MVP app.</span></p>
 			</div>
 			<div class="columns large-6 medium-6">
-
-				<p class="bold">I have a prototype / design already, where shall I start with?<br>
-				<span class="normal annotate">You can start with an MVP. We will help you to re-define the scope and launch an MVP in 3 months. </span></p>
-
+				<p class="bold">I have a prototype / design already, What's next?<br>
+				<span class="normal annotate">That's great! We can help polish the design a bit and refine the scope to launch a MVP within 3 months.</span></p>
 			</div>
-
 		</div>
 
+
+		<div class="row faq-block">
+			<div class="columns large-6 medium-6">
+				<p class="bold">What technologies are your team familiar with?<br>
+				<span class="normal annotate">Our team are most familiar with native iOS and Android coding, Angular / React-Flux on web frontend, Python / Go and Ruby on Rails on backend, and Docker for deployment over Amazon Web Services or Softlayer. We've also got experience on various Content Management System and Cloud Deployment System, send us an enquiry for details.</span></p>
+			</div>
+			<div class="columns large-6 medium-6">
+				<p class="bold">Can you work with our internal technical team?<br>
+				<span class="normal annotate">Sure, we can share the github code repository and issue trackers with your technical team; Or define the API and work together on backend / frontend seperately.</span></p>
+			</div>
+		</div>
+
+		<div class="row faq-block">
+			<div class="columns large-6 medium-6">
+				<p class="bold">Why develop on single platform first?<br>
+				<span class="normal annotate">Most apps make changes after launch for product market fits / business model / user feedback; So focus on single platform (Web / iOS / Android) first, and port it to other platforms once the app is more mature, is cheaper.</span></p>
+			</div>
+			<div class="columns large-6 medium-6">
+				<p class="bold">What is Oursky tech process?<br>
+				<span class="normal annotate">We use github with travis for code repo and continuous integrations; Every commits / pull request are peer reviewed to ensure quality, and our Project Manager hold daily standup with bi-weekly sprint. Our QA engineers design smoke test and full test suites for regular testing too.</span></p>
+			</div>
+		</div>
 		<div class="row faq-block">
 
 			<div class="columns large-6 medium-6">
