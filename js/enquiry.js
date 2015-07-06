@@ -11,11 +11,6 @@ $(document).ready(function(){
 	    	$('#filename').html(filename);
 		});
 		 $('.submitForm').on('click', function(){
-		 	var checkedAtLeastOne = false;
-			$('input[type="checkbox"]').each(function() {
-			    if ($(this).is(":checked")) 
-			        checkedAtLeastOne = true;
-			});
 			if(!checkedAtLeastOne)
 				$('#checkbox1').prop("checked",true);
 			$('#submit').click();
