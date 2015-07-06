@@ -4,7 +4,7 @@
 	<div class="heading-title">
 
 		<div class="row">
-	    <div class="columns small-12 large-8 medium-8 large-centered medium-centered center">
+	    <div class="columns small-12 large-9 medium-9 large-centered medium-centered center">
 	    	<h1>Start up your idea.</h1>
 	    	<p class="paragraph">We're like the CTO of your startups, and are the most experienced in town to execute it well.</p>
 	    </div>
