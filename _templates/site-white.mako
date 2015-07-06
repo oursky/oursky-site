@@ -15,9 +15,10 @@ ${self.head()}
           
       ${self.footer()}
     
-	  <script src="${bf.util.site_path_helper('js/vendor/jquery.js')}"></script>
+	<script src="${bf.util.site_path_helper('js/vendor/jquery.js')}"></script>
 	<script src="${bf.util.site_path_helper('js/foundation.min.js')}"></script>
 	<script src="${bf.util.site_path_helper('js/swiper.jquery.js')}"></script>
+	<script src="${bf.util.site_path_helper('js/enquiry.js')}"></script>
 	<script>
 
 		$.fn.exists = function(callback) {
