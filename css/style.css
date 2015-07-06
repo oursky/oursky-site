@@ -155,7 +155,12 @@ a.btn-header {
   border-color:rgba(255,255,255,0.4);
   color:#fff;
   padding: 10px 14px;
-
+  opacity: 1;
+  -webkit-transition: opacity 1600ms ease;
+  -moz-transition: opacity 1600ms ease;
+  -ms-transition: opacity 1600ms ease;
+  -o-transition: opacity 1600ms ease;
+  transition: opacity 1600ms ease;
 }
 
 
@@ -1006,6 +1011,7 @@ input:focus:invalid {
 
 .wf-active a.hide, .wf-active .hide, a.hide, .hide {
   visibility: hidden;
+  opacity: 0;
 }
 
 .spacer {
