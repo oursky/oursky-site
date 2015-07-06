@@ -36,7 +36,7 @@
 			  <div class="columns small-12 medium-4 large-4 center">
 		    	<h6 class="all-caps">We do Analytics</h6>
 
-				<p class="column-paragraph">We use a data-driven approach to help determine what product features shall we work on, which design works better to convert users, and make decision.</p>
+				<p class="column-paragraph">We use a data-driven approach to help determine what product features we shall work on, which design works better to convert users, and make decision.</p>
 				
 			</div>
 			</div>
@@ -92,7 +92,7 @@
 		<div class="row">
 			<div class="columns small-12 medium-8 large-8 large-centered medium-centered center">
 				<h6 class="all-caps spacer-small">Our team</h6>
-				<p> Oursky has 35 talented staffs, including experienced Project Managers, Developers, QA Engineers, Designers, Growth Hackers and Project Consultants. </p>
+				<p> Oursky has 35 talented staff, including experienced Project Managers, Developers, QA Engineers, Designers, Growth Hackers and Project Consultants. </p>
 			</div>
 		</div>
 

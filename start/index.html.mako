@@ -22,7 +22,7 @@
 						</div>
 						<span class="all-caps center" style="color:#9CDCDB">Prototype</span>
 						<ul>
-							<li>Design and visualize the main use case with a interactive mockup or demo app.</li>
+							<li>Design and visualize the main use case with an interactive mockup or demo app.</li>
 							<li>Suitable for presenting the idea to your potential investor / partners.</li>
                             <li>Deliverable: Clickable Mockup Design</li>
 						</ul>
@@ -73,7 +73,7 @@
 				</div>
 				<span class="all-caps center" style="color:#9CDCDB">Prototype</span>
 				<ul>
-                    <li>Design and visualize the main use case with a interactive mockup or demo app.</li>
+                    <li>Design and visualize the main use case with an interactive mockup or demo app.</li>
                     <li>Suitable for presenting the idea to your potential investor / partners.</li>
                     <li>Deliverable: Clickable Mockup Design</li>
 				</ul>
@@ -113,7 +113,7 @@
 	<section id="ondemand">
 		<div class="row">
 			<div class="columns large-6 medium-6 large-centered medium-centered spacer-small">
-				<h4 class="center">We also provide on demand services.</h4>
+				<h4 class="center">We also provide on-demand services.</h4>
 			</div>
 		</div>
 
@@ -170,7 +170,7 @@
 			</div>
 			<div class="columns large-6 medium-6">
 				<p class="bold">I have a prototype / design already, What's next?<br>
-				<span class="normal annotate">That's great! We can help polish the design a bit and refine the scope to launch a MVP within 3 months.</span></p>
+				<span class="normal annotate">That's great! We can help polish the design a bit and refine the scope to launch an MVP within 3 months.</span></p>
 			</div>
 		</div>
 
@@ -182,18 +182,18 @@
 			</div>
 			<div class="columns large-6 medium-6">
 				<p class="bold">Can you work with our internal technical team?<br>
-				<span class="normal annotate">Sure, we can share the github code repository and issue trackers with your technical team; Or define the API and work together on backend / frontend seperately.</span></p>
+				<span class="normal annotate">Sure, we can share the github code repository and issue trackers with your technical team; Or define the API and work together on backend / frontend separately.</span></p>
 			</div>
 		</div>
 
 		<div class="row faq-block">
 			<div class="columns large-6 medium-6">
 				<p class="bold">Why develop on single platform first?<br>
-				<span class="normal annotate">Most apps make changes after launch for product market fits / business model / user feedback; So focus on single platform (Web / iOS / Android) first, and port it to other platforms once the app is more mature, is cheaper.</span></p>
+				<span class="normal annotate">Most apps make changes after launching for product market fits / business model / user feedback; So focus on single platform (Web / iOS / Android) first, and port it to other platforms once the app is more mature, is cheaper.</span></p>
 			</div>
 			<div class="columns large-6 medium-6">
 				<p class="bold">What is Oursky tech process?<br>
-				<span class="normal annotate">We use github with travis for code repo and continuous integrations; Every commits / pull request are peer reviewed to ensure quality, and our Project Manager hold daily standup with bi-weekly sprint. Our QA engineers design smoke test and full test suites for regular testing too.</span></p>
+				<span class="normal annotate">We use github with travis for code repo and continuous integrations; Every commit / pull request is peer reviewed to ensure quality, and our Project Managers hold daily standup with bi-weekly sprint. Our QA engineers design smoke test and full test suites for regular testing too.</span></p>
 			</div>
 		</div>
 		<div class="row faq-block">

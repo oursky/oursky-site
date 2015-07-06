@@ -206,7 +206,7 @@
 					<img data-interchange="[img/mvp-1-small.png, (small)], [img/mvp-1.png, (medium)],[img/mvp-1.png, (large)]" class="landing-product-pic">
 			<noscript><img src="img/mvp-1.png"></noscript>
 			</div>
-			<p>Compared with the traditional way, you would not need to wait until the big project is done to preview and test. The MVP approach enables you to validate your idea and know your users fast, making sure the product delivered is usable and with great experience.
+			<p>Compared with the traditional way, you would not need to wait until the big project is done to preview and test. The MVP approach enables you to validate your idea and know your users fast, making sure that the product delivered is usable and with great experience.
 			</p>
 		</div>
 
