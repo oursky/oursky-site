@@ -618,7 +618,7 @@ a.tag-anchor:hover {
 /* index: Product */
 
 #products {
-    overflow-x: hidden;
+    overflow: hidden;
 }
 
 /* index: Jamn Player */
