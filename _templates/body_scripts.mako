@@ -27,9 +27,4 @@
       
 }, 300);
 
-$(window).resize(function() {
-setTimeout(function () {
-  s.refresh();
-}, 0);
-});
 </script>
