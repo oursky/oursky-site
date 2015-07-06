@@ -15,10 +15,9 @@
 
 
 <script type="text/javascript">
-  var s;
 	setTimeout(function () {
 	
-      s = skrollr.init({
+      var s = skrollr.init({
         forceHeight: false,
       });
       if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
