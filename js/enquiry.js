@@ -11,8 +11,6 @@ $(document).ready(function(){
 	    	$('#filename').html(filename);
 		});
 		 $('.submitForm').on('click', function(){
-			if(!checkedAtLeastOne)
-				$('#checkbox1').prop("checked",true);
 			$('#submit').click();
 			ga('send', 'event', {
 			    eventCategory: 'Enquiry',
