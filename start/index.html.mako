@@ -170,7 +170,7 @@
 			</div>
 			<div class="columns large-6 medium-6">
 				<p class="bold">I have a prototype / design already, What's next?<br>
-				<span class="normal annotate">That's great! We can help polish the design a bit and refine the scope to launch a MVP within 3 months.</span></p>
+				<span class="normal annotate">That's great! We can help polish the design a bit and refine the scope to launch an MVP within 3 months.</span></p>
 			</div>
 		</div>
 
