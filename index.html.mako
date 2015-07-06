@@ -313,9 +313,9 @@
 					<path id="XMLID_20_" style="fill:none;stroke:#333333;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1000;stroke-dashoffset:0" data-bottom="stroke-dashoffset:1000;" data-end="stroke-dashoffset:0;" d="M438.7,270.2
 						c-5.5,21.2-15.6,41.7-30.3,59.8c-13.7,16.9-30.1,30.2-48.1,39.8l17.1,4.5"/>
 					<g id="XMLID_87_" data-bottom-top="transform:translate3d(0px, 50px, 0px)" data-center="transform:translate3d(0px, 0px, 0px)">
-					<polyline id="XMLID_18_" style="fill:none;stroke:#333333;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:100;stroke-dashoffset:0" data-200-top="stroke-dashoffset:0;" data--100-bottom="stroke-dashoffset:100;" points="259.6,509.6 259.6,590 
+					<polyline id="XMLID_18_" style="fill:none;stroke:#333333;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:110;stroke-dashoffset:0" data-200-top="stroke-dashoffset:0;" data--100-bottom="stroke-dashoffset:110;" points="259.6,509.6 259.6,590 
 						243.8,574.1 "/>
-					<polyline id="XMLID_23_" style="fill:none;stroke:#333333;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:100;stroke-dashoffset:0" data-200-top="stroke-dashoffset:0;" data--100-bottom="stroke-dashoffset:100;" points="265.4,509.6 265.4,590 
+					<polyline id="XMLID_23_" style="fill:none;stroke:#333333;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:110;stroke-dashoffset:0" data-200-top="stroke-dashoffset:0;" data--100-bottom="stroke-dashoffset:110;" points="265.4,509.6 265.4,590 
 						281.2,574.1 "/>
 					</g>
 					<g id="XMLID_50_" data-100-bottom="transform:translate3d(0px, 20px, 0px); opacity:0"  data-center="transform:translate3d(0px, 0px, 0px); opacity:1">
