@@ -189,7 +189,7 @@
 		<div class="row faq-block">
 			<div class="columns large-6 medium-6">
 				<p class="bold">Why develop on single platform first?<br>
-				<span class="normal annotate">Most apps make changes after launch for product market fits / business model / user feedback; So focus on single platform (Web / iOS / Android) first, and port it to other platforms once the app is more mature, is cheaper.</span></p>
+				<span class="normal annotate">Most apps make changes after launching for product market fits / business model / user feedback; So focus on single platform (Web / iOS / Android) first, and port it to other platforms once the app is more mature, is cheaper.</span></p>
 			</div>
 			<div class="columns large-6 medium-6">
 				<p class="bold">What is Oursky tech process?<br>
