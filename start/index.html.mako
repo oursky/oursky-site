@@ -193,7 +193,7 @@
 			</div>
 			<div class="columns large-6 medium-6">
 				<p class="bold">What is Oursky tech process?<br>
-				<span class="normal annotate">We use github with travis for code repo and continuous integrations; Every commits / pull request are peer reviewed to ensure quality, and our Project Manager hold daily standup with bi-weekly sprint. Our QA engineers design smoke test and full test suites for regular testing too.</span></p>
+				<span class="normal annotate">We use github with travis for code repo and continuous integrations; Every commit / pull request is peer reviewed to ensure quality, and our Project Managers hold daily standup with bi-weekly sprint. Our QA engineers design smoke test and full test suites for regular testing too.</span></p>
 			</div>
 		</div>
 		<div class="row faq-block">
