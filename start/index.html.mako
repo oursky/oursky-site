@@ -113,7 +113,7 @@
 	<section id="ondemand">
 		<div class="row">
 			<div class="columns large-6 medium-6 large-centered medium-centered spacer-small">
-				<h4 class="center">We also provide on demand services.</h4>
+				<h4 class="center">We also provide on-demand services.</h4>
 			</div>
 		</div>
 
