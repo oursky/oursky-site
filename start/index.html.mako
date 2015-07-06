@@ -182,7 +182,7 @@
 			</div>
 			<div class="columns large-6 medium-6">
 				<p class="bold">Can you work with our internal technical team?<br>
-				<span class="normal annotate">Sure, we can share the github code repository and issue trackers with your technical team; Or define the API and work together on backend / frontend seperately.</span></p>
+				<span class="normal annotate">Sure, we can share the github code repository and issue trackers with your technical team; Or define the API and work together on backend / frontend separately.</span></p>
 			</div>
 		</div>
 
