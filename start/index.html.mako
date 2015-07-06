@@ -22,7 +22,7 @@
 						</div>
 						<span class="all-caps center" style="color:#9CDCDB">Prototype</span>
 						<ul>
-							<li>Design and visualize the main use case with a interactive mockup or demo app.</li>
+							<li>Design and visualize the main use case with an interactive mockup or demo app.</li>
 							<li>Suitable for presenting the idea to your potential investor / partners.</li>
                             <li>Deliverable: Clickable Mockup Design</li>
 						</ul>
@@ -73,7 +73,7 @@
 				</div>
 				<span class="all-caps center" style="color:#9CDCDB">Prototype</span>
 				<ul>
-                    <li>Design and visualize the main use case with a interactive mockup or demo app.</li>
+                    <li>Design and visualize the main use case with an interactive mockup or demo app.</li>
                     <li>Suitable for presenting the idea to your potential investor / partners.</li>
                     <li>Deliverable: Clickable Mockup Design</li>
 				</ul>
