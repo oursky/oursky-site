@@ -92,7 +92,7 @@
 		<div class="row">
 			<div class="columns small-12 medium-8 large-8 large-centered medium-centered center">
 				<h6 class="all-caps spacer-small">Our team</h6>
-				<p> Oursky has 35 talented staffs, including experienced Project Managers, Developers, QA Engineers, Designers, Growth Hackers and Project Consultants. </p>
+				<p> Oursky has 35 talented staff, including experienced Project Managers, Developers, QA Engineers, Designers, Growth Hackers and Project Consultants. </p>
 			</div>
 		</div>
 
