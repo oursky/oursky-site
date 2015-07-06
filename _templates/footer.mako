@@ -52,7 +52,7 @@
               <li><a href="http://pandaform.com" target="_blank">PandaForm</a></li>
               <li><a href="http://makeappicon.com" target="_blank">Makeappicon.com</a></li>
               <li><a href="http://mockuphone.com/" target="_blank">Mockuphone</a></li>
-              <li><a href="http://gif.kino.cm" target-"_blank">GifCam</a></li>
+              <li><a href="http://gif.kino.cm" target="_blank">GifCam</a></li>
               <li><a href="http://retain.cc" target="_blank">Retain.cc</a></li>
               <li><a href="http://filesq.com" target="_blank">FileSqaure</a></li>
             </ul>
