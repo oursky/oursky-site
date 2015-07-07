@@ -21,6 +21,8 @@ p {
 
 q {
    font-size: 26px;
+   margin-bottom: 0.8em;
+   display: inline-block;
 }
 
 a {
