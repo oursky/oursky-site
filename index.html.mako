@@ -57,15 +57,15 @@
 
 	</section>
 
-	<section id="products" class="contents">
+	<section class="contents">
 	<div class="row">
-	    <div class="columns small-12 medium-8 large-8 large-centered medium-centered center">
+	    <div class="columns small-12 medium-10 large-8 large-centered medium-centered center">
 
 	    	<div class="spacer">
 		    	
 
-				<h3 class="sub-tag">We craft state of the art applications</h3>
-				<p class="paragraph">We are a team of 35 talented Hong Kong app developers and designers. With cutting-edge technologies and best practices, we develop web &amp; mobile apps which got millions of downloads, and won multiple awards including Best of 2013 selected by Apple App Store and Hong Kong ICT Awards of the Year 2014.
+				<h3 class="sub-tag"  data-bottom-top=" transform:translate3d(0px, 300px, 0px)"  data-center=" transform:translate3d(0px, 0px, 0px)">We craft state of the art applications</h3>
+				<p class="paragraph huge carbon thin"  data-bottom-top="opacity:0; transform:translate3d(0px, 400px, 0px)"  data-center="opacity:1; transform:translate3d(0px, 0px, 0px)">We are a team of 35 talented Hong Kong app developers and designers. With cutting-edge technologies and best practices, we develop web &amp; mobile apps which got millions of downloads, and won multiple awards including Best of 2013 selected by Apple App Store and Hong Kong ICT Awards of the Year 2014.
 				</p>
 
 			
@@ -73,6 +73,23 @@
 			</div>
 		</div>
 	</div>
+
+	<div class="row">
+	    <div class="columns small-12 medium-8 large-6 large-centered medium-centered center ">
+
+	    	<div class="spacer" >
+		    	
+	    		<div data-bottom-top="opacity:0; transform:translate3d(0px, 200px, 0px)"  data-center="opacity:1; transform:translate3d(0px, 0px, 0px)">
+					<q>Friendly services with quick response, helpful consultation with delivery of great quality.</q>
+					<p class="mid carbon"> <strong>Lucy Bruzzone</strong> Senior Programme Manager, Earthwatch Institute </p>
+				</div>
+			
+
+			</div>
+		</div>
+
+	</div>
+
 	</section>
 
 

@@ -22,6 +22,10 @@
  		font-size: 16px;
  	}
 
+ 	.huge {
+ 		font-size: 18px;
+ 	}
+
 	/* Navigation */
 
 	.header-logo {
@@ -351,6 +355,10 @@
 	#personnel .flex-box-row, #services .flex-box-row  {
  		-webkit-justify-content: space-around;
         justify-content: space-around;
+ 	}
+
+ 	.huge {
+ 		font-size: 20px;
  	}
 
  }

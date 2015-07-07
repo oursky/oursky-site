@@ -19,6 +19,10 @@ p {
   line-height: 1.75em;
 }
 
+q {
+   font-size: 26px;
+}
+
 a {
   color:#585858;
 }
@@ -39,7 +43,7 @@ a:hover, a:active {
   font-size: 36px;
   color:#3155A5;
   letter-spacing: 2px;
-  font-weight: 200;
+  font-weight: 400;
   margin-bottom: 0.7em;
 }
 
@@ -66,12 +70,27 @@ a:hover, a:active {
 }
 
 strong {
+  font-weight: 600;
+}
+
+h1 strong {
   font-weight: 400;
 }
 
-
 .small {
   font-size: 12px;
+}
+
+.mid {
+  font-size: 14px;
+}
+
+.huge {
+  font-size: 28px;
+}
+
+.thin {
+  font-weight: 200;
 }
 
 .annotate {
@@ -110,6 +129,10 @@ strong {
 
 .red {
   color: red;
+}
+
+.carbon {
+  color: #888;
 }
 
 .grey, h1.grey {
@@ -1106,12 +1129,12 @@ input:focus:invalid {
 
 
 .wf-loading h1, .wf-loading h2, .wf-loading h3, .wf-loading h4,.wf-loading h5,
-.wf-loading h6,.wf-loading p,.wf-loading a,.wf-loading span, .wf-loading ul {
+.wf-loading h6,.wf-loading p,.wf-loading a,.wf-loading span, .wf-loading ul, .wf-loading q {
  visibility: hidden;
 }
  
 .wf-active h1, .wf-active h2, .wf-active h3, .wf-active h4, .wf-active h5, 
-.wf-active h6, .wf-active p, .wf-active a, .wf-active span, .wf-active ul {
+.wf-active h6, .wf-active p, .wf-active a, .wf-active span, .wf-active ul,  .wf-active q {
  visibility: visible;
 }
 
