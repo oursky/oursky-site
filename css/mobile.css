@@ -22,6 +22,10 @@
  		font-size: 16px;
  	}
 
+ 	h3.sub-tag {
+ 		font-size: 20px;
+ 	}
+
  	.huge {
  		font-size: 18px;
  	}
@@ -189,8 +193,12 @@
 
  	/* About */
 
+
+
  	#title-about {
  		background-attachment: scroll;
+ 		height: 600px;
+ 		max-height: 900px;
  	}
 
  	#title-about .title-about-wrap .paragraph {
@@ -279,6 +287,12 @@
 	#form {
 		padding-left: 20px;
 		padding-right: 20px;
+	}
+
+	/* Contact Info */
+
+	.contact-info {
+		margin-left: 0;
 	}
 
 

@@ -18,6 +18,7 @@
 		<div class="row">
 	    <div class="columns small-12 large-8 large-centered center">
 			<h4>Contact us via <a href="mailto:info@oursky.com">hello@oursky.com</a></h4>
+
 			
 		</div>
 		</div>
@@ -54,6 +55,12 @@
 			</ul>
 
 		</div>
+		</div>
+
+		<div class="row show-for-small-only">
+			<div class="columns small-12 ">
+				<a href="${bf.util.site_path_helper('start')}" class="btn ">Project Enquiry</a>
+			</div>
 		</div>
 
 	</section>
