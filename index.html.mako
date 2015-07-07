@@ -61,50 +61,14 @@
 	<div class="row">
 	    <div class="columns small-12 medium-8 large-8 large-centered medium-centered center">
 
-	    	<div class="spacer" data-bottom-top="transform:translate3d(0px, 200px, 0px)" data-top="transform:translate3d(0px, -100px, 0px)">
+	    	<div class="spacer">
 		    	
 
 				<h3 class="sub-tag">We craft state of the art applications</h3>
 				<p class="paragraph">We are a team of 35 talented Hong Kong app developers and designers. With cutting-edge technologies and best practices, we develop web &amp; mobile apps which got millions of downloads, and won multiple awards including Best of 2013 selected by Apple App Store and Hong Kong ICT Awards of the Year 2014.
 				</p>
 
-				<p>
-
-					<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-						 viewBox="0 0 121 113.7" enable-background="new 0 0 121 113.7" xml:space="preserve" data-center-top="transform:translate3d(0px, 0px, 0px);opacity:1" data--20-bottom="transform:translate3d(10px, 0px, 0px);opacity:1" data-bottom="transform:translate3d(800px, 0px, 0px);opacity:0"  width="18%">
-					<polygon id="XMLID_1_" style="fill:none;stroke:#d8d8d8;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:600;stroke-dashoffset:0" data--20-bottom="stroke-dashoffset:0;" data-bottom="stroke-dashoffset:600;" points="60.5,13.4 71.7,46 
-						106.2,46.6 78.6,67.3 88.7,100.3 60.5,80.4 32.3,100.3 42.4,67.3 14.8,46.6 49.3,46"/>
-					</svg>
-
-					<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-						 viewBox="0 0 121 113.7" enable-background="new 0 0 121 113.7" xml:space="preserve" data-center-top="transform:translate3d(0px, 0px, 0px);opacity:1" data--70-bottom="transform:translate3d(10px, 0px, 0px);opacity:1" data-bottom="transform:translate3d(800px, 0px, 0px);opacity:0" width="18%" >
-					<polygon id="XMLID_1_" style="fill:none;stroke:#d8d8d8;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:600;stroke-dashoffset:0" data--70-bottom="stroke-dashoffset:0;" data-bottom="stroke-dashoffset:600;" points="60.5,13.4 71.7,46 
-						106.2,46.6 78.6,67.3 88.7,100.3 60.5,80.4 32.3,100.3 42.4,67.3 14.8,46.6 49.3,46"/>
-					</svg>
-
-					<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-						 viewBox="0 0 121 113.7" enable-background="new 0 0 121 113.7" xml:space="preserve" data-center-top="transform:translate3d(0px, 0px, 0px);opacity:1" data--120-bottom="transform:translate3d(10px, 0px, 0px);opacity:1" data-bottom="transform:translate3d(800px, 0px, 0px);opacity:0"  width="18%">
-					<polygon id="XMLID_1_" style="fill:none;stroke:#d8d8d8;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:600;stroke-dashoffset:0" data--120-bottom="stroke-dashoffset:0;" data-bottom="stroke-dashoffset:600;" points="60.5,13.4 71.7,46 
-						106.2,46.6 78.6,67.3 88.7,100.3 60.5,80.4 32.3,100.3 42.4,67.3 14.8,46.6 49.3,46"/>
-					</svg>
-
-					<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-						 viewBox="0 0 121 113.7" enable-background="new 0 0 121 113.7" xml:space="preserve" data-center-top="transform:translate3d(0px, 0px, 0px);opacity:1" data--180-bottom="transform:translate3d(10px, 0px, 0px);opacity:1" data-bottom="transform:translate3d(800px, 0px, 0px);opacity:0"  width="18%">
-					<polygon id="XMLID_1_" style="fill:none;stroke:#d8d8d8;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:600;stroke-dashoffset:0" data--180-bottom="stroke-dashoffset:0;" data-bottom="stroke-dashoffset:600;" points="60.5,13.4 71.7,46 
-						106.2,46.6 78.6,67.3 88.7,100.3 60.5,80.4 32.3,100.3 42.4,67.3 14.8,46.6 49.3,46"/>
-					</svg>
-
-					<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-						 viewBox="0 0 121 113.7" enable-background="new 0 0 121 113.7" xml:space="preserve" data-center-top="transform:translate3d(0px, 0px, 0px);opacity:1" data--220-bottom="transform:translate3d(10px, 0px, 0px);opacity:1" data-bottom="transform:translate3d(800px, 0px, 0px);opacity:0" width="18%">
-					<polygon id="XMLID_1_" style="fill:none;stroke:#d8d8d8;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:600;stroke-dashoffset:0" data--220-bottom="stroke-dashoffset:0;" data-bottom="stroke-dashoffset:600;" points="60.5,13.4 71.7,46 
-						106.2,46.6 78.6,67.3 88.7,100.3 60.5,80.4 32.3,100.3 42.4,67.3 14.8,46.6 49.3,46"/>
-					</svg>
-
-
-
-		    		
-
-				</p>
+			
 
 			</div>
 		</div>
