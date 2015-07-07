@@ -24,6 +24,7 @@
   <link rel="stylesheet" href="${bf.util.site_path_helper('css/swiper.min.css')}">
   <link rel="stylesheet" href="${bf.util.site_path_helper('css/style.css')}">
   <link rel="stylesheet" href="${bf.util.site_path_helper('css/mobile.css')}">
+  <link rel="stylesheet" href="${bf.util.site_path_helper('css/reject.css')}">
 
   <script
     src="${bf.util.site_path_helper('js/vendor/modernizr.js')}">
