@@ -15,8 +15,7 @@ $(window).load(function(){
 	$.reject({  
         reject: { 
         	all: false ,
-        	msie9 : true,
-        	chrome:true
+        	msie9 : true
         },
         closeCookie: true,  
 	    cookieSettings: {  
