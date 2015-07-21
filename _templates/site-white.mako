@@ -19,6 +19,7 @@ ${self.head()}
 	<script src="${bf.util.site_path_helper('js/foundation.min.js')}"></script>
 	<script src="${bf.util.site_path_helper('js/swiper.jquery.js')}"></script>
 	<script src="${bf.util.site_path_helper('js/enquiry.js')}"></script>
+	<script src="${bf.util.site_path_helper('js/jquery.validate.min.js')}"></script>
 	<script>
 
 		$.fn.exists = function(callback) {
