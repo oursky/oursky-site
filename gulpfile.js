@@ -9,6 +9,7 @@ gulp.task('js', function() {
   return gulp.src([
     'js/vendor/jquery.js',
     'js/jquery.reject.min.js',
+    'js/jquery.validate.min.js',
     'js/foundation.min.js',
     'js/cycle2.js',
     'js/scrollPoint.js',

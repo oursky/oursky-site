@@ -11,6 +11,7 @@ $(document).ready(function(){
 	    	$('#filename').html(filename);
 		});
 		 $('.submitForm').on('click', function(){
+			$('#enquiry-form').validate();
 			$('#submit').click();
 			ga('send', 'event', {
 			    eventCategory: 'Enquiry',
