@@ -21,12 +21,13 @@
 
 			<p class="spacer"><img src="../img/bindle-pic-3.png" style="max-width:580px"></p>
 
+            <p class="paragraph">More information coming, stay tuned!</p>
+            <!--
 			<p class="paragraph">The story started when Chris Toy came to us with several interesting app concepts.<wbr> We worked with him to scope for quick MVPs and tested the ideas one by one among focus groups.<wbr> The group messaging idea named Bindle was spotted with grandest potential.<wbr> Then we explored further to make a better version 2.0 based on the feedback and behaviour data collected.
-
 			</p>
 			<p class="paragraph">Bindle is focused on growth at the moment, and it is absolutely exciting that we gathered more than 7,000 (still growing) daily active users. There are even chat rooms for big groups like 2,000 people.
-
 			</p>
+            -->
 
 			<div class="spacer">&nbsp;</div>
 
