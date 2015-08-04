@@ -100,19 +100,22 @@
  	}
 
  	div.tag-line.hero-img-1 {
-	  background-size: auto 800px;
-	  background-position: center center;
+	  background-size: cover;
+	  background-position: center;
 	  background-image: url("../img/hero-1-mobile.png");
+	  
 	}
 
 	div.tag-line.hero-img-2 {
-	  background-size: auto 800px;
+	  background-size: cover;
 	  background-position: center;
+	 
 	}
 
 	div.tag-line.hero-img-3 {
-	  background-size: auto 800px;
+	  background-size: cover;
 	  background-position: center;
+	  
 	}
 
  	.hero-img-icon-1 {
@@ -335,6 +338,7 @@
 
  @media only screen and (min-width: 40.063em) and (max-width: 64em) { 
 
+ 	
  	p {
  		font-size: 16px;
  	}

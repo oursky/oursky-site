@@ -450,14 +450,6 @@ header.header-white .menu-toggle-switch span  {
           transition-property: all, transform;
 }
 
-.menu-toggle-switch-x.an-blue span {
-  background: #3155a5;
-}
-
-.menu-toggle-switch-x.an-blue span::before,
-.menu-toggle-switch-x.an-blue span::after{
-  background-color: #3155a5;
-}
 
 
 
@@ -1196,5 +1188,10 @@ input:focus:invalid {
 .bindle-color, h1.bindle-color, h2.bindle-color, h3.bindle-color {
   color:#1abb9c;
 }
+
+
+
+
+
 
 

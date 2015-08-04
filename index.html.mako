@@ -1,6 +1,8 @@
 <%inherit file="_templates/site.mako" />
 
 
+
+	
 	<div class="tag-line-wrap cycle-slideshow" 
     data-cycle-timeout="3500"
     data-cycle-fx="fadeout"
