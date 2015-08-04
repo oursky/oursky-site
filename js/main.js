@@ -1,3 +1,9 @@
+var defectAndroid = window.navigator && window.navigator.userAgent.indexOf('534.30') > 0 && window.navigator.userAgent.toLowerCase().match(/android/);
+
+if (defectAndroid) {
+	$('#tag-line-wrap').cycle('pause');
+}
+
 $.fn.exists = function(callback) {
   var args = [].slice.call(arguments, 1);
 
@@ -29,12 +35,20 @@ $(window).load(function(){
     }); 
 });
 
+
+
 $('.nav-toggle').click(function(e) {
+
 	$('#main-nav').toggleClass("show");
 	$('.header-logo').toggleClass("bluelogo");
 	$('.btn-header').toggleClass("hide");
 	$('header').toggleClass("active");
+	if (defectAndroid) {
+	$('.menu-toggle-switch-x').toggleClass("an-blue");
+	} else {
 	$('.menu-toggle-switch-x').toggleClass("active");
+	}
+
 	e.preventDefault();
  });
 

@@ -450,6 +450,16 @@ header.header-white .menu-toggle-switch span  {
           transition-property: all, transform;
 }
 
+.menu-toggle-switch-x.an-blue span {
+  background: #3155a5;
+}
+
+.menu-toggle-switch-x.an-blue span::before,
+.menu-toggle-switch-x.an-blue span::after{
+  background-color: #3155a5;
+}
+
+
 
 
 .menu-toggle-switch-x.active span,
@@ -616,6 +626,8 @@ a.tag-anchor:hover {
 .tag-line h1 {
   font-size: 82px;
   font-weight: 200;
+  z-index: 999;
+  position: relative;
 }
 
 /* blog widget */
