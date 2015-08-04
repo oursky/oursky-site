@@ -17,7 +17,7 @@
           </p>
           <p class="small center"> Fields with <span class="red">*</span> are required </p>
 
-          <form id="enquiry-form" action="http://oursky.pandaform.com/pub/bpo4vz" enctype="multipart/form-data" method="post">
+          <form id="enquiry-form" action="https://oursky.pandaform.com/pub/bpo4vz" enctype="multipart/form-data" method="post">
             <div class="row">
                 <div class="large-12 columns">
                 <input type="text" placeholder="Contact Person" class="required" id="contact" name="contact" value="" required />
