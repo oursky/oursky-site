@@ -57,7 +57,7 @@
 
 	</section>
 
-	<section class="contents">
+	<section class="contents" id="about">
 	<div class="row">
 	    <div class="columns small-12 medium-10 large-8 large-centered medium-centered center">
 

@@ -89,7 +89,7 @@ $('#tag-line-wrap').exists(function() {
 
     	$('.tag-anchor').click(function(e){
 
-    		$('body').scrollTo(document.getElementById('products'), 800,{offset:-60});
+    		$('body').scrollTo(document.getElementById('about'), 800,{offset:5});
     		e.preventDefault();
 
     	});
