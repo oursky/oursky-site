@@ -59,14 +59,11 @@ ${self.head()}
 			}
 
 			$('#enquiry-form').exists(function() {
-
-				
 				var ref = GetURLParameter('ref');
-
-				ref = ref.replace(/[_\W]+/g, "");
-
-				$('.' + ref).prop('checked', true);
-
+				if (ref) {
+					ref = ref.replace(/[_\W]+/g, "");
+					$('.' + ref).prop('checked', true);
+				};
 			});
 
 
