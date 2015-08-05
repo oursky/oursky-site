@@ -15,10 +15,7 @@ ${self.head()}
           
       ${self.footer()}
     
-	<script src="${bf.util.site_path_helper('js/vendor/jquery.js')}"></script>
-	<script src="${bf.util.site_path_helper('js/foundation.min.js')}"></script>
-	<script src="${bf.util.site_path_helper('js/swiper.jquery.js')}"></script>
-	<script src="${bf.util.site_path_helper('js/enquiry.js')}"></script>
+	<script src="${bf.util.site_path_helper('js/index.js')}"></script>
 	<script>
 
 		$.fn.exists = function(callback) {
@@ -30,14 +27,6 @@ ${self.head()}
 
 		  return this;
 		};
-
-		$('.nav-toggle').click(function(e) {
-			$('#main-nav').toggleClass("show");
-			$('.header-logo').toggleClass("bluelogo");
-			$('header').toggleClass("active");
-			$('.menu-toggle-switch-x').toggleClass("active");
-			e.preventDefault();
-		 });
 
 		
 		$('.swiper-elem-plan').exists(function() {

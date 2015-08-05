@@ -27,7 +27,7 @@
   <link rel="stylesheet" href="${bf.util.site_path_helper('css/reject.css')}">
 
   <script
-    src="${bf.util.site_path_helper('js/vendor/modernizr.js')}">
+    src="${bf.util.site_path_helper('js/modernizr.js')}">
   </script>
 
 <script>
