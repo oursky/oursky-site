@@ -973,6 +973,7 @@ input:focus:invalid {
 #footer-logo {
   fill:#999;
   width: 122px;
+  height: 25px;
 }
 
 .footer-sitemap {

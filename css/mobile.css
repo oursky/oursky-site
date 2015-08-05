@@ -12,6 +12,15 @@
 
 @media only screen and (max-width: 40em) {
 
+	.spacer {
+		margin: 70px 0;
+	}
+
+
+	.contents {
+		padding: 50px 0;
+	}
+
 	/* Typo */
 
 	.heading-title h1 {
@@ -94,6 +103,20 @@
 
 
 	/* Landing */
+
+	.mobile-tag {
+	  background-size: cover;
+	  background-position: center;
+	  background-image: url("../img/hero-1-mobile.png");
+	  padding: 120px 50px 80px;
+	  background-color: #000;
+	  background-repeat: no-repeat;
+	}
+
+	.mobile-tag h1 {
+		font-weight: 200;
+	}
+
 
 	.tag-line h1 {
  		font-size: 38px;

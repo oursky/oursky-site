@@ -1,9 +1,11 @@
 <%inherit file="_templates/site.mako" />
 
-
+	<div class="mobile-tag show-for-small-only">
+		 <h1 class="tag">We develop better <br> <strong>Apps</strong> and <strong>Digital Products</strong></h1>
+	</div>
 
 	
-	<div class="tag-line-wrap cycle-slideshow" 
+	<div class="tag-line-wrap cycle-slideshow show-for-medium-up" 
     data-cycle-timeout="3500"
     data-cycle-fx="fadeout"
     data-cycle-speed="1500"
