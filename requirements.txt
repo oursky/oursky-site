@@ -1,0 +1,14 @@
+Blogofile==0.8.3
+Jinja2==2.8
+Mako==1.0.1
+Markdown==2.6.2
+MarkupSafe==0.23
+PyYAML==3.11
+Pygments==2.0.2
+Unidecode==0.04.18
+blogofile-blog==0.8.3
+docutils==0.12
+pytz==2015.4
+six==1.9.0
+textile==2.2.2
+wsgiref==0.1.2

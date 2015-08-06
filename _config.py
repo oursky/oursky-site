@@ -6,6 +6,8 @@
 #
 # This file doesn't list every possible setting, it relies on defaults
 # set in the core blogofile _config.py. To see where the default
+import subprocess
+
 # configuration is on your system run 'blogofile info'
 #
 ######################################################################
@@ -19,12 +21,48 @@
 #  If you're hosting a blogofile powered site as a subdirectory of a larger
 #  non-blogofile site, then you would set the site_url to the full URL
 #  including that subdirectory: "http://www.yoursite.com/path/to/blogofile-dir"
-site.url = "http://www.example.com"
+site.url = "https://oursky.com"
 
 ## site.author -- Your name, the author of the website.
 # This is optional. If set to anything other than None, the
 # simple_blog template creates a meta tag for the site author.
-site.author = "Your Name"
+site.author = "Designer Frank"
+
+site.file_ignore_patterns = [
+    # Files that start with an underscore or a dot
+    ".*/_.*",
+    ".*/\..*",
+
+    # Editor-specific temporary files
+    ".*/#.*",
+    ".*~$",
+    ".*/\..*\.swp$",
+    ".*\.sublime-*",
+
+    # VCS related
+    ".*/\.(git|hg|svn|bzr)$",
+    ".*/.(git|hg)ignore$",
+    ".*/CVS$",
+
+    # Node related
+    ".*node_modules",
+    ".*gulp.js",
+    "js",
+    ".*.json",
+
+    # Python related
+    ".*.pip",
+    ".*.md",
+    "pyenv",
+    "requirement.txt"
+]
+
+def post_build():
+    # Preprocess the scripts and stylesheets
+    subprocess.call(["npm", "install"])
+    subprocess.call(["npm", "run", "build"])
+    # FIXME: check if it can put into pipe line
+    subprocess.call(["cp", "js/vendor/modernizr.js", "_site/js"])
 
 #### Blog Settings ####
 blog = plugins.blog
