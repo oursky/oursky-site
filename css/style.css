@@ -4,6 +4,10 @@ body,html {
   font-family: 'freight-sans-pro', sans-serif;
 }
 
+body.no-scroll{
+  overflow: hidden;
+}
+
 h1,h2,h3,h4,h5,h6,a,p,span,input {
   font-family: 'freight-sans-pro', sans-serif;
 }

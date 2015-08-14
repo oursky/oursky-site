@@ -36,7 +36,7 @@ $(window).load(function(){
 $('.nav-toggle').click(function(e) {
 
 
-
+  $('body').toggleClass("no-scroll");
 	$('#main-nav').toggleClass("show");
 	$('.header-logo').toggleClass("bluelogo");
 	$('.btn-header').toggleClass("hide");
