@@ -42,7 +42,7 @@
 
             <div class="row">
               <div class="large-12 columns checklist spacer-small">
-              <input type="hidden" name="services" value="">
+              <input type="checkbox" name="services" value="" style="visibility:hidden;">
                     <label>Which of the following services do you need? <span class="red">*</span></label><br>
                     <input id="checkbox1" type="checkbox" class="prototype" name="services" value="Develop a prototype or design mockup for my product idea." id="services">
                     <label for="checkbox1">

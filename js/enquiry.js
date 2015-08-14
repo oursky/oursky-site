@@ -11,7 +11,17 @@ $(document).ready(function(){
 	    	$('#filename').html(filename);
 		});
 		 $('.submitForm').on('click', function(){
-			$('#enquiry-form').validate();
+			$('#enquiry-form').validate({
+				rules:{
+					services:{
+						required: true,
+						minlength: 1
+					}
+				},
+				messages:{
+					services: "Please select at least one service"
+				}
+			});
 			$('#submit').click();
 			ga('send', 'event', {
 			    eventCategory: 'Enquiry',
