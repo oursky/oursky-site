@@ -7,7 +7,7 @@
 ${self.head()}
 </head>
   <body>
-   
+   <div class="allwrap">
       ${self.header()}
 
       <div id="skrollr-body">
@@ -20,7 +20,7 @@ ${self.head()}
 	  </div>
     
     ${self.body_scripts()}
-  
+  </div>
 
   </body>
 </html>
