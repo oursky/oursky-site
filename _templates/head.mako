@@ -6,17 +6,17 @@
       <meta name="keywords" content="app development, mobile application, iphone app developer, develop app, content management systems, python, ruby on rails, web applications, web design, wordpress">
       <meta property="og:title" content="Oursky Limited">
       <meta property="og:type" content="company">
-      <meta property="og:url" content="https://oursky.com${bf.util.site_path_helper('')}">
+      <meta property="og:url" content="${bf.config.site.url}">
       <meta property="og:image" content="${bf.util.site_path_helper('img/logo-square.png')}">
       <meta property="og:site_name" content="Oursky Limited">
       <meta property="og:description" content="Oursky develop state of the art web &#38; mobile applications for startups and corporates which got millions of downloads and featured by Apple App Store frequently.">
       <meta name="twitter:card" content="summary">
-      <meta name="twitter:url" content="http://oursky.com/">
+      <meta name="twitter:url" content="${bf.config.site.url}">
       <meta name="twitter:title" content="Oursky Limited">
       <meta name="twitter:image" content="${bf.util.site_path_helper('img/logo-square.png')}">
       <meta name="twitter:description" content=""Oursky develop state of the art web &#38; mobile applications for startups and corporates which got millions of downloads and featured by Apple App Store frequently.">
 
-  <link rel="canonical" href="https://oursky.com/" />
+  <link rel="canonical" href="${bf.config.site.url}" />
   <link rel="shortcut icon" href="${bf.util.site_path_helper('favicon.ico')}">
   <link rel="apple-touch-icon"
         href="${bf.util.site_path_helper('img/apple-touch-icon.png')}">
