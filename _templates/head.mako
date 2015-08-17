@@ -21,9 +21,8 @@
 <link rel="apple-touch-icon" href="${bf.util.site_path_helper('img/apple-touch-icon.png')}">
 <link rel="stylesheet" href="${bf.util.site_path_helper('css/bundle.css')}">
 
-  <script
-    src="${bf.util.site_path_helper('js/modernizr.js')}">
-  </script>
+<script src="${bf.util.site_path_helper('js/modernizr.js')}">
+</script>
 
 <script>
   (function(d) {
@@ -46,13 +45,13 @@
 </script>
 <!-- Hotjar Tracking Code for oursky.com -->
 <script>
-(function(h,o,t,j,a,r){
- h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
- h._hjSettings={hjid:61339,hjsv:5};
- a=o.getElementsByTagName('head')[0];
- r=o.createElement('script');r.async=1;
- r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
- a.appendChild(r);
+  (function(h,o,t,j,a,r){
+   h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+   h._hjSettings={hjid:61339,hjsv:5};
+   a=o.getElementsByTagName('head')[0];
+   r=o.createElement('script');r.async=1;
+   r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+   a.appendChild(r);
 
- })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+   })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
 </script>
