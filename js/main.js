@@ -43,6 +43,7 @@ $('.nav-toggle').click(function(e) {
       });
     }
     var offset = $('.allwrap').css('top');
+    $('body').removeClass("no-scroll");
     $('.allwrap').removeClass("no-scroll");
     $('.allwrap').css('top',0);
     $(window).scrollTo(Math.abs(parseInt(offset)));
@@ -60,6 +61,7 @@ $('.nav-toggle').click(function(e) {
     var offset = $(window).scrollTop();
     $('.allwrap').css('top',- offset);
     $('.allwrap').addClass("no-scroll");
+    $('body').addClass('no-scroll');
   }
 	$('#main-nav').toggleClass("show");
 	$('.header-logo').toggleClass("bluelogo");
