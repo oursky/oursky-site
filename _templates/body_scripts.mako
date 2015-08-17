@@ -1,7 +1,7 @@
 <script src="${bf.util.site_path_helper('js/index.js')}"></script>
 
 <script>
-      $(document).foundation();
+  $(document).foundation();
 </script>
 
 <script type="text/javascript">
@@ -13,5 +13,4 @@
       skrollr.init().destroy();
     }
 }, 300);
-
 </script>
