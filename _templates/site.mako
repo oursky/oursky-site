@@ -1,27 +1,24 @@
 <%inherit file="base.mako" />
 <!doctype html>
 <html lang="en" class="no-js">
-<head>
-   <meta charset="utf-8" />
+  <head>
+    <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-${self.head()}
-</head>
+    ${self.head()}
+  </head>
   <body>
-   
-      ${self.header()}
+    
+    ${self.header()}
+    
+    <div id="skrollr-body">
 
-      <div id="skrollr-body">
-       
       ${next.body()}
-
-          
       ${self.footer()}
 
-	  </div>
+    </div>
     
     ${self.body_scripts()}
-  
-
+    
   </body>
 </html>
 <%def name="head()"><%include file="head.mako" /></%def>
