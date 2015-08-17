@@ -86,11 +86,11 @@ $('#tag-line-wrap').exists(function() {
 	         down : effectEnd
 	    });
 	    
-	    $(document).on('scrollPointMove', '#tag-line-wrap', function(e) {
-          if($('.no-scroll').length) return;
-	        var func = !e.isIn ? "addClass" : "removeClass";
-	        $('header')[func]('add-bg');
-	    });
+  $(document).on('scrollPointMove', '#tag-line-wrap', function(e) {
+      if($('.no-scroll').length) return;
+      var func = !e.isIn ? "addClass" : "removeClass";
+      $('header')[func]('add-bg');
+  });
 
 	$('.hero-img').parallax("50%", 0.2);
 
