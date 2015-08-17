@@ -46,7 +46,7 @@ site.file_ignore_patterns = [
 
     # Node related
     ".*node_modules",
-    ".*gulp.js",
+    "gulpfile.js",
     "js",
     ".*.json",
 
@@ -54,7 +54,7 @@ site.file_ignore_patterns = [
     ".*.pip",
     ".*.md",
     "pyenv",
-    "requirement.txt"
+    "requirements.txt"
 ]
 
 def post_build():
