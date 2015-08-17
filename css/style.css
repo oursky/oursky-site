@@ -518,7 +518,7 @@ header.header-white .menu-toggle-switch-x span::after{
 
 .hero-img {
 
-  background-attachment: fixed;
+  background-attachment: scroll!important;
   -webkit-transform: translateZ(0);
   -webkit-backface-visibility: hidden;
   -webkit-perspective: 1000; 
