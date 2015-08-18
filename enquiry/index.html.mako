@@ -13,10 +13,11 @@
     <div class="columns large-8 large-centered medium-8 medium-centered">
       <div id="form" class="form-wrap">
         <h3 class="center">
-        <img src="../img/icon-launch.svg"><br>
-        Start your Project
+          <img src="../img/icon-launch.svg"><br>
+          Start your Project
         </h3>
-        <p class="center"> We would love to hear from you! <br>
+        <p class="center"> 
+          We would love to hear from you! <br>
           Drop us a line and we will get in touch with you soon.
         </p>
         <p class="small center"> Fields with <span class="red">*</span> are required </p>
@@ -94,7 +95,9 @@
           <div class="row">
             <div class="large-12 columns spacer-small">
               <p>Any documents for us to go through?<br>
-                <span class="small">Such as sitemap, specification or wireframe that would help our understanding on the project</span>
+                <span class="small">
+                  Such as sitemap, specification or wireframe that would help our understanding on the project
+                </span>
               </p>
               <a class="btn btn-grey fakeUpload" >Upload Files </a>
               <input type="file" name="file" id="file" class="file btn btn-grey" style="display:none">

@@ -1,14 +1,11 @@
 <script src="${bf.util.site_path_helper('js/index.js')}"></script>
 
 <script>
-      $(document).foundation();
+  $(document).foundation();
 </script>
 
-
-
 <script type="text/javascript">
-	setTimeout(function () {
-
+  setTimeout(function () {
     var tagwrap = document.getElementById('tag-line-wrap');
     if(tagwrap){
       var tags = document.getElementsByClassName('tag-line');
@@ -23,13 +20,11 @@
         child.setAttribute('data-'+bot/2, 'opacity:0;');
       }
     }
-      var s = skrollr.init({
-        forceHeight: false,
-      });
-      if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
-        skrollr.init().destroy();
-      }
-      
+    var s = skrollr.init({
+      forceHeight: false,
+    });
+    if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+      skrollr.init().destroy();
+    }
 }, 300);
-
 </script>
