@@ -7,13 +7,12 @@
 ${self.head()}
 </head>
   <body>
-   
-      ${self.header()}
-
+      
       <div id="skrollr-body">
+      
+      ${self.header()}
        
       ${next.body()}
-
           
       ${self.footer()}
 

@@ -13,7 +13,6 @@ gulp.task('js', function() {
     'js/foundation.min.js',
     'js/cycle2.js',
     'js/scrollPoint.js',
-    'js/parallax.js',
     'js/swiper.jquery.js',
     'js/jquery.scrollTo.min.js',
     'js/main.js',

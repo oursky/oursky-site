@@ -67,21 +67,6 @@ $('#tag-line-wrap').exists(function() {
 	        $('header')[func]('add-bg');
 	    });
 
-	$('.hero-img').parallax("50%", 0.2);
-
-
-	$(window).bind('scroll', function(){
-	    var offset = $(document).scrollTop()
-	        ,opacity=0
-	    ;
-	    if( offset<=effectStart ){
-	        opacity=1;
-	    }else if( offset<=effectEnd ){
-	        opacity=1-offset / (effectEnd * 0.5);
-	    }
-	    fading.css('opacity',opacity);
-	});
-
 	$(document).ready(function () {
     	var Swiper1 = new Swiper ('.swiper-1', {
       direction: 'horizontal',
@@ -128,7 +113,3 @@ $('.heading-dark').exists(function(){
 
 })
 
-
-$('.parallax').exists(function(){
-	$(this).parallax("50%", -0.2);
-})
