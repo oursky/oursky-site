@@ -34,7 +34,7 @@
       <div class="row full-height">
         <div class="columns large-12 full-height">
           <div class="aligner hero-img-icon-3">
-            <h1 class="tag">We write better <strong>Codes</strong></h1>
+            <h1 class="tag">We write better <strong>Code</strong></h1>
          </div>
         </div>
       </div>
