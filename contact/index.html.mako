@@ -45,7 +45,7 @@
   </div>
   <div class="row show-for-small-only">
     <div class="columns small-12 ">
-      <a href="${bf.util.site_path_helper('start')}" class="btn ">Project Enquiry</a>
+      <a href="${bf.util.site_path_helper('enquiry')}" class="btn ">Project Enquiry</a>
     </div>
   </div>
 </section>

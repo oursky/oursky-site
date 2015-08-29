@@ -19,7 +19,7 @@
     </div>
 
     <div class="floatRight">
-      <a href="${bf.util.site_path_helper('start')}" class="hide btn-header btn visible-for-medium-up">Start your project</a>
+      <a href="${bf.util.site_path_helper('enquiry')}" class="hide btn-header btn visible-for-medium-up">Start your project</a>
       <div class="btn-menu nav-toggle">
         <button class="menu-toggle-switch menu-toggle-switch-x">
         <span>toggle menu</span>

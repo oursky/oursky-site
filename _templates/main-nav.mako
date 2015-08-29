@@ -23,7 +23,7 @@
         <a href="${bf.util.site_path_helper('bindle')}" class="nav-work-block" style="background-image:url('${bf.util.site_path_helper('img/nav-work-2.png')}')">
           Bindle
         </a>
-        <a href="${bf.util.site_path_helper('start')}" class="nav-cta btn ">Start your project</a>
+        <a href="${bf.util.site_path_helper('enquiry')}" class="nav-cta btn ">Start your project</a>
       </div>
     </div>
     
