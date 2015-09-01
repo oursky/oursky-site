@@ -221,17 +221,17 @@
 
 
 
- 	#title-about {
+ 	 .title-cover {
  		background-attachment: scroll;
  		height: 600px;
  		max-height: 900px;
  	}
 
- 	#title-about .title-about-wrap .paragraph {
+ 	 .title-cover-wrap .paragraph {
 		  width: 100%
 	}
 
-	#title-about .title-about-wrap br {
+	 .title-cover-wrap br {
 		display: none;
 	}
 
@@ -389,7 +389,7 @@
 
  	}
 
- 	#title-about .paragraph {
+ 	.title-cover .paragraph {
 	  width: 60%;
 	}
 

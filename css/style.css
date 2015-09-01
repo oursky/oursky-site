@@ -299,10 +299,16 @@ a.btn-header:hover {
   -moz-transition: top 700ms cubic-bezier(0.82, 0.06, 0.5, 1), opacity 1000ms ease;
   -o-transition: top 700ms cubic-bezier(0.82, 0.06, 0.5, 1), opacity 1000ms ease;
   border-bottom: 1px solid #eee;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
 }
 
 #main-nav.show {
   top: 0;
+  -webkit-box-shadow: 0px 10px 5px 0px rgba(0,0,0,0.2);
+  -moz-box-shadow: 0px 10px 5px 0px rgba(0,0,0,0.2);
+  box-shadow: 0px 10px 5px 0px rgba(0,0,0,0.2);
 }
 
 #main-nav svg {
@@ -320,7 +326,7 @@ a.btn-header:hover {
 }
 
 #main-nav ul li a {
-  line-height: 70px;
+  line-height: 60px;
   font-size: 30px;
   color: #3155A5;
 }
@@ -505,6 +511,37 @@ header.header-white .menu-toggle-switch-x span::after {
 
 .heading-title {
   padding: 120px 0 60px;
+}
+
+.title-cover {
+  background-color: #3155A5;
+  color: #fff;
+  background-repeat: no-repeat;
+  height: 80%;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  position: relative;
+  padding: 0;
+  max-height: 700px;
+  min-height: 500px;
+}
+
+.title-cover-wrap {
+  width: 100%;
+  padding: 0 20px;
+}
+
+.title-cover h2 {
+  color: #fff;
+}
+
+.title-cover .paragraph {
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 
 /* -- Landing -- */
@@ -702,37 +739,13 @@ a.tag-anchor:hover {
 
 /* ---------- About ---------- */
 
+
+
 #title-about {
-  background-color: #3155A5;
-  color: #fff;
   background-image: url("../img/hero-about.jpg");
-  background-repeat: no-repeat;
-  height: 80%;
-  background-size: cover;
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  background-position: center center;
-  position: relative;
-  padding: 0;
-  max-height: 700px;
-  min-height: 500px;
 }
 
-.title-about-wrap {
-  width: 100%;
-  padding: 0 20px;
-}
 
-#title-about h2 {
-  color: #fff;
-}
-
-#title-about .paragraph {
-  width: 40%;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-}
 
 #services .box {
   max-width: 180px;
@@ -767,6 +780,14 @@ a.tag-anchor:hover {
   background: url("../img/team.jpg") center center;
   background-size: cover;
   margin-bottom: 100px;
+}
+
+/* --------- Products --------- */
+
+#title-product {
+ 
+  background-image: url("../img/hero-product.jpg");
+ 
 }
 
 /* --------- Plans ----------- */
@@ -1054,6 +1075,13 @@ input:focus:invalid {
 
 .center {
   text-align: center;
+}
+
+.comingsoon {
+  border: 1px solid #ccc;
+  padding: 2px 5px;
+  font-size: 11px;
+  letter-spacing: 2px;
 }
 
 .v-center {
