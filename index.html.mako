@@ -86,6 +86,16 @@
 
      <div class="swiper-container swiper-1">
         <div class="swiper-wrapper">
+
+            <div class="swiper-slide">
+              <div class="index-asos"> 
+                <h2>ASOS NEW IN</h2>
+                <p></p>
+                <p><a href="${bf.util.site_path_helper('asos')}" class="btn all-caps">Read more</a></p>
+                <img src="img/product-asos.png" >
+              </div>
+            </div>
+
             <div class="swiper-slide">
               <div class="index-jamn"> 
                 <h2>Jamn Player</h2>
@@ -112,6 +122,23 @@
       <h5 class="section-head all-caps spacer-small">Recent Works</h5>
     </div>
   </div>
+
+  <section id="asos" class="show-for-medium-up index-asos">
+  
+    <div class="row">
+      <div class="columns large-6 large-push-6 medium-6 medium-push-6">
+        <h2>ASOS NEW IN</h2>
+        <p>We worked with one of the world’s biggest online fashion store ASOS and built this innovative app to let users browse new arrivals swiftly and pleasantly.
+        </p>
+        <p><a href="${bf.util.site_path_helper('asos')}" class="btn all-caps">Read more</a></p>
+      </div>
+      <div class="columns large-6 large-pull-6 medium-6 medium-pull-6 center">
+        <img data-interchange="[img/product-asos.png, (small)], [img/product-asos-medium.png, (medium)],[img/product-asos.png, (large)]" class="landing-product-pic" data-bottom-top="transform:translate3d(0px, 100px, 0px)" data-center="transform:translate3d(0px, 0px, 0px)" data-top="transform:translate3d(0px, -50px, 0px)">
+        <noscript><img src="img/product-asos.png"></noscript>
+      </div>
+    </div>
+
+  </section>
 
   <section id="jamn" class="show-for-medium-up index-jamn">
   

@@ -18,6 +18,9 @@
     <div class="columns large-5 medium-6 end">
       <div class="nav-block">
         <h6 class="all-caps title-grey">Recent works</h6>
+        <a href="${bf.util.site_path_helper('asos')}" class="nav-work-block" style="background-image:url('${bf.util.site_path_helper('img/nav-work-3.png')}')">
+          ASOS NEW IN
+        </a>
         <a href="${bf.util.site_path_helper('jamn')}" class="nav-work-block" style="background-image:url('${bf.util.site_path_helper('img/nav-work-1.png')}')">
           Jamn Player
         </a>

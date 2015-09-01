@@ -344,16 +344,18 @@ a.btn-header:hover {
 }
 
 .nav-work-block {
-  width: 100%;
+  width: 45%;
   padding: 60px 0;
   text-align: center;
-  font-size: 48px;
-  background: #666;
-  color: #fff;
-  margin-bottom: 20px;
-  background-size: auto 100%;
-  background-position: center;
   display: block;
+  padding: 40px 0;
+  font-size: 28px;
+  background: center #666;
+  background-size: auto 100%;
+  color: #fff;
+  margin-bottom: 25px;
+  margin-right: 25px;
+  float: left;
 }
 
 .nav-work-block:hover {
@@ -704,6 +706,28 @@ a.tag-anchor:hover {
 .index-bindle h2 {
   color: #fff;
 }
+
+
+/* index: Bindle */
+
+.index-asos {
+  background-color: #fff;
+  background-image: url("../img/hero-asos-index.png");
+  background-size: auto 100%;
+  background-repeat: repeat-x;
+  border-top:1px solid #ddd;
+  border-bottom:1px solid #ddd;
+  color: #000;
+  padding: 50px 0 0;
+  overflow: hidden;
+  max-height: 500px;
+}
+
+.index-asos h2, .index-asos p {
+  color: #000;
+}
+
+
 
 /* index: mvp-graph */
 
@@ -1157,6 +1181,29 @@ input:focus:invalid {
 .results img {
   height: 72px;
 }
+
+/* ASOS */
+
+#title-asos {
+  background: url("../img/hero-asos.png") center no-repeat #fff;
+  background-size: cover;
+  padding: 180px 0;
+  border-bottom: 1px solid #ddd;
+}
+
+#title-jamn h1 {
+  color: #fff;
+}
+
+.asos-quote {
+   background: url("../img/hero-asos-2.png") center no-repeat #fff;
+  background-size: cover;
+  width: 100%;
+  border-top: 1px solid #ddd; 
+  border-bottom: 1px solid #ddd; 
+  margin: 140px 0 50px;
+}
+
 
 /* Jamn Player */
 
