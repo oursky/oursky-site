@@ -48,7 +48,7 @@
 
         <li> 
             <h4 class="center">
-               <a href="http://gif.kino.cm/" target="_blank"><img src=""><br>
+               <a href="http://gif.kino.cm/" target="_blank"><img src="../img/logo-gifcam.png"><br>
                Gifcam</a></h4>
             <p class="column-paragraph">
                Make gif easily
@@ -77,7 +77,7 @@
 
         <li> 
             <h4 class="center">
-               <a href="http://makeappicon.com/" target="_blank"><img src=""><br>
+               <a href="http://makeappicon.com/" target="_blank"><img src="../img/logo-mai.png"><br>
                Makeappicon</a></h4>
             <p class="column-paragraph">
                Generate App Icons of all sizes with a click!
@@ -86,7 +86,7 @@
 
         <li> 
             <h4 class="center">
-               <a href="http://mockuphone.com/" target="_blank"><img src=""><br>
+               <a href="http://mockuphone.com/" target="_blank"><img src="../img/logo-mup.png"><br>
                Mockuphone</a></h4>
             <p class="column-paragraph">
                Wrap App Screenshots in Device Mockup
