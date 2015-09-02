@@ -29,7 +29,8 @@ gulp.task('css', function() {
     'css/swiper.min.css',
     'css/style.css',
     'css/mobile.css',
-    'css/reject.css'
+    'css/reject.css',
+    'css/font.css'
   ]).pipe(concat("bundle.css"))
   .pipe(minifyCss({compatibility: 'ie8'}))
   .pipe(gulp.dest('_site/css'));
