@@ -7,8 +7,8 @@
     ${self.head()}
   </head>
   <body>
+    ${self.header()}
     <div  id="skrollr-body" class="allwrap">
-      ${self.header()}
       ${next.body()}
       ${self.footer()}
     </div>
