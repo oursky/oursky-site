@@ -1233,3 +1233,24 @@ input:focus:invalid {
 .bindle-color, h1.bindle-color, h2.bindle-color, h3.bindle-color {
   color: #1abb9c;
 }
+
+/* Snaptee */
+
+#snaptee-page h3.sub-tag {
+  color: #000;
+}
+
+
+#title-snaptee {
+  background: url("../img/hero-snaptee.png") center no-repeat #FF4040;
+  background-size: cover;
+  padding: 180px 0;
+  border-bottom: 1px solid #ddd;
+}
+
+#snaptee-hero {
+  background: url("../img/snaptee-1.png") center no-repeat #FF4040;
+  background-size: cover;
+  height: 420px;
+  margin: 50px 0;
+}
