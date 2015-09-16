@@ -132,6 +132,11 @@ h1 strong {
   font-size: 52px;
 }
 
+img.large-img, .product-page img.large-img {
+  max-width: 780px;
+}
+
+
 .white {
   color: white;
 }
@@ -1254,3 +1259,13 @@ input:focus:invalid {
   height: 420px;
   margin: 50px 0;
 }
+
+/* Carbon */
+
+#title-carbon {
+  background: url("../img/hero-carbon.png") center no-repeat #333333;
+  background-size: cover;
+  padding: 180px 0;
+}
+
+
