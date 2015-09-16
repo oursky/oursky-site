@@ -1268,4 +1268,12 @@ input:focus:invalid {
   padding: 180px 0;
 }
 
+/* Ourcam */
+
+#title-ourcam {
+  background: url("../img/hero-ourcam.jpg") center no-repeat #666666;
+  background-size: cover;
+  padding: 180px 0;
+}
+
 
