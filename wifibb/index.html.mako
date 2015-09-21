@@ -14,7 +14,7 @@
       <h3 class="sub-tag">WifiBB - Travel buddy to 140+ countries</h3>
       <p class="paragraph">Instead of using prepaid SIM cards to stay connected overseas, Wifibb provides affordable and easy-to-use pocket wi-fi rental services for people travelling overseas from Hong Kong as well as people travelling to Hong Kong.
       </p>
-      <p class="paragraph">Our team contributed in two essential parts of the brand: we designed and built the internal admin iPad application as well as an online web platform for this well-known company that provides pocket wi-fi rental services for Hong Kong Travellers. 
+      <p class="paragraph">Oursky contributed in two essential parts of the brand: we designed and built the <strong>internal Point-of-sale iPad application</strong> as well as an <strong>online web platform</strong>.
       </p>
       <p class="paragraph">Consumer experience is everything in the retail world - The online web platform allows customers to track their wi-fi usage anytime, anywhere. This helps users maintain their service usage and understand their consumption better.
       </p>

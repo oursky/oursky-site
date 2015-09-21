@@ -11,16 +11,17 @@
 <section class="contents product-page" id="ourcam-page">
   <div class="row">
     <div class="columns small-12 large-8 large-centered center">
-      <h3 class="sub-tag">Bringing people closer and collecting moments - No more photos nagging from friends </h3>
-      <p class="paragraph">OurCam’s innovative product - a camera app for social events. Users can create special albums for different events and photos they take or upload will be instantly organised and shared on OurCam. Photos are worth a thousand words, the app helps users to live the moments from the perspective of all their friends. 
+      <h3 class="sub-tag">Collecting moments - No more photos nagging from friends </h3>
+      <p class="paragraph">OurCam’s innovative product — a camera app for social events, make it easy to share photos for social events. Users can create albums for events and photos taken will be instantly shared with groups.
       </p>
       <p class="spacer"><img src="../img/ourcam-1.png" class="large-img"></p>
-      <p class="paragraph">Before the app was launched, Jeffery had an idea and he wanted our help to see his vision through. Our involvement starts with an iOS app design and development project, Jeffery sat down with our designers and project managers to map out the wireframes, user flow, and UI designs.
+      <p class="paragraph">In the beginning, Jeffery had an idea and he wanted our help to execute the idea quickly. Our involvement starts with an iOS app design and development project, Jeffery sat down with our designers and project managers to map out the wireframes, user flow, and UI designs.
       </p>
-      <p class="paragraph">After the development of the first iOS version, the successful reaction of the public urged Jeffery to build his only technical team to handle future updates and maintenances of the app. We worked together with his technical team to hand over the development process of the iOS app. Next up was the development of the Android app. Our team focused on developing the whole Android App and we also advised about how to boost their revenue. 
+      <p class="paragraph">After the development of the first iOS version, the positive reaction of the public urged Jeffery to set up his own technical team to handle maintenances and future updates of the app. Our team worked together with his technical team to hand over the development process of the iOS app. 
       </p>
-      <p class="paragraph">
-        Working with OurCam was a fun and smooth collaboration. Jeffery’s open minded personality and dynamic background allows him to make swift decision.
+      <p class="paragraph">After the hand over of iOS development, we kickstarted the development of an Android version. Our team helped OurCam to quickly expands to the Android market by developing the Android version of the application.
+      </p>
+      <p class="paragraph">Working with OurCam was a fun and smooth. We enjoy working with startup founders like Jeffery -- who's open minded and making swift decision, and thus a great product!
       </p>
 
     </div>
