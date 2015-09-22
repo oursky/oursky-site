@@ -21,7 +21,7 @@
           <div class="columns small-12 large-8 large-centered center">
             <div class="spacer">
                <q>Best tech outsource for tech company! Our team has been working with Oursky for years, good communication and good deliverables!</q> 
-               <p class="mid carbon"> <strong>Wai-lun Hong</strong>,  CEO, Snap tee</p>
+               <p class="mid carbon"> <strong>Wai-lun Hong</strong>,  CEO, Snaptee</p>
            </div>
           </div>
         </div>

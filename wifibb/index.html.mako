@@ -11,8 +11,8 @@
 <section class="contents product-page" id="wifibb-page">
   <div class="row">
     <div class="columns small-12 large-8 large-centered center">
-      <h3 class="sub-tag">WifiBB - Travel buddy to 140+ countries</h3>
-      <p class="paragraph">Instead of using prepaid SIM cards to stay connected overseas, Wifibb provides affordable and easy-to-use pocket wi-fi rental services for people travelling overseas from Hong Kong as well as people travelling to Hong Kong.
+      <h3 class="sub-tag">WiFiBB - Travel buddy to 140+ countries</h3>
+      <p class="paragraph">Instead of using prepaid SIM cards to stay connected overseas, WiFibb provides affordable and easy-to-use pocket wi-fi rental services for people travelling overseas from Hong Kong as well as people travelling to Hong Kong.
       </p>
       <p class="paragraph">Oursky contributed in two essential parts of the brand: we designed and built the <strong>internal Point-of-sale iPad application</strong> as well as an <strong>online web platform</strong>.
       </p>
@@ -32,7 +32,7 @@
       The internal POS iPad app keeps the company organised - it helps internal staffs to manage their daily operations of services, e.g. scanning QR code to check device / order info, showing usage breakdown to confirm exceed usage / extra charges, etc. 
       <p>
       <p class="paragraph">
-        We also provide ongoing maintenance and enhancement services to ensure both platforms is running smoothly for specific users to use. Collaboration was crucial through out the project process; luckily, we got dedicated support from the Wifibb team, and the project went smoothly. For all intents and purposes, we became a supporting part of the Wifibb team, and were able to enact real change within an amazing product.
+        We also provide ongoing maintenance and enhancement services to ensure both platforms is running smoothly for specific users to use. Collaboration was crucial through out the project process; luckily, we got dedicated support from the WiFiBB team, and the project went smoothly. For all intents and purposes, we became a supporting part of the WiFiBB team, and were able to enact real change within an amazing product.
       </p>
 
     </div>
@@ -52,7 +52,7 @@
     </div>
     <div class="columns small-12 large-4 medium-4 center results end">
       <h1><img src="../img/wifi.svg"></h1>
-      <p>Biggest pocket wifi provider in hk</p>
+      <p>Largest pocket wifi provider in hk</p>
     </div>
   </div>
 
