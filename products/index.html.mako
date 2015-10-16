@@ -38,11 +38,13 @@
         </li>
 
         <li> 
-            <h4 class="center"><img src="../img/logo-spentable.png"><br>
-              Spentable</h4>
+            <h4 class="center">
+                <a href="http://appstore.com/spentable" target="_blank"><img src="../img/logo-spentable.png"><br>
+                Spentable
+                </a>
+            </h4>
             <p class="column-paragraph">
               Expense tracking app with simplicity in mind.
-              <br><span class="comingsoon all-caps">Coming soon</span>
             </p>
         </li>
 
