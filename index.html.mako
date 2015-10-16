@@ -62,8 +62,8 @@
     <div class="row">
       <div class="columns small-12 medium-10 large-8 large-centered medium-centered center">
         <div class="spacer">
-          <h3 class="sub-tag"  data-bottom-top=" transform:translate3d(0px, 300px, 0px)"  data-center=" transform:translate3d(0px, 0px, 0px)">We craft state of the art applications</h3>
-          <p class="paragraph huge carbon thin"  data-bottom-top="opacity:0; transform:translate3d(0px, 400px, 0px)"  data-center="opacity:1; transform:translate3d(0px, 0px, 0px)">We are a team of 35 talented Hong Kong app developers and designers. With cutting-edge technologies and best practices, we develop web &amp; mobile apps which got millions of downloads, and won multiple awards including Best of 2013 selected by Apple App Store and Hong Kong ICT Awards of the Year 2014.
+          <h3 class="sub-tag"  data-bottom-top=" transform:translate3d(0px, 300px, 0px)"  data-center=" transform:translate3d(0px, 0px, 0px)">We craft state-of-the-art applications</h3>
+          <p class="paragraph huge carbon thin"  data-bottom-top="opacity:0; transform:translate3d(0px, 400px, 0px)"  data-center="opacity:1; transform:translate3d(0px, 0px, 0px)">We are a team of 35 talented Hong Kong app developers and designers. With cutting-edge technologies and best practices, we develop web &amp; mobile apps which have got millions of downloads, and won multiple awards including Best of 2013 selected by Apple App Store and Hong Kong ICT Awards of the Year 2014.
           </p>
         </div>
       </div>
@@ -185,12 +185,12 @@
       </div>
       <div class="columns small-12 large-5 medium-8 medium-centered large-collapse large-uncentered">
         <h5 class="section-head all-caps spacer-small">Learn with MVP</h5>
-        <p>Here at Oursky, we break the project down into smaller chunks and aim for a Minimum Viable Product (MVP) that we can show our users ASAP in the development cycle. Understand your users sooner, less risk towards the end.</p>
+        <p>Here at Oursky, we break a project down into smaller chunks and aim for a Minimum Viable Product (MVP) that we can show our users ASAP in the development cycle. Understand your users sooner, less risk towards the end.</p>
         <div class="spacer-small mvp-xo">
           <img data-interchange="[img/mvp-1-small.png, (small)], [img/mvp-1.png, (medium)],[img/mvp-1.png, (large)]" class="landing-product-pic">
           <noscript><img src="img/mvp-1.png"></noscript>
         </div>
-        <p>Compared with the traditional way, you would not need to wait until the big project is done to preview and test. The MVP approach enables you to validate your idea and know your users fast, making sure that the product delivered is usable and with great experience.
+        <p>Compared with the traditional way, you will not need to wait until the big project is done to preview and test. The MVP approach enables you to validate your idea and know your users fast, making sure that the product delivered is usable and with great experience.
         </p>
       </div>
     </div>
