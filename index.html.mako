@@ -124,7 +124,7 @@
   </div>
 
   <section id="asos" class="show-for-medium-up index-asos">
-  
+
     <div class="row">
       <div class="columns large-6 large-push-6 medium-6 medium-push-6">
         <h2>ASOS NEW IN</h2>
@@ -133,8 +133,7 @@
         <p><a href="${bf.util.site_path_helper('asos')}" class="btn all-caps">Read more</a></p>
       </div>
       <div class="columns large-6 large-pull-6 medium-6 medium-pull-6 center">
-        <img data-interchange="[img/product-asos.png, (small)], [img/product-asos-medium.png, (medium)],[img/product-asos.png, (large)]" class="landing-product-pic" data-bottom-top="transform:translate3d(0px, 100px, 0px)" data-center="transform:translate3d(0px, 0px, 0px)" data-top="transform:translate3d(0px, -50px, 0px)">
-        <noscript><img src="img/product-asos.png"></noscript>
+        <img src="img/15-10-asos.png" data-bottom-top="transform:translate3d(0px, 100px, 0px)" data-center="transform:translate3d(0px, 0px, 0px)" data-top="transform:translate3d(0px, -50px, 0px)">
       </div>
     </div>
 
@@ -149,24 +148,40 @@
         <p><a href="${bf.util.site_path_helper('jamn')}" class="btn all-caps white">Read more</a></p>
       </div>
       <div class="columns large-6 medium-6 center">
-        <img data-interchange="[img/product-jamn.png, (small)], [img/product-jamn-medium.png, (medium)],[img/product-jamn.png, (large)]" class="landing-product-pic" data-bottom-top="transform:translate3d(0px, 100px, 0px)" data-center="transform:translate3d(0px, 0px, 0px)" data-top="transform:translate3d(0px, -50px, 0px)">
-        <noscript><img src="img/product-jamn.png"></noscript>
+        <img src="img/product-jamn.png" data-bottom-top="transform:translate3d(0px, 100px, 0px)" data-center="transform:translate3d(0px, 0px, 0px)" data-top="transform:translate3d(0px, -50px, 0px)">
       </div>
     </div>
 
   </section>
 
+  <section id="snaptee" class="show-for-medium-up index-snaptee">
+
+    <div class="row">
+      <div class="columns large-6 large-push-6 medium-6 medium-push-6">
+        <h2>Snaptee</h2>
+        <p>We worked with one of the world’s biggest online fashion store ASOS and built this innovative app to let users browse new arrivals swiftly and pleasantly.
+        </p>
+        <p><a href="${bf.util.site_path_helper('snaptee')}" class="btn all-caps white">Read more</a></p>
+      </div>
+      <div class="columns large-6 large-pull-6 medium-6 medium-pull-6 center">
+        <img src="img/15-10-snaptee.png" data-bottom-top="transform:scale(1.5) translate3d(-93px, 100px, 0px)" data-center="transform:scale(1.5) translate3d(-93px, 0px, 0px)" data-top="transform:scale(1.5) translate3d(-93px, -50px, 0px)">
+      </div>
+    </div>
+
+  </section>
+
+
+
   <section id="bindle" class="show-for-medium-up index-bindle">
   
     <div class="row">
-      <div class="columns large-6 large-push-6 medium-6 medium-push-6">
+      <div class="columns large-6 medium-6">
         <h2>Bindle</h2>
         <p>Bindle aims to bring you the best way of group messaging on Android, iPhone and iPad - no unwanted noise, no participant limit, no phone number required. You can search a chat hashtag and talk with people that share an interest. </p>
         <p><a href="${bf.util.site_path_helper('bindle')}" class="btn all-caps white">Read more</a></p>
       </div>
-      <div class="columns large-6 large-pull-6 medium-6 medium-pull-6 center">
-        <img data-interchange="[img/product-bindle.png, (small)], [img/product-bindle-medium.png, (medium)],[img/product-bindle.png, (large)]" class="landing-product-pic" data-bottom-top="transform:translate3d(0px, 100px, 0px)" data-center="transform:translate3d(0px, 0px, 0px)" data-top="transform:translate3d(0px, -50px, 0px)">
-        <noscript><img src="img/product-bindle.png"></noscript>
+      <div class="columns large-6 medium-6 center">
+        <img src="img/15-10-bindle.png" data-bottom-top="transform:translate3d(0px, 100px, 0px)" data-center="transform:translate3d(0px, 0px, 0px)" data-top="transform:translate3d(0px, -50px, 0px)">
       </div>
     </div>
 

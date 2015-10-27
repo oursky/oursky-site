@@ -62,6 +62,7 @@
 		opacity: 1;
 	}
 
+
 	.main-nav-logo {
 		margin-top: 3px;
 		display: block;
@@ -92,8 +93,8 @@
 	}
 
 	#main-nav ul li a {
-		font-size:24px;
-		line-height: 50px;
+		font-size:20px;
+		line-height: 42px;
 	}
 
 	.nav-work-block {

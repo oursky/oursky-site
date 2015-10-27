@@ -5,8 +5,8 @@
   <div class="row nav-wrap">
     <div class="columns large-3 large-offset-2 medium-4 medium-offset-1">
       <ul>
-        <li class="show-for-medium-up"><a href="${bf.util.site_path_helper('index.html')}">Home</a></li>
         <li><a href="${bf.util.site_path_helper('about')}">About</a></li>
+        <li><a href="${bf.util.site_path_helper('works')}">Works</a></li>
         <li><a href="${bf.util.site_path_helper('products')}">Products</a></li>
         <li><a href="http://blog.oursky.com" target="_blank">Blog</a></li>
         <li><a href="http://code.oursky.com" target="_blank">Code@Oursky</a></li>

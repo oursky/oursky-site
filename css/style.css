@@ -375,6 +375,15 @@ a.nav-cta {
   text-align: center;
 }
 
+.desktop-nav a {
+  color:#fff;
+  margin-left: 20px;
+}
+
+.desktop-nav a.nav-link:hover {
+  border-bottom: 2px solid #fff;
+}
+
 /* -------- Animated button ---------- */
 
 .btn-menu.nav-toggle {
@@ -677,62 +686,6 @@ a.tag-anchor:hover {
   font-size: 20px;
 }
 
-/* index: Product */
-
-#products {
-  overflow: hidden;
-}
-
-/* index: Jamn Player */
-
-.index-jamn {
-  background: url("../img/bg-jamn-1.png") center #000 no-repeat;
-  background-size: cover;
-  color: #fff;
-  padding: 50px 0 0;
-  overflow: hidden;
-  max-height: 500px;
-}
-
-.index-jamn h2 {
-  color: #fff;
-}
-
-/* index: Bindle */
-
-.index-bindle {
-  background: #33BD9D;
-  color: #fff;
-  padding: 50px 0 0;
-  overflow: hidden;
-  max-height: 500px;
-}
-
-.index-bindle h2 {
-  color: #fff;
-}
-
-
-/* index: Bindle */
-
-.index-asos {
-  background-color: #fff;
-  background-image: url("../img/hero-asos-index.png");
-  background-size: auto 100%;
-  background-repeat: repeat-x;
-  border-top:1px solid #ddd;
-  border-bottom:1px solid #ddd;
-  color: #000;
-  padding: 50px 0 0;
-  overflow: hidden;
-  max-height: 500px;
-}
-
-.index-asos h2, .index-asos p {
-  color: #000;
-}
-
-
 
 /* index: mvp-graph */
 
@@ -810,6 +763,137 @@ a.tag-anchor:hover {
   background-size: cover;
   margin-bottom: 100px;
 }
+
+
+/* --------- Works ----------- */
+
+.work-link {
+  width: 100%;
+  padding: 70px 50px;
+  background: #666;
+  display: block;
+  color: #fff;
+  font-size: 24px;
+  border-radius: 8px;
+  background-size: cover;
+  background-position: center;
+}
+
+.work-link:hover {
+  opacity: 0.9;
+  color: #fff;
+}
+
+.work-link-asos {
+  background-image: url("../img/nav-work-3.png");
+}
+
+.work-link-jamn {
+  background-image: url("../img/nav-work-1.png");
+}
+
+.work-link-bindle {
+  background-image: url("../img/nav-work-2.png");
+}
+
+.work-link-ourcam {
+  background-image: url("../img/nav-work-oc.png");
+}
+
+
+.work-link-wifibb {
+  background-image: url("../img/nav-work-wb.png");
+}
+
+
+.work-link-snaptee {
+  background-image: url("../img/nav-work-st.png");
+}
+
+
+#title-works {
+  background-image: url("../img/hero-works.jpg");
+}
+
+
+/* index: Product */
+
+#products {
+  overflow: hidden;
+}
+
+/* index: Jamn Player */
+
+.index-jamn {
+  background: #141414;
+  color: #fff;
+  padding: 70px 0  ;
+  overflow: hidden;
+  max-height: 500px;
+}
+
+.index-jamn h2 {
+  color: #fff;
+}
+
+/* index: Bindle */
+
+.index-bindle {
+  background: #33BD9D;
+  color: #fff;
+  padding: 50px 0 ;
+  overflow: hidden;
+  max-height: 500px;
+}
+
+.index-bindle h2 {
+  color: #fff;
+}
+
+
+/* index: Asos */
+
+.index-asos {
+  background-color: #f6f6f6;
+  color: #000;
+  padding: 50px 0 ;
+  overflow: hidden;
+  max-height: 500px;
+}
+
+
+.index-asos h2, .index-asos p {
+  color: #000;
+}
+
+/* index: Snaptee */
+
+.index-snaptee {
+  background-color: #ee3333;
+  color: #fff;
+  padding: 50px 0 80px;
+  overflow: hidden;
+  max-height: 500px;
+}
+
+.index-snaptee h2 {
+  color: #fff;
+}
+
+.index-snaptee p {
+  color: #fff;
+}
+
+#snaptee img {
+  transform: rotate(0deg) scale(1.5) skew(1deg) translate(-93px);
+  -webkit-transform: rotate(0deg) scale(1.5) skew(1deg) translate(-93px);
+  -moz-transform: rotate(0deg) scale(1.5) skew(1deg) translate(-93px);
+  -o-transform: rotate(0deg) scale(1.5) skew(1deg) translate(-93px);
+  -ms-transform: rotate(0deg) scale(1.5) skew(1deg) translate(-93px);
+  padding-top: 16%;
+}
+
+
 
 /* --------- Products --------- */
 
