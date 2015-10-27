@@ -2,6 +2,14 @@
 
   <div class="mobile-tag show-for-small-only">
      <h1 class="tag">We develop better <br> <strong>Apps</strong> and <strong>Digital Products</strong></h1>
+
+     <span class="tag-anchor-wrap">
+      <a class="all-caps tag-anchor">
+        Learn about what we do <br>
+        <img src="img/arrow-down.svg">
+      </a>
+    </span>
+    
   </div>
   
   <div class="tag-line-wrap cycle-slideshow show-for-medium-up" 
