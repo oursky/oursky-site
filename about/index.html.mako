@@ -89,7 +89,7 @@
       <p class="white">Developers and QA Engineers</p>
     </div>
     <div class="columns small-12 large-4 medium-4 center results end">
-      <h1 class="white">2</h1>
+      <h1 class="white">4</h1>
       <p class="white">Cats</p>
     </div>
   </div>
