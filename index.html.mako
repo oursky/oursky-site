@@ -60,7 +60,7 @@
     <div class="row">
       <div class="columns large-12 center">
         <h6 class="center all-caps">Latest blog post</h6>
-        <a href="http://code.oursky.com/geeks-way-to-say-things/" target="_blank">Geek's way to say things</a>
+        <a href="http://code.oursky.com/slack-dsym-bot-report-via-sentry/" target="_blank">Better StackTrace for iOS crash report from Sentry on Slack</a>
       </div>
     </div>
   </section>
