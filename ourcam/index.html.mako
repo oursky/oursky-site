@@ -3,7 +3,7 @@
 <div id="title-ourcam" class="heading-title">
   <div class="row">
     <div class="columns small-12 large-8 large-centered center">
-      <h1><img src="../img/ourcam-logo.png" style="max-width:380px;"></h1>
+      <h1><img src="../img/ourcam-logo.png" style="max-width:380px; width:100%;"></h1>
     </div>
   </div>
 </div>
