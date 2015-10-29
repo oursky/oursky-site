@@ -96,7 +96,7 @@
         <div class="swiper-wrapper">
 
             <div class="swiper-slide">
-              <div class="index-asos"> 
+              <div class="index-asos index-slide-fullwidth"> 
                 <h2>ASOS NEW IN</h2>
                 <p></p>
                 <p><a href="${bf.util.site_path_helper('asos')}" class="btn all-caps">Read more</a></p>
@@ -105,7 +105,7 @@
             </div>
 
             <div class="swiper-slide">
-              <div class="index-jamn"> 
+              <div class="index-jamn index-slide-fullwidth"> 
                 <h2>Jamn Player</h2>
                 <p></p>
                 <p><a href="${bf.util.site_path_helper('jamn')}" class="btn all-caps white">Read more</a></p>
@@ -113,11 +113,35 @@
               </div>
             </div>
             <div class="swiper-slide">
-              <div class="index-bindle">
+              <div class="index-bindle index-slide-fullwidth">
                 <h2>Bindle</h2>
                 <p><a href="${bf.util.site_path_helper('bindle')}" class="btn all-caps white">Read more</a></p>
                 <img src="img/product-bindle.png">
              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="index-snaptee index-slide-fullwidth"> 
+                <h2>Snaptee</h2>
+                <p></p>
+                <p><a href="${bf.util.site_path_helper('snaptee')}" class="btn all-caps white">Read more</a></p>
+                <img src="img/15-10-snaptee-slide.png" >
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="index-wifibb index-slide-fullwidth"> 
+                <h2>WiFibb</h2>
+                <p></p>
+                <p><a href="${bf.util.site_path_helper('wifibb')}" class="btn all-caps white">Read more</a></p>
+                <img src="img/15-10-wifibb-slide.png" >
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="index-ourcam index-slide-fullwidth"> 
+                <h2>Ourcam</h2>
+                <p></p>
+                <p><a href="${bf.util.site_path_helper('ourcam')}" class="btn all-caps white">Read more</a></p>
+                <img src="img/15-10-ourcam.png" >
+              </div>
             </div>
         </div>
         <!-- Add Pagination -->
@@ -167,7 +191,7 @@
     <div class="row">
       <div class="columns large-6 large-push-6 medium-6 medium-push-6">
         <h2>Snaptee</h2>
-        <p>We worked with one of the world’s biggest online fashion store ASOS and built this innovative app to let users browse new arrivals swiftly and pleasantly.
+        <p>We set foot in the project after the team had developed the iOS Application. In order to meet the demand of users, we help Snaptee expands to Android and Web platform quickly.
         </p>
         <p><a href="${bf.util.site_path_helper('snaptee')}" class="btn all-caps white">Read more</a></p>
       </div>

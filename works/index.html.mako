@@ -5,7 +5,7 @@
   <div class="v-center title-cover-wrap">
     <h2>Our Works</h2>
     <p class="paragraph spacer-small">
-      Some great products and services we build with our clients recently.
+      Some great products and services we build with our clients.
     </p>
   </div>
   

@@ -6,7 +6,6 @@
     <div class="columns large-3 large-offset-2 medium-4 medium-offset-1">
       <ul>
         <li><a href="${bf.util.site_path_helper('about')}">About</a></li>
-        <li><a href="${bf.util.site_path_helper('works')}">Works</a></li>
         <li><a href="${bf.util.site_path_helper('products')}">Products</a></li>
         <li><a href="http://blog.oursky.com" target="_blank">Blog</a></li>
         <li><a href="http://code.oursky.com" target="_blank">Code@Oursky</a></li>
@@ -26,6 +25,15 @@
         </a>
         <a href="${bf.util.site_path_helper('bindle')}" class="nav-work-block" style="background-image:url('${bf.util.site_path_helper('img/nav-work-2.png')}')">
           Bindle
+        </a>
+        <a href="${bf.util.site_path_helper('snaptee')}" class="nav-work-block" style="background-image:url('${bf.util.site_path_helper('img/nav-work-st.png')}')">
+          Snaptee
+        </a>
+        <a href="${bf.util.site_path_helper('wifibb')}" class="nav-work-block" style="background-image:url('${bf.util.site_path_helper('img/nav-work-wb.png')}')">
+          WiFiBB
+        </a>
+        <a href="${bf.util.site_path_helper('ourcam')}" class="nav-work-block" style="background-image:url('${bf.util.site_path_helper('img/nav-work-oc.png')}')">
+          Ourcam
         </a>
         <a href="${bf.util.site_path_helper('enquiry')}" class="nav-cta btn ">Start your project</a>
       </div>

@@ -104,6 +104,7 @@
 		float: left;
 		padding-top: 30px;
 		padding-bottom: 30px;
+		margin-bottom: 10px;
 	}
 
 
@@ -164,20 +165,12 @@
  		background-size: 170px;
  	}
 
- 	div.index-jamn {
+ 	div.index-slide-fullwidth {
  		width: 100%;
  		padding-bottom: 50px;
  	}
 
- 	div.index-bindle {
- 		width: 100%;
- 		padding-bottom: 50px;
- 	}
-
- 	div.index-asos {
- 		width: 100%;
- 		padding-bottom: 50px;
- 	}
+ 	
 
  	#mvp-img {
  		overflow: scroll;
@@ -229,6 +222,8 @@
  		height: 450px;
  		margin: 70px 0;
  	}
+
+
 
 
 

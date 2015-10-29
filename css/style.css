@@ -871,7 +871,7 @@ a.tag-anchor:hover {
 .index-snaptee {
   background-color: #ee3333;
   color: #fff;
-  padding: 50px 0 80px;
+  padding: 50px 0 50px;
   overflow: hidden;
   max-height: 500px;
 }
@@ -891,6 +891,24 @@ a.tag-anchor:hover {
   -o-transform: rotate(0deg) scale(1.5) skew(1deg) translate(-93px);
   -ms-transform: rotate(0deg) scale(1.5) skew(1deg) translate(-93px);
   padding-top: 16%;
+}
+
+.index-wifibb {
+   background-color: #2591cd;
+   padding: 50px 0 50px;
+}
+
+.index-wifibb h2 {
+  color: #fff;
+}
+
+.index-ourcam {
+   background-color: #888;
+   padding: 50px 0 50px;
+}
+
+.index-ourcam h2 {
+  color: #fff;
 }
 
 
