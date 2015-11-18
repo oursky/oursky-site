@@ -30,12 +30,12 @@
 
         <li> 
             <h4 class="center">
-              <img src="../img/logo-gitlo.png"><br>
-              Gitlo</h4>
-            <p class="column-paragraph">
-              Integrate GitHub issues into Trello boards.
-              <br><span class="comingsoon all-caps">Coming soon</span>
-            </p>
+              <a href="http://gitlo.co" target="_blank"><img src="../img/logo-gitlo.png"><br>
+                Gitlo
+              </a></h4>
+              <p class="column-paragraph">
+                GitHub x Trello Two-way-Synchronization Integration.
+              </p>
         </li>
 
         <li> 
