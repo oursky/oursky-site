@@ -19,11 +19,12 @@
 
         <li> 
             <h4 class="center">
-              <img src="../img/logo-shotbot.png"><br>
-              Shotbot</h4>
+              <a href="http://shotbot.io" target="_blank">
+                <img src="../img/logo-shotbot.png"><br>
+                Shotbot</a>
+                </h4>
             <p class="column-paragraph">
-              iTunes screenshot submit tools.
-              <br><span class="comingsoon all-caps">Coming soon</span>
+              iTunesConnect screenshots submit tool.
             </p>
         </li>
 
