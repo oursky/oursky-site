@@ -35,6 +35,8 @@ $(document).ready(function() {
         eventCategory: 'Enquiry',
         eventAction: 'Submit enquiry form'
       });
+      window['optimizely'] = window['optimizely'] || [];
+      window['optimizely'].push(["trackEvent", "enquiryformSubmit"]);
     });
   }
 });
