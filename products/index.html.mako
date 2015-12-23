@@ -19,18 +19,19 @@
 
         <li> 
             <h4 class="center">
-              <img src="../img/logo-shotbot.png"><br>
-              Shotbot</h4>
+                <a href="http://shotbot.io"><img src="../img/logo-shotbot.png"><br>
+                Shotbot</a>
+            </h4>
             <p class="column-paragraph">
               iTunes screenshot submit tools.
-              <br><span class="comingsoon all-caps">Coming soon</span>
             </p>
         </li>
 
         <li> 
             <h4 class="center">
-              <img src="../img/logo-gitlo.png"><br>
-              Gitlo</h4>
+                <a href="http://gitlo.co"><img src="../img/logo-gitlo.png"><br>
+                Gitlo</a>
+            </h4>
             <p class="column-paragraph">
               Integrate GitHub issues into Trello boards.
               <br><span class="comingsoon all-caps">Coming soon</span>
