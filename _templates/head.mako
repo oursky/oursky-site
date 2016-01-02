@@ -4,6 +4,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta name="author" content="Oursky Limited">
 <meta name="keywords" content="app development, mobile application, iphone app developer, develop app, content management systems, python, ruby on rails, web applications, web design, wordpress">
+<meta name="description" content="We are a team of 40 app developers and designers, with cutting-edge technologies and best practices, we work with startups or corporate to build great products."
 <meta property="og:title" content="Oursky Limited">
 <meta property="og:type" content="company">
 <meta property="og:url" content="${bf.config.site.url}">
