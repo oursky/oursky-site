@@ -5,7 +5,7 @@
   <div class="v-center title-cover-wrap">
     <h2>We work with clients to plan, design <br>and build digital products.</h2>
     <p class="paragraph spacer-small">
-      We are a team of 35 geeky folks who are passionate about creating world-class products. Over the past six years, we have been working with individuals and businesses of all sizes to build quality digital products and experiences.
+      We are a team of 40 geeky folks who are passionate about creating world-class products. Over the past six years, we have been working with individuals and businesses of all sizes to build quality digital products and experiences.
     </p>
   </div>
   
