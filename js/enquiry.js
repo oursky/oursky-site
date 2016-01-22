@@ -30,13 +30,13 @@ $(document).ready(function() {
           }
         }
       });
-      $('#submit').click();
       ga('send', 'event', {
         eventCategory: 'Enquiry',
         eventAction: 'Submit enquiry form'
       });
       window['optimizely'] = window['optimizely'] || [];
       window['optimizely'].push(["trackEvent", "enquiryformSubmit"]);
+      $('#submit').click();
     });
   }
 });
