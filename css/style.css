@@ -1024,7 +1024,7 @@ input[type=text], input[type=email] {
   border-bottom: 2px solid #ccc;
   width: 100%;
   font-size: 16px;
-  margin-bottom: 24px;
+  margin-top: 24px;
   padding: 10px 0;
   box-shadow: none;
 }
@@ -1081,7 +1081,6 @@ input:focus:invalid {
 
 .textarea textarea {
   width: 100%;
-  margin-bottom: 24px;
   height: 120px;
   border: 1px solid #ccc;
   text-align: left;

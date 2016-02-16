@@ -17,9 +17,6 @@ $(document).ready(function() {
         minlength: 1
       }
     },
-    success: function(label) {
-      label.addClass("valid").text("Ok!");
-    },
     errorPlacement: function(error, element) {
       var elements = $("[name ='" + $(element).attr("name") + "']");
       if (elements.length > 1) {
