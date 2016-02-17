@@ -106,9 +106,8 @@
             <div class="hidden"><input type="hidden" name="$action" value="_firstSubmitInstep"></div>
           </div>
           <div class="row">
-            <div class="large-12 columns center  spacer-small">
-              <a class="btn large-btn submitForm" >Submit </a>
-              <input type="submit" id="submit" class="btn large-btn" style="display:none">
+            <div class="large-12 columns center spacer-small">
+              <button class="btn large-btn submitForm" >Submit</button>
             </div>
           </div>
         </form>
