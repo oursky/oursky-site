@@ -282,9 +282,15 @@ header.add-bg {
   padding: 10px 0.9375rem 10px;
 }
 
+header.header-white.add-bg {
+  background: rgba(255,255,255,0.9);
+  border-bottom: 1px solid #eee;
+}
+
 header.active, header.active.add-bg {
   background: none;
   padding: 20px 0.9375rem 20px;
+  border-bottom: none;
 }
 
 header.header-white .header-logo path {

@@ -102,3 +102,21 @@ $('.heading-dark').exists(function(){
     $('header')[func]('add-bg');
   });
 })
+
+$('.header-white').exists(function(){
+  var
+    effectStart=jQuery('.header-white').offset().top,
+    effectEnd=jQuery('.header-white').offset().top + jQuery('.header-white').outerHeight();
+
+
+  $('.header-white').scrollPoint({
+    up   : effectStart - 20,
+    down : effectEnd
+  });
+      
+  $(document).on('scrollPointMove', '.header-white', function(e) {
+    if($('.no-scroll').length) return;
+    var func = !e.isIn ? "addClass" : "removeClass";
+    $('header')[func]('add-bg');
+  });
+})
