@@ -30,7 +30,10 @@
           <ul>
             <li><a href="https://www.facebook.com/oursky.hk" target="_blank">Facebook</a></li>
             <li><a href="http://blog.oursky.com" target="_blank">Blog</a></li>
-            <li><a href="http://code.oursky.com" target="_blank">Code@Oursky</a></li>
+            <li><a href="http://blog-tw.oursky.com"
+            target="_blank">Oursky@Taipei</a></li>
+            <li><a href="http://life.oursky.com" target="_blank">Life</a></li>
+            <li><a href="https://code.oursky.com" target="_blank">Code@Oursky</a></li>
           </ul>
         </li>
         <li>

@@ -3,9 +3,9 @@
 <div id="title-works" class="heading-title heading-dark center title-cover">
 
   <div class="v-center title-cover-wrap">
-    <h2>Our Works</h2>
+    <h2>Our Work</h2>
     <p class="paragraph spacer-small">
-      Some great products and services we build with our clients.
+      Some great products we build with our clients.
     </p>
   </div>
   

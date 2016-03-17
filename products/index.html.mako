@@ -5,7 +5,7 @@
   <div class="v-center title-cover-wrap">
     <h2>Our Products</h2>
     <p class="paragraph spacer-small">
-      We create great products with our talented team of developers and designers, and used by people all over the world.
+      We create great products used by people all over the world.
     </p>
   </div>
   

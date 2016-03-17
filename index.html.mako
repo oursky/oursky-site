@@ -5,7 +5,7 @@
 
      <span class="tag-anchor-wrap">
       <a class="all-caps tag-anchor">
-        Learn about what we do <br>
+        Learn More<br>
         <img src="img/arrow-down.svg">
       </a>
     </span>
@@ -50,7 +50,7 @@
 
     <span class="tag-anchor-wrap">
       <a class="all-caps tag-anchor">
-        Learn about what we do <br>
+        Learn More<br>
         <img src="img/arrow-down.svg">
       </a>
     </span>

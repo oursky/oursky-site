@@ -11,14 +11,21 @@
 <section class="contents product-page">
   <div class="row">
     <div class="columns small-12 large-8 large-centered center">
-      <h3 class="sub-tag">Browse new arrivals swiftly and pleasantly</h3>
-      <p class="paragraph">ASOS is a global fashion destination for 20-somethings. They sell over 75,000 branded and own-brand products through localised mobile and web experiences, to almost every country in the world.
+      <h3 class="sub-tag">Browse new arrivals with ease</h3>
+      <p class="paragraph">We were excited to work  with ASOS, one of the
+      largest online retail stores in the world, to help make it easier for
+      customers to browse new arrivals.</p>
+      <p class="paragraph">A global fashion destination for today’s millennial,
+      ASOS sells over 75,000 branded and private label products through
+      localised mobile and web experiences in almost every country in the world.
       </p>
+      <p class="paragraph">We are proud to have worked with ASOS to create this
+      innovative app presenting the ever popular ‘NEW IN’ ASOS daily feed. There
+      are around 4,000  new items launched every week and our app delivers them
+      seamlessly. </p>
+      <p class="paragraph">The NEW IN app is available on iOS in the UK and
+      Denmark, with a global rollout coming soon. </p>
       <p class="spacer"><img src="../img/asos-1.png"></p>
-      <p class="paragraph">We are proud to have worked with ASOS to create this innovative app for presenting the ever popular ‘NEW IN’ ASOS daily feed. 2,500-4,500 new items are launched every week and this app delivers them all in one easy-to-use place. New products every day. 
-      </p>
-      <p class="paragraph">The NEW IN app is now available in the UK and Denmark, on iOS and is free of charge. It will then be rolled out across other territories at a later date.
-      </p>
     </div>
   </div>
 
