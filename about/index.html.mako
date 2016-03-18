@@ -15,7 +15,7 @@
   <div class="spacer-small">
     <div class="row ">
       <div class="columns small-12 medium-4 large-4 center">
-        <h6 class="all-caps">We care about codes</h6>
+        <h6 class="all-caps">We care about code</h6>
         <p class="column-paragraph">Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program, said Linus Torvalds. We love coding and we code beautifully.</p>
         
       </div>
