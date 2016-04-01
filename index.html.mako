@@ -56,6 +56,7 @@
     </span>
   </div>
 
+<%doc>
   <section id="latest-blog" class="show-for-medium-up">
     <div class="row">
       <div class="columns large-12 center">
@@ -64,26 +65,53 @@
       </div>
     </div>
   </section>
+</%doc>
 
   <section class="contents" id="about">
 
     <div class="row">
-      <div class="columns small-12 medium-10 large-8 large-centered medium-centered center">
-        <div class="spacer">
-          <h3 class="sub-tag"  data-bottom-top=" transform:translate3d(0px, 300px, 0px)"  data-center=" transform:translate3d(0px, 0px, 0px)">We craft state-of-the-art applications</h3>
-          <p class="paragraph huge carbon thin"  data-bottom-top="opacity:0; transform:translate3d(0px, 400px, 0px)"  data-center="opacity:1; transform:translate3d(0px, 0px, 0px)">We are a team of 40 talented Hong Kong app developers and designers. With cutting-edge technologies and best practices, we develop web &amp; mobile apps which have got millions of downloads, and won multiple awards including Best of 2013 selected by Apple App Store and Hong Kong ICT Awards of the Year 2014.
+      <div class="columns small-12 medium-7 large-8">
+          <h3 class="sub-tag">We craft state-of-the-art applications</h3>
+          <p class="huge thin"  data-bottom-top="opacity:0;"  data-center="opacity:1;">We are a team of 40 talented Hong Kong app developers and designers. With cutting-edge technologies and best practices, we develop web and mobile apps which have got millions of downloads, and won multiple awards including Best of the Year app selected by Apple App Store and Hong Kong ICT Awards of the Year 2014.
           </p>
-        </div>
+
+      </div>
+      <div class="columns medium-5 large-4 show-for-medium-up">
+          <h5 class="all-caps">LATEST BLOG POSTS</h5>
+          <ul>
+            <li><a href="http://blog.oursky.com/2016/03/29/guide-to-google-analytics-for-websites/" target="_blank">Beginner’s guide to Google Analytics for Websites</a></li>
+            <li><a href="http://blog.oursky.com/2016/03/21/two-common-reasons-startup-failure/">Startup fails when it’s just about a dream</a></li>
+            <li><a href="http://blog.oursky.com/2016/03/17/always-focus-frontend-instead-backend/">Dear Founders: Here’s Why You Should Always Focus on Frontend Instead of Backend for an MVP</a></li>
+            <li><a hred="http://blog.oursky.com/2016/03/14/mvp-into-an-award-winning-app/">From MVP to Best of Year App featured by Apple</a></li>
+          </ul>
       </div>
     </div>
 
     <div class="row">
-        <div class="columns small-12 medium-8 large-6 large-centered medium-centered center ">
-          <div class="spacer" >
-            <div data-bottom-top="opacity:0; transform:translate3d(0px, 200px, 0px)"  data-center="opacity:1; transform:translate3d(0px, 0px, 0px)">
-            <q>Friendly services with quick response, helpful consultation with delivery of great quality.</q>
+      <div class="columns small-12 medium-6 large-6 ">
+            <q class="carbon">Friendly services with quick response, helpful consultation with delivery of great quality.</q>
             <p class="mid carbon"> <strong>Lucy Bruzzone</strong> Senior Programme Manager, Earthwatch Institute </p>
-          </div>
+
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="spacer-small">
+        <div class="columns small-6 medium-3 center">
+          <h1 class="blue">9.3</h1>
+          <p>out of 10 clients ratings recommend for others in 2015</p>
+        </div>
+        <div class="columns small-6 medium-3 center">
+           <h1 class="blue">70%</h1>
+           <p>iOS app developed are featured by AppStore </p>
+        </div>
+        <div class="columns small-6 medium-3 center">
+          <h1 class="blue">4</h1>
+           <p>weeks average time from concept to interactive prototype</p>
+        </div>
+        <div class="columns small-6 medium-3 center">
+           <h1 class="blue">3</h1>
+           <p>months average time for developing a MVP app</p>
         </div>
       </div>
     </div>
@@ -149,11 +177,7 @@
     </div>
   </section>
 
-  <div class="row show-for-medium-up">
-    <div class="columns small-12 medium-8 large-8 large-centered medium-centered center">
-      <h5 class="section-head all-caps spacer-small">Recent Works</h5>
-    </div>
-  </div>
+
 
   <section id="asos" class="show-for-medium-up index-asos">
 
@@ -219,26 +243,70 @@
 
   </section>
 
-  <div class=" show-for-medium-up grey-bg spacer-small">
-  </div>
 
   <section id="learn-mvp" class="contents">
     
     <div class="row">
-      <div class="columns large-6 medium-8 small-12 large-collapse medium-centered large-uncentered">
-        <h1 class="sub-tag-large show-for-large-up" data-bottom-top="transform:translate3d(0px, 200px, 0px)"  data-top-bottom="transform:translate3d(0px, -80px, 0px)">The only way to win is to learn faster than anyone else.</h1>
-        <h1 class="sub-tag show-for-small-only">The only way to win is to learn faster than anyone else.</h1>
-        <h1 class="sub-tag show-for-medium-only spacer-small">The only way to win is to learn faster than anyone else.</h1>
+      <div class="columns large-6 medium-7 small-12 large-push-3 medium-push-4">
+         <h3 class="sub-tag">  
+          We believe short iterations deliver great experience and products
+         </h3>
       </div>
-      <div class="columns small-12 large-5 medium-8 medium-centered large-collapse large-uncentered">
-        <h5 class="section-head all-caps spacer-small">Learn with MVP</h5>
-        <p>Here at Oursky, we break a project down into smaller chunks and aim for a Minimum Viable Product (MVP) that we can show our users ASAP in the development cycle. Understand your users sooner, less risk towards the end.</p>
-        <div class="spacer-small mvp-xo">
-          <img data-interchange="[img/mvp-1-small.png, (small)], [img/mvp-1.png, (medium)],[img/mvp-1.png, (large)]" class="landing-product-pic">
-          <noscript><img src="img/mvp-1.png"></noscript>
+    </div>
+
+    <div class="row">
+      <div class="spacer-small">
+        <div class="columns large-3 medium-4 small-12">
+              <p class="all-caps mid font-spacer bold">Everything begin with a design consultant meeting</p>
         </div>
-        <p>Compared with the traditional way, you will not need to wait until the big project is done to preview and test. The MVP approach enables you to validate your idea and know your users fast, making sure that the product delivered is usable and with great experience.
-        </p>
+        <div class="columns large-8 medium-7 small-12 end">
+              <p>Together we understand your goal and ideas, then we develop the user flow, wireframe, high fidelity mockups and clickable prototype for your web / mobile app.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="spacer-small">
+        <div class="columns large-3 medium-4 small-12">
+              <p class="all-caps mid font-spacer bold">We build your app one week at a time.</p>
+        </div>
+        <div class="columns large-8 medium-7 small-12 end">
+             <p> Our Project Manager prepare weekly builds and reports, so your users can try the app earlier, you can track our progress better, and we can get your feedback faster.
+              </p>
+        </div>
+      </div>
+   </div>
+
+    <div class="row">
+      <div class="spacer-small">
+        <div class="columns large-3 medium-4 small-12">
+              <p class="all-caps mid font-spacer bold">We embrace iterations and changes</p>
+        </div>
+        <div class="columns large-8 medium-7 small-12 end">
+              <p>As the app start to take shape, we expect scope and features need to be changed. We don’t want you to get bounded by a fixed scope and build features end up not necessary.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="spacer-small">
+        <div class="columns large-3 medium-4 small-12">
+          <p class="all-caps mid font-spacer bold">You own the code and repository</p>
+        </div>
+        <div class="columns large-8 medium-7 small-12 end">
+             <p>You own the code and the git repository — that meant you have the complete commit logs and history of how the code build up day-to-day.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="spacer-small">
+        <div class="columns large-3 medium-4 small-12">
+          <p class="all-caps mid font-spacer bold">We’re experienced with startups</p>
+        </div>
+        <div class="columns large-8 medium-7 small-12 end">
+             <p> We are very experience with helping startups to refine its MVP scope, build clickable prototypes for investors, usability test session and focus group; We have state-of-the-art development process.</p>
+        </div>
       </div>
     </div>
 

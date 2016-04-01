@@ -6,7 +6,7 @@
     <div class="columns large-3 large-offset-2 medium-4 medium-offset-1">
       <ul>
         <li><a href="${bf.util.site_path_helper('about')}">About</a></li>
-        <li><a href="${bf.util.site_path_helper('products')}">Products</a></li>
+        <li><a href="${bf.util.site_path_helper('works')}">Work</a></li>
         <li><a href="http://blog.oursky.com" target="_blank">Blog</a></li>
         <li><a href="http://code.oursky.com" target="_blank">Code@Oursky</a></li>
         <li><a href="http://jobs.oursky.com" target="_blank">Jobs</a></li>

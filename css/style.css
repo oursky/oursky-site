@@ -573,6 +573,10 @@ header.header-white .menu-toggle-switch-x span::after {
   display: block;
 }
 
+.title-cover.short {
+  height: auto;
+}
+
 /* -- Landing -- */
 
 /* Tag line */
@@ -782,7 +786,7 @@ a.tag-anchor:hover {
 
 .work-link {
   width: 100%;
-  padding: 70px 50px;
+  padding: 180px 50px;
   background: #666;
   display: block;
   color: #fff;
@@ -1239,6 +1243,10 @@ input:focus:invalid {
 
 .full-height {
   height: 100%;
+}
+
+.full-width {
+  width: 100%;
 }
 
 .aligner {

@@ -1,13 +1,13 @@
 <%inherit file="../_templates/site.mako" />
 
-<div id="title-works" class="heading-title heading-dark center title-cover">
-
-  <div class="v-center title-cover-wrap">
-    <h2>Our Work</h2>
-    <p class="paragraph spacer-small">
-      Some great products we build with our clients.
-    </p>
-  </div>
+<div id="title-works" class="heading-title heading-dark title-cover short">
+  <div class="v-center full-width">
+    <div class="row">
+      <div class="columns small-12 medium-6 large-6">
+        <h2>We develop and design products and services that create great value</h2>
+      </div>
+    </div>
+   </div>
   
 </div>
 

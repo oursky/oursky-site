@@ -21,9 +21,9 @@
   <div class="floatRight">
     <div class="visible-for-medium-up desktop-nav">
        <a href="${bf.util.site_path_helper('about')}" class="nav-link">About</a>
-       <a href="${bf.util.site_path_helper('works')}" class="nav-link">Our Work</a>
-       <a href="${bf.util.site_path_helper('products')}" class="nav-link">Products</a>
+       <a href="${bf.util.site_path_helper('works')}" class="nav-link">Work</a>
        <a href="http://jobs.oursky.com" target="_blank" class="nav-link">Jobs</a>
+       <a href="${bf.util.site_path_helper('prototype')}" class="nav-link">Prototype your app</a>
        <a href="${bf.util.site_path_helper('enquiry')}" class="btn-header btn">Start your project</a>
      </div>
    <div class="btn-menu nav-toggle show-for-small-only">
