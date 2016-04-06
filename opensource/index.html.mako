@@ -23,6 +23,17 @@
                 <h3 class="sub-tag">
                  Our open source projects
                 </h3>
+                <p>As developers, we're commit to make the world a better place
+                by opensourcing as much as we can. We have sponsored numerous
+                community event including <a href="http://2015.opensource.hk/">
+                Hong Kong Open Source Conference</a>, <a
+                href="https://tw.pycon.org/2015apac/en/">PyCon APAC 2015</a>, <a
+                href="http://sitcon.org/2016/">SITCON 2016</a> etc.</p>
+
+                <p>Beside contribute to other open-source project regularly,
+                here are some small open source project our team release over
+                the year. If you're interested, check out our <a
+                href="https://code.oursky.com">Code Blog</a> too.
               </div>
           </div>
 
@@ -35,15 +46,21 @@
 
             <div class="spacer-small">
               <ul class="list-large">
-                  <li> Skygear - Backend-as-a-Service for Web, Mobile and IoT applications (parse alternatives) github.com/skygeario (<a href="http://github.com/skygeario" target="_blank">http://github.com/skygeario</a>)
+                  <li><a href="https://github.com/skygeario">Skygear</a> - Backend-as-a-Service for Web, Mobile and IoT applications (parse alternatives)
                   </li>
-                  <li>dotfiles - Various dotfiles suggest to use company-wide <a href="https://github.com/oursky/dotfiles">https://github.com/oursky/dotfiles</a></li>
-                  <li>parse-server-sendgrid-adapter - Simple sendgrid adapter for parse server <a href="https://github.com/oursky/parse-server-sendgrid-adapter">https://github.com/oursky/parse-server-sendgrid-adapter</a></li>
-                  <li>Redux - Swift implementation of redux https://github.com/oursky/Redux <a href="https://github.com/oursky/Redux-Project-Template">https://github.com/oursky/Redux-Project-Template</a></li>
-                  <li>norecaptcha - Python client for the google new No CAPTCHA reCAPTCHA services <a href="https://github.com/oursky/norecaptcha">https://github.com/oursky/norecaptcha</a></li>
-                  <li>travis-ios-script - Reusable iOS Script for Travis CI integration with Testflight, Crittercism and HockeyApp support <a href="https://github.com/oursky/travis-ios-script">https://github.com/oursky/travis-ios-script</a></li>
-                  <li>gogocyclo - Tool intended to be used in CI to ignore certain results from gocyclo <a href="https://github.com/oursky/gogocyclo">https://github.com/oursky/gogocyclo</a></li>
-                  <li>slack-dsym-bot - Slackbot for iOS crash report via Sentry <a href="https://github.com/oursky/slack-dsym-bot">https://github.com/oursky/slack-dsym-bot</a></li>
+                  <li><a href="https://github.com/oursky/dotfiles">dotfiles</a> - Various dotfiles suggest to use company-wide</li>
+                  <li><a
+                  href="https://github.com/oursky/parse-server-sendgrid-adapter">parse-server-sendgrid-adapter</a> - Simple sendgrid adapter for parse server</li>
+                  <li><a href="https://github.com/oursky/Redux">Redux - Swift
+                  implementation of redux </li>
+                  <li><a
+                  href="https://github.com/oursky/norecaptcha">norecaptcha</a> - Python client for the google new No CAPTCHA reCAPTCHA services </li>
+                  <li><a
+                  href="https://github.com/oursky/travis-ios-script">travis-ios-script</a> - Reusable iOS Script for Travis CI integration with Testflight, Crittercism and HockeyApp support</li>
+                  <li><a
+                  href="https://github.com/oursky/gogocyclo">gogocyclo</a> - Tool intended to be used in CI to ignore certain results from gocyclo </li>
+                  <li><a
+                  href="https://github.com/oursky/slack-dsym-bot">slack-dsym-bot</a> - Slackbot for iOS crash report via Sentry</li>
             </div>
           
           </div>
