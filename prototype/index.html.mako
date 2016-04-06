@@ -16,7 +16,20 @@
 
     <div class="row">
       <div class="small-12 medium-12 large-8 columns">
-
+          <div class="row">
+            <div class="columns small-12">
+                <h3 class="sub-tag">What is an app prototype?</h3>
+                <p>
+                An app prototype is used to communicate and test web / mobile app ideas. They are intended for the following purpose, but not a completed product ready for market
+                <ul>
+                   <li>Demonstrate the feasibility of the idea</li>
+                   <li>Investor pitch</li>
+                   <li>Focus group or usability test</li>
+                   <li>Design and define the scope for further development by internal / outsourced developers</li>
+                </ul>
+                </p>
+            </div>
+          </div>
           <div class="row">
               <div class="columns small-12">
                 <h3 class="sub-tag">
@@ -36,7 +49,10 @@
                       For Startups
                     </p>
                     <p>
-                      We help you to develop your idea or rough wireframe into a concrete demo, so you can get users / investor feedback with a real demo, and estimate the time and effort for a real product accurately.
+                      We help you to develop your idea or rough wireframe into a
+                      real demo, so you can get users / investor feedback
+                      with a real demo, and define the product better, and
+                      estimate the time and effort for a real product accurately.
                     </p>
                </div>
 
@@ -50,7 +66,7 @@
                       For Business / Enterprise
                     </p>
                     <p>
-                      We help you to understand and experience how a mobile experiences would work for your customers.
+                      We help you to understand how a mobile experiences would work for your customers.
                     </p>
                     <p>
                       Most importantly, we gives you the benefits of having an entire design &amp; development team at the fraction of cost to hire a new developer for it!
@@ -92,6 +108,10 @@
                     Interaction design<br>
                   Feedback meeting on user flow and wireframe.</p>
 
+                  <p> <span class="all-caps font-spacer bold mid">Schedule</span> <br>
+                    2 weeks
+                  </p>
+
                   <p> <span class="all-caps font-spacer bold mid">Your investment</span> <br>
                     HKD 60,000 / USD 8,000 
                   </p>
@@ -110,7 +130,7 @@
                   
                     Proof of concept app</span>
                     <br>
-                    We will still design the userflow, wireframes and mockups. But finally we will develop a Proof-of-Concept native app without a backend, with a rough interface and dummy data. ( 3 extra weeks for coding )
+                    We will build the interactive prototype, in addition with a Proof-of-Concept native app without a backend, with a rough interface and dummy data.
                   </p>
 
                   <p> <span class="all-caps font-spacer bold mid">Services</span>
@@ -122,6 +142,10 @@
                     Interaction design<br>
                   Feedback meeting on user flow and wireframe<br>
                   Frontend-UI coding<br>
+                  </p>
+
+                  <p> <span class="all-caps font-spacer bold mid">Schedule</span> <br>
+                    5 weeks
                   </p>
 
                   <p> <span class="all-caps font-spacer bold mid">Your investment</span> <br>
@@ -154,8 +178,8 @@
                 </p>
 
                 <p>
-                Monthly Retainer for 1 dedicated developer with support from <span class="bold">Project Manager, QA Team, and Code Reviewer</span>: <br>
-                HKD 80,000 / USD 10,400</p>
+                Monthly Retainer for dedicated developer with support from <span class="bold">Project Manager, QA Team, and Code Reviewer</span>: <br>
+                HKD 40,000+ / USD 5,200+ </p>
 
                  <p><a href="${bf.util.site_path_helper('prototype-apply')}" class="btn">Build your prototype now</a>
                 </p>
@@ -164,35 +188,6 @@
          </div>
 
        </div>
-
-       <div class="small-12 large-4 medium-12 columns">
-
-              <div class="row">
-                <div class="columns small-12">
-                  <h3 class="sub-tag">  
-                    FAQ
-                   </h3>
-
-                   <p>
-                    <span class="mid bold all-caps font-spacer">What is an app prototype?</span>
-                    <br>
-                    An app prototype is used to communicate and test web / mobile app ideas. They are intended for the following purpose, but not a completed product ready for market
-
-
-                    <ul>
-                      <li>Demonstrate the feasibility of the idea</li>
-                      <li>Investor pitch</li>
-                      <li>Focus group or usability test</li>
-                      <li>Design and define the scope for further development by internal / outsourced developers</li>
-                    </ul>
-
-                   </p>
-
-              
-                </div>
-          </div>
-
-        </div>
   </div>
   
 </section>
