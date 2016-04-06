@@ -3,8 +3,8 @@
 <div id="title-works" class="heading-title heading-dark title-cover short">
   <div class="v-center full-width">
     <div class="row">
-      <div class="columns small-12 medium-6 large-6">
-        <h2>We develop and design products and services that create great value</h2>
+      <div class="columns small-12 medium-6 large-5">
+        <h2>We build products and services that create great value</h2>
       </div>
     </div>
    </div>
@@ -47,9 +47,40 @@
               WiFiBB</a>
         </li>
 
+         <li> 
+            <a href="http://skygear.io" target="_blank" class="center work-link-skygear work-link">
+              Skygear.io</a>
+          </li>
+
+
+          <li> 
+            <a href="http://makeappicon.com" target="_blank" class="center work-link-mai work-link">
+              MakeAppIcon</a>
+          </li>
+
+         <li> 
+            <a href="http://shotbot.io" target="_blank" class="center work-link-shotbot work-link">
+              Shotbot</a>
+          </li>
+
+
+         <li> 
+            <a href="http://gitlo.co" target="_blank" class="center work-link-gitlo work-link">
+              Gitlo/co</a>
+          </li>
+
+          <li> 
+            <a href="https://itunes.apple.com/hk/app/spentable-track-your-daily/id500630565?mt=8" target="_blank" class="center work-link-spentable work-link">
+              Spentable</a>
+          </li>
+
+          <li> 
+            <a href="http://pandaform.com" target="_blank" class="center work-link-pandaform work-link">
+              Pandaform</a>
+          </li>
+
+
       </ul>
-
-
      
      </div>
   </div>

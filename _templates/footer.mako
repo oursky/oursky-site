@@ -23,6 +23,19 @@
       <span class="footer-contact">+852 2155 9299</span><br>
       <span class="footer-contact"><a href="mailto:hello@oursky.com">hello@oursky.com</a></span>
     </div>
+
+    <div class="columns large-4 medium-4 small-12 show-for-medium-up">
+
+      <span class="bold carbon mid ">Blog</span>
+          <ul class="blog-posts">
+            <li><a href="http://blog.oursky.com/2016/03/29/guide-to-google-analytics-for-websites/" target="_blank" class="carbon">Beginner’s guide to Google Analytics for Websites</a></li>
+            <li><a href="http://blog.oursky.com/2016/03/21/two-common-reasons-startup-failure/" class="carbon">Startup fails when it’s just about a dream</a></li>
+            <li><a href="http://blog.oursky.com/2016/03/17/always-focus-frontend-instead-backend/" class="carbon">Dear Founders: Here’s Why You Should Always Focus on Frontend Instead of Backend for an MVP</a></li>
+            <li><a hred="http://blog.oursky.com/2016/03/14/mvp-into-an-award-winning-app/" class="carbon">From MVP to Best of Year App featured by Apple</a></li>
+          </ul>
+
+    </div>
+
     <div class="columns large-5 medium-8 small-12">
       <ul class="footer-sitemap show-for-medium-up">
         <li>
@@ -40,19 +53,17 @@
           Company
           <ul>
             <li><a href="${bf.util.site_path_helper('about')}">About</a></li>
+            <li><a href="${bf.util.site_path_helper('work')}">Work</a></li>
             <li><a href="${bf.util.site_path_helper('contact')}">Contact</a></li>
+            <li><a href="${bf.util.site_path_helper('opensource')}">Open Source</a></li>
             <li><a href="http://jobs.oursky.com" target="_blank">Jobs</a></li>
           </ul>
         </li>
         <li>
-          Products
+          Services
           <ul>
-            <li><a href="http://pandaform.com" target="_blank">PandaForm</a></li>
-            <li><a href="http://makeappicon.com" target="_blank">Makeappicon.com</a></li>
-            <li><a href="http://mockuphone.com/" target="_blank">Mockuphone</a></li>
-            <li><a href="http://gif.kino.cm" target="_blank">GifCam</a></li>
-            <li><a href="http://retain.cc" target="_blank">Retain.cc</a></li>
-            <li><a href="http://filesq.com" target="_blank">FileSquare</a></li>
+            <li><a href="${bf.util.site_path_helper('enquiry')}">Enquiry</a></li>
+            <li><a href="${bf.util.site_path_helper('prototype')}">Prototype</a></li>
           </ul>
         </li>
       </ul>
@@ -61,7 +72,7 @@
 
   <div class="row">
     <div class="columns large-6 medium-6 small-12 footnote-left credit">
-      <span class="footnote">&copy; 2015 OURSKY. All rights reserved.</span>
+      <span class="footnote">&copy; 2016 OURSKY. All rights reserved.</span>
     </div>
     <div class="columns large-6 medium-6 small-12 footnote-right alignRight credit">
       <span class="footnote all-caps">Develop with passion</span>

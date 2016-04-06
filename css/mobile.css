@@ -12,6 +12,10 @@
 
 @media only screen and (max-width: 40em) {
 
+	.index-figures {
+		height: 220px;
+	}
+
 	.spacer {
 		margin: 70px 0;
 	}

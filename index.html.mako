@@ -70,25 +70,17 @@
   <section class="contents" id="about">
 
     <div class="row">
-      <div class="columns small-12 medium-7 large-8">
+      <div class="columns small-12 medium-10 large-9">
           <h3 class="sub-tag">We craft state-of-the-art applications</h3>
           <p class="huge thin"  data-bottom-top="opacity:0;"  data-center="opacity:1;">We are a team of 40 talented Hong Kong app developers and designers. With cutting-edge technologies and best practices, we develop web and mobile apps which have got millions of downloads, and won multiple awards including Best of the Year app selected by Apple App Store and Hong Kong ICT Awards of the Year 2014.
           </p>
 
       </div>
-      <div class="columns medium-5 large-4 show-for-medium-up">
-          <h5 class="all-caps">LATEST BLOG POSTS</h5>
-          <ul>
-            <li><a href="http://blog.oursky.com/2016/03/29/guide-to-google-analytics-for-websites/" target="_blank">Beginner’s guide to Google Analytics for Websites</a></li>
-            <li><a href="http://blog.oursky.com/2016/03/21/two-common-reasons-startup-failure/">Startup fails when it’s just about a dream</a></li>
-            <li><a href="http://blog.oursky.com/2016/03/17/always-focus-frontend-instead-backend/">Dear Founders: Here’s Why You Should Always Focus on Frontend Instead of Backend for an MVP</a></li>
-            <li><a hred="http://blog.oursky.com/2016/03/14/mvp-into-an-award-winning-app/">From MVP to Best of Year App featured by Apple</a></li>
-          </ul>
-      </div>
+  
     </div>
 
     <div class="row">
-      <div class="columns small-12 medium-6 large-6 ">
+      <div class="columns small-12 medium-10 large-6 ">
             <q class="carbon">Friendly services with quick response, helpful consultation with delivery of great quality.</q>
             <p class="mid carbon"> <strong>Lucy Bruzzone</strong> Senior Programme Manager, Earthwatch Institute </p>
 
@@ -97,19 +89,19 @@
 
     <div class="row">
       <div class="spacer-small">
-        <div class="columns small-6 medium-3 center">
+        <div class="columns small-6 medium-3 center index-figures">
           <h1 class="blue">9.3</h1>
           <p>out of 10 clients ratings recommend for others in 2015</p>
         </div>
-        <div class="columns small-6 medium-3 center">
+        <div class="columns small-6 medium-3 center index-figures">
            <h1 class="blue">70%</h1>
            <p>iOS app developed are featured by AppStore </p>
         </div>
-        <div class="columns small-6 medium-3 center">
+        <div class="columns small-6 medium-3 center index-figures">
           <h1 class="blue">4</h1>
            <p>weeks average time from concept to interactive prototype</p>
         </div>
-        <div class="columns small-6 medium-3 center">
+        <div class="columns small-6 medium-3 center index-figures">
            <h1 class="blue">3</h1>
            <p>months average time for developing a MVP app</p>
         </div>
@@ -245,77 +237,49 @@
 
 
   <section id="learn-mvp" class="contents">
+
+  <div class="row">
+  <div class="columns large-6 medium-6 small-12">
     
     <div class="row">
-      <div class="columns large-6 medium-7 small-12 large-push-3 medium-push-4">
-         <h3 class="sub-tag">  
-          We believe short iterations deliver great experience and products
-         </h3>
+      <div class="columns large-12 medium-12 small-12">
+
+           <h3 class="sub-tag">  
+            We believe short iterations deliver great experience and products
+
+           </h3>
+            
+            <ul class="list-paragraph">
+              <li>
+                  <p> <span class="bold">Everything begin with a design consultant meeting</span> <br>Together we understand your goal and ideas, then we develop the user flow, wireframe, high fidelity mockups and clickable prototype for your web / mobile app.</p>
+              </li>
+
+              <li>
+
+                  <p> <span class="bold">We build your app one week at a time.</span> <br>Our Project Manager prepare weekly builds and reports, so your users can try the app earlier, you can track our progress better, and we can get your feedback faster.</p>
+
+              </li>
+     
+                <li>
+                   <p> <span class="bold">We embrace iterations and changes</span> <br>As the app start to take shape, we expect scope and features need to be changed. We don’t want you to get bounded by a fixed scope and build features end up not necessary.</p>
+                </li>
+
+                <li>
+                    <p> <span class="bold">You own the code and repository</span> <br>You own the code and the git repository — that meant you have the complete commit logs and history of how the code build up day-to-day.</p>
+                </li>
+
+                <li>
+                     <p> <span class="bold">We’re experienced with startups</span> <br> We are very experience with helping startups to refine its MVP scope, build clickable prototypes for investors, usability test session and focus group; We have state-of-the-art development process.</p>
+               </li>
+
+               </ul>
       </div>
     </div>
 
-    <div class="row">
-      <div class="spacer-small">
-        <div class="columns large-3 medium-4 small-12">
-              <p class="all-caps mid font-spacer bold">Everything begin with a design consultant meeting</p>
-        </div>
-        <div class="columns large-8 medium-7 small-12 end">
-              <p>Together we understand your goal and ideas, then we develop the user flow, wireframe, high fidelity mockups and clickable prototype for your web / mobile app.</p>
-        </div>
-      </div>
-    </div>
+  </div>
 
-    <div class="row">
-      <div class="spacer-small">
-        <div class="columns large-3 medium-4 small-12">
-              <p class="all-caps mid font-spacer bold">We build your app one week at a time.</p>
-        </div>
-        <div class="columns large-8 medium-7 small-12 end">
-             <p> Our Project Manager prepare weekly builds and reports, so your users can try the app earlier, you can track our progress better, and we can get your feedback faster.
-              </p>
-        </div>
-      </div>
-   </div>
-
-    <div class="row">
-      <div class="spacer-small">
-        <div class="columns large-3 medium-4 small-12">
-              <p class="all-caps mid font-spacer bold">We embrace iterations and changes</p>
-        </div>
-        <div class="columns large-8 medium-7 small-12 end">
-              <p>As the app start to take shape, we expect scope and features need to be changed. We don’t want you to get bounded by a fixed scope and build features end up not necessary.</p>
-        </div>
-      </div>
-    </div>
-
-    <div class="row">
-      <div class="spacer-small">
-        <div class="columns large-3 medium-4 small-12">
-          <p class="all-caps mid font-spacer bold">You own the code and repository</p>
-        </div>
-        <div class="columns large-8 medium-7 small-12 end">
-             <p>You own the code and the git repository — that meant you have the complete commit logs and history of how the code build up day-to-day.</p>
-        </div>
-      </div>
-    </div>
-
-    <div class="row">
-      <div class="spacer-small">
-        <div class="columns large-3 medium-4 small-12">
-          <p class="all-caps mid font-spacer bold">We’re experienced with startups</p>
-        </div>
-        <div class="columns large-8 medium-7 small-12 end">
-             <p> We are very experience with helping startups to refine its MVP scope, build clickable prototypes for investors, usability test session and focus group; We have state-of-the-art development process.</p>
-        </div>
-      </div>
-    </div>
-
-  </section>
-    
-  <section id="chart">
-    <div class="row">
-      <div class="columns small-12 center">
-        <div class="spacer" data-bottom-top="transform:translate3d(0px, -100px, 0px)"  data-top-bottom="transform:translate3d(0px, 100px, 0px)">
+     <div class="columns small-12 large-6 medium-6 center">
+        <div class="spacer" data-bottom-top="transform:translate3d(0px, -150px, 0px)"  data-top-bottom="transform:translate3d(0px, 300px, 0px)">
           <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 514 672" enable-background="new 0 0 514 672" xml:space="preserve" style="width:100%;max-width:500px;">
             <g id="XMLID_17_" data-center="transform:translate3d(0px, 0px, 0px)" data-50-bottom="transform:translate3d(0px, 50px, 0px)">
               <circle id="XMLID_1_" fill="none" style="fill:none;stroke:#ff8f4c;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2000;stroke-dashoffset:0"  cx="103.3" cy="119.7" r="74.6"/>
@@ -497,8 +461,11 @@
           </svg>
         </div>
       </div>
-    </div>
+
+  </div>
+
   </section>
+    
 
   <section id="cta" class="contents">
     <div class="row">

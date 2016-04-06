@@ -8,7 +8,7 @@
         <li><a href="${bf.util.site_path_helper('about')}">About</a></li>
         <li><a href="${bf.util.site_path_helper('works')}">Work</a></li>
         <li><a href="http://blog.oursky.com" target="_blank">Blog</a></li>
-        <li><a href="http://code.oursky.com" target="_blank">Code@Oursky</a></li>
+        <li><a href="${bf.util.site_path_helper('prototype')}">Make a Prototype</a></li>
         <li><a href="http://jobs.oursky.com" target="_blank">Jobs</a></li>
         <li><a href="${bf.util.site_path_helper('contact')}">Contact</a></li>
       </ul>
