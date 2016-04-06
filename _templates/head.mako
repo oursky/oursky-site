@@ -1,7 +1,7 @@
 <title>Oursky - Web &#38; mobile application development company based in Hong Kong</title>
 
 <meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="viewport" content="initial-scale=1.0,width=device-width,user-scalable=0" />
 <meta name="author" content="Oursky Limited">
 <meta name="keywords" content="app development, mobile application, iphone app developer, develop app, content management systems, python, ruby on rails, web applications, web design, wordpress">
 <meta name="description" content="We are a team of 40 app developers and designers, we work with startups or corporate to build great products on iOS, Android and Web."
