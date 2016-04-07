@@ -28,7 +28,8 @@ $(document).ready(function() {
     submitHandler: function(form) {
       ga('send', 'event', {
         eventCategory: 'Enquiry',
-        eventAction: 'Submit enquiry form'
+        eventAction: 'Submit enquiry form',
+        transport: 'beacon'
       });
       window['optimizely'] = window['optimizely'] || [];
       window['optimizely'].push(["trackEvent", "enquiryformSubmit"]);
