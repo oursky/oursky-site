@@ -40,39 +40,42 @@
 
           <div class="row">
 
-              <div class="columns small-6">
+              <div class="columns small-12">
 
-                <div class="info-card">
+                <div class="info-card-list">
 
-                    <p class="center">
-                       <img src="../img/startup.svg" class="info-card-img" > <br>
-                      For Startups
-                    </p>
-                    <p>
-                      We help you to develop your idea or rough wireframe into a
-                      real demo, so you can get users / investor feedback
-                      with a real demo, and define the product better, and
-                      estimate the time and effort for a real product accurately.
-                    </p>
-               </div>
+                    <div class="info-card">
 
-              </div>
+                        <p class="center">
+                           <img src="../img/startup.svg" class="info-card-img" > <br>
+                          For Startups
+                        </p>
+                        <p>
+                          We help you to develop your idea or rough wireframe into a
+                          real demo, so you can get users / investor feedback
+                          with a real demo, and define the product better, and
+                          estimate the time and effort for a real product accurately.
+                        </p>
+                   </div>
 
-              <div class="columns small-6">
-                <div class="info-card">
+                
+                    <div class="info-card">
 
-                    <p class="center">
-                       <img src="../img/enterprise.svg" class="info-card-img" > <br>
-                      For Business / Enterprise
-                    </p>
-                    <p>
-                      We help you to understand how a mobile experiences would work for your customers.
-                    </p>
-                    <p>
-                      Most importantly, we gives you the benefits of having an entire design &amp; development team at the fraction of cost to hire a new developer for it!
-                    </p>
+                        <p class="center">
+                           <img src="../img/enterprise.svg" class="info-card-img" > <br>
+                          For Business / Enterprise
+                        </p>
+                        <p>
+                          We help you to understand how a mobile experiences would work for your customers.
+                        </p>
+                        <p>
+                          Most importantly, we gives you the benefits of having an entire design &amp; development team at the fraction of cost to hire a new developer for it!
+                        </p>
+
+                    </div>
 
                 </div>
+
               </div>
 
             </div>
@@ -87,7 +90,9 @@
             </div>
 
             <div class="row">
-              <div class="columns small-12 medium-6">
+              <div class="columns small-12">
+
+                <div class="info-card-list">
 
                 <div class="info-card">
                   <p class="center"><img src="../img/prototype.svg" class="info-card-img"></p>
@@ -118,8 +123,7 @@
 
                   <p><a href="${bf.util.site_path_helper('prototype-apply')}" class="btn">Get Started</a></p>
                 </div>
-              </div>
-              <div class="columns small-12 medium-6 end">
+             
 
                 <div class="info-card">
 
@@ -155,6 +159,8 @@
                   <p><a href="${bf.util.site_path_helper('prototype-apply')}" class="btn">Get Started</a></p>
 
                 </div>
+
+              </div>
 
               </div> 
            </div>

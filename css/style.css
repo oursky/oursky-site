@@ -737,11 +737,18 @@ a.tag-anchor:hover {
   padding-top: 5px;
 }
 
+.info-card-list {
+  display: flex;
+  justify-content: space-between;
+}
 
 .info-card {
   border:1px solid #d8d8d8;
   box-shadow: 0 3px 0 1px rgba(0,0,0,0.1);
   padding: 20px;
+  flex: 1;
+  width: 45%;
+  margin: 1%;
 }
 
 .info-card-img {
