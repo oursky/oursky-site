@@ -12,6 +12,11 @@
 
 @media only screen and (max-width: 40em) {
 
+	.button-group .button {
+		padding: 0.8rem 0.7rem 0.8rem;
+		font-size: 12px;
+	}
+
 	.index-figures {
 		height: 220px;
 	}

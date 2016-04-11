@@ -121,7 +121,7 @@
                     HKD 60,000 / USD 8,000 
                   </p>
 
-                  <p><a href="${bf.util.site_path_helper('prototype-apply')}" class="btn">Get Started</a></p>
+                  <p><a href="${bf.util.site_path_helper('enquiry')}" class="btn">Get Started</a></p>
                 </div>
              
 
@@ -156,7 +156,7 @@
                     HKD 135,000 / USD 18,000
                   </p>
 
-                  <p><a href="${bf.util.site_path_helper('prototype-apply')}" class="btn">Get Started</a></p>
+                  <p><a href="${bf.util.site_path_helper('enquiry')}" class="btn">Get Started</a></p>
 
                 </div>
 
@@ -187,7 +187,7 @@
                 Monthly Retainer for dedicated developer with support from <span class="bold">Project Manager, QA Team, and Code Reviewer</span>: <br>
                 HKD 40,000+ / USD 5,200+ </p>
 
-                 <p><a href="${bf.util.site_path_helper('prototype-apply')}" class="btn">Build your prototype now</a>
+                 <p><a href="${bf.util.site_path_helper('enquiry')}" class="btn">Build your prototype now</a>
                 </p>
 
               </div>

@@ -246,6 +246,22 @@ a.btn-grey {
   border-color: #c8c8c8;
 }
 
+.button-group .button {
+  background-color: #ccc;
+}
+
+.button-group .button.active {
+  background-color: #3155a5;
+}
+
+.button-group .button:first-child {
+  border-radius: 6px 0 0 6px;
+}
+
+.button-group .button:last-child {
+  border-radius: 0 6px 6px 0;
+}
+
 /* all content */
 
 .allwrap{
@@ -1122,6 +1138,14 @@ a.tag-anchor:hover {
 .select-options label {
   font-size: 16px;
   margin-bottom: 15px;
+}
+
+.inner-form-wrap {
+  display: none;
+}
+
+.inner-form-wrap.show {
+  display: inherit;
 }
 
 /* Form */

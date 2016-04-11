@@ -37,5 +37,23 @@ $(document).ready(function() {
       form.submit();
     }
   });
+
+  $('#prototype-switch').on('click', function(e) {
+     e.preventDefault();
+     $('#general-form').removeClass('show');
+     $('#prototype-form').addClass('show');
+     $(this).toggleClass('active');
+     $('#general-switch').toggleClass('active');
+  });
+
+  $('#general-switch').on('click', function(e) {
+     e.preventDefault();
+     $('#prototype-form').removeClass('show');
+     $('#general-form').addClass('show');
+     $(this).toggleClass('active');
+     $('#prototype-switch').toggleClass('active');
+  });
+
+
 });
 
