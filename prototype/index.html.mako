@@ -1,6 +1,6 @@
 <%inherit file="../_templates/site.mako" />
 
-<div id="title-works" class="heading-title heading-dark title-cover short">
+<div id="title-prototype" class="heading-title heading-dark title-cover short">
   <div class="v-center full-width">
     <div class="row">
       <div class="columns small-12 medium-6 large-6">

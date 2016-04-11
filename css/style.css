@@ -907,7 +907,8 @@ a.tag-anchor:hover {
 }
 
 #title-works {
-  background-image: url("../img/hero-works.jpg");
+  background-image: url("../img/bg-works.jpg");
+  background-attachment: scroll;
 }
 
 
@@ -1014,6 +1015,13 @@ a.tag-anchor:hover {
  
   background-image: url("../img/hero-product.jpg");
  
+}
+
+/* --------- Prototype --------*/
+
+#title-prototype {
+  background-image: url("../img/bg-prototype.jpg");
+  background-attachment: scroll;
 }
 
 /* --------- Plans ----------- */
