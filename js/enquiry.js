@@ -1,6 +1,7 @@
 
 $(document).ready(function() {
-  $('.fakeUpload').on('click', function() {
+  $('.fakeUpload').on('click', function(e) {
+    e.preventDefault();
     $('#file').click();
   });
   $('#file').on('change', function() {
