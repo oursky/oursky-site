@@ -1,16 +1,9 @@
-
 $(document).ready(function() {
-  $('.fakeUpload').on('click', function(e) {
-    e.preventDefault();
-    $('#file').click();
+  $('input[type=file]').on('change', function(e) {
+    var fileName = e.target.value.replace(/(.*)\\(.*)/, '$2');
+    $(this).next().text(fileName || 'Upload Files');
   });
-  $('#file').on('change', function() {
-    var filename = this.value;
-    var lastIndex = filename.lastIndexOf("\\");
-    if (lastIndex >= 0)
-      filename = filename.substring(lastIndex + 1);
-    $('#filename').html(filename);
-  });
+
   $('#enquiry-form').validate({
     rules: {
       services: {
@@ -38,22 +31,18 @@ $(document).ready(function() {
     }
   });
 
-  $('#prototype-switch').on('click', function(e) {
-     e.preventDefault();
-     $('#general-form').removeClass('show');
-     $('#prototype-form').addClass('show');
-     $(this).toggleClass('active');
-     $('#general-switch').toggleClass('active');
+  $('.button-group').on('click', function(e) {
+    e.preventDefault();
+    var _thisTarget = $(e.target);
+    var sibling = _thisTarget.siblings();
+
+    var regex = /(\w*)-switch/;
+    $(sibling[0].id.replace(regex, '#$1-form')).removeClass('show');
+    $(_thisTarget[0].id.replace(regex, '#$1-form')).addClass('show');
+
+    if (!_thisTarget.hasClass('active')) {
+      _thisTarget.toggleClass('active');
+      sibling.toggleClass('active');
+    }
   });
-
-  $('#general-switch').on('click', function(e) {
-     e.preventDefault();
-     $('#prototype-form').removeClass('show');
-     $('#general-form').addClass('show');
-     $(this).toggleClass('active');
-     $('#prototype-switch').toggleClass('active');
-  });
-
-
 });
-

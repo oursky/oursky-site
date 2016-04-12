@@ -180,6 +180,7 @@ img.large-img, .product-page img.large-img {
 /* Buttons */
 
 button.submitForm,
+label.btn,
 a.btn {
   border: 1px solid #3155A5;
   border-radius: 8px;
@@ -198,12 +199,14 @@ button.submitForm {
 }
 
 button.submitForm,
+label.btn,
 a.btn:hover {
   color: #3155A5;
   background-color: rgba(230, 230, 230, 0.3);
 }
 
 button.submitForm,
+label.btn,
 a.btn:active {
   -moz-transform: translateX(0px) translateY(0px);
   -webkit-transform: translateX(0px) translateY(0px);
@@ -241,6 +244,7 @@ a.large-btn {
   padding: 12px 24px;
 }
 
+label.btn-grey,
 a.btn-grey {
   background: #eee;
   border-color: #c8c8c8;
@@ -1028,9 +1032,9 @@ a.tag-anchor:hover {
 /* --------- Products --------- */
 
 #title-product {
- 
+
   background-image: url("../img/hero-product.jpg");
- 
+
 }
 
 /* --------- Prototype --------*/
@@ -1170,6 +1174,17 @@ input[type=email]:active {
 
 input:focus:invalid {
   border-color: orange;
+}
+
+/* Input file */
+
+.inputfile {
+  width: 0.1px;
+  height: 0.1px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  z-index: -1;
 }
 
 .required::-webkit-input-placeholder:after {
@@ -1447,8 +1462,8 @@ input:focus:invalid {
    background: url("../img/hero-asos-2.png") center no-repeat #fff;
   background-size: cover;
   width: 100%;
-  border-top: 1px solid #ddd; 
-  border-bottom: 1px solid #ddd; 
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
   margin: 140px 0 50px;
 }
 
