@@ -7,6 +7,7 @@
 # This file doesn't list every possible setting, it relies on defaults
 # set in the core blogofile _config.py. To see where the default
 import subprocess
+import locale
 
 # configuration is on your system run 'blogofile info'
 #
@@ -56,6 +57,13 @@ site.file_ignore_patterns = [
     "pyenv",
     "requirements.txt"
 ]
+
+
+def pre_build():
+    # Reset the locale if the dev set to something like chinese, so the
+    # generate date string will be in the format we want.
+    locale.setlocale(locale.LC_ALL, 'C')
+
 
 def post_build():
     # Preprocess the scripts and stylesheets
