@@ -16,7 +16,7 @@
           <img src="../img/icon-launch.svg"><br>
           Start your Project
         </h3>
-        <p class="center"> 
+        <p class="center">
           I would like to...
         </p>
 
@@ -75,7 +75,7 @@
                     <option value="1000">100-1000</option>
                     <option value="1000+">1000+</option>
                   </select>
-                 
+
                 </div>
               </div>
 
@@ -91,11 +91,11 @@
                     <option value="1000">Individual Contributor</option>
                     <option value="1000+">Others</option>
                   </select>
-                 
+
                 </div>
               </div>
 
-            
+
 
               <div class="row">
                 <div class="large-12 columns select-options">
@@ -103,7 +103,7 @@
 
                   <input type="radio" name="investyes" value="investyes"> Yes<br>
                   <input type="radio" name="investno" value="investno"> No<br>
-                 
+
                 </div>
               </div>
 
@@ -113,7 +113,7 @@
 
                   <input type="radio" name="interact" value="interact"> Interactive Mockup<br>
                   <input type="radio" name="poc" value="poc"> Proof-of-Concept App<br>
-                 
+
                 </div>
               </div>
 
@@ -125,9 +125,8 @@
                       Such as sitemap, specification or wireframe that would help our understanding on the project
                     </span>
                   </p>
-                  <a class="btn btn-grey fakeUpload" >Upload Files </a>
-                  <input type="file" name="file" id="file" class="file btn btn-grey" style="display:none">
-                  <p class="small" id='filename'></p>
+                  <input type="file" name="prototypeFile" id="prototypeFile" class="inputfile">
+                  <label for="prototypeFile" class="btn btn-grey">Upload Files </label>
                 </div>
                 <div class="hidden"><input type="hidden" name="$action" value="_firstSubmitInstep"></div>
               </div>
@@ -219,9 +218,8 @@
                   Such as sitemap, specification or wireframe that would help our understanding on the project
                 </span>
               </p>
-              <a class="btn btn-grey fakeUpload" >Upload Files </a>
-              <input type="file" name="file" id="file" class="file btn btn-grey" style="display:none">
-              <p class="small" id='filename'></p>
+              <input type="file" name="generalFile" id="generalFile" class="inputfile">
+              <label for="generalFile" class="btn btn-grey">Upload Files </label>
             </div>
             <div class="hidden"><input type="hidden" name="$action" value="_firstSubmitInstep"></div>
           </div>
