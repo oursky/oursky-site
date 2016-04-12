@@ -57,6 +57,12 @@ site.file_ignore_patterns = [
     "requirements.txt"
 ]
 
+
+def pre_build():
+    import locale
+    locale.setlocale(locale.LC_ALL, 'C')
+
+
 def post_build():
     # Preprocess the scripts and stylesheets
     subprocess.call(["npm", "install"])
