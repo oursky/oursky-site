@@ -33,7 +33,7 @@
     <div class="row">
       <div class="columns small-12 large-8 large-centered center">
         <div class="spacer">
-           <q>The Oursky team have been great to work with on New In app, they provided accurate estimates on the work required, always delivered on time and despite the time difference and location the cross-team communication was always effective. Their organised approach to the product development and on-hand support when issues arose was brilliant and I’d definitely recommend and work with them again.</q> 
+           <q>The Oursky team have been great to work with on New In app, they provided accurate estimates on the work required, always delivered on time and despite the time difference and location the cross-team communication was always effective. Their organised approach to the product development and on-hand support when issues arose was brilliant and I’d definitely recommend and work with them again.</q>
            <p class="mid carbon"> <strong>Becky Page</strong>, Senior Product Manager, ASOS</p>
        </div>
       </div>
@@ -47,7 +47,7 @@
       <h3>Work with us.</h3>
       <p>Got an idea for a project? <br>
       We'd love to hear from you</p>
-      <a href="${bf.util.site_path_helper('enquiry')}" class="btn">Start your project</a>
+      <a href="${bf.util.site_path_helper('enquiry/general')}" class="btn">Start your project</a>
     </div>
   </div>
 </section>

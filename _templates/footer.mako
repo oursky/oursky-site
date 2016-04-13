@@ -62,7 +62,7 @@
         <li>
           Services
           <ul>
-            <li><a href="${bf.util.site_path_helper('enquiry')}">Enquiry</a></li>
+            <li><a href="${bf.util.site_path_helper('enquiry/general')}">Enquiry</a></li>
             <li><a href="${bf.util.site_path_helper('prototype')}">Prototype</a></li>
           </ul>
         </li>

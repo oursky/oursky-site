@@ -16,8 +16,8 @@
 
     <div class="columns large-5 medium-6 end">
       <div class="nav-block">
-        <a href="${bf.util.site_path_helper('enquiry')}" class="nav-cta btn ">Start your project</a>
-        
+        <a href="${bf.util.site_path_helper('enquiry/general')}" class="nav-cta btn ">Start your project</a>
+
         <h6 class="all-caps title-grey">Recent works</h6>
         <a href="${bf.util.site_path_helper('asos')}" class="nav-work-block" style="background-image:url('${bf.util.site_path_helper('img/nav-work-3.png')}')">
           ASOS NEW IN
@@ -37,10 +37,10 @@
         <a href="${bf.util.site_path_helper('ourcam')}" class="nav-work-block" style="background-image:url('${bf.util.site_path_helper('img/nav-work-oc.png')}')">
           Ourcam
         </a>
-        
+
       </div>
     </div>
-    
+
   </div>
 </nav>
 

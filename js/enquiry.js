@@ -1,4 +1,19 @@
 $(document).ready(function() {
+  function changeEnquiryForm() {
+    var enquiryType = location.pathname.replace(/\/(\w+)\/(\w+)\/?/, '$2');
+    var _thisTarget = $('#' + enquiryType + '-switch');
+    var sibling = _thisTarget.siblings();
+
+    var regex = /(\w*)-switch/;
+    $(sibling[0].id.replace(regex, '#$1-form')).removeClass('show');
+    $(_thisTarget[0].id.replace(regex, '#$1-form')).addClass('show');
+
+    if (!_thisTarget.hasClass('active')) {
+      _thisTarget.addClass('active');
+      sibling.removeClass('active');
+    }
+  }
+
   $('input[type=file]').on('change', function(e) {
     var fileName = e.target.value.replace(/(.*)\\(.*)/, '$2');
     $(this).next().text(fileName || 'Upload Files');
@@ -31,18 +46,10 @@ $(document).ready(function() {
     }
   });
 
-  $('.button-group').on('click', function(e) {
+  $(document).on('click', '.button-group', function(e) {
     e.preventDefault();
-    var _thisTarget = $(e.target);
-    var sibling = _thisTarget.siblings();
-
-    var regex = /(\w*)-switch/;
-    $(sibling[0].id.replace(regex, '#$1-form')).removeClass('show');
-    $(_thisTarget[0].id.replace(regex, '#$1-form')).addClass('show');
-
-    if (!_thisTarget.hasClass('active')) {
-      _thisTarget.toggleClass('active');
-      sibling.toggleClass('active');
-    }
+    var href = $(e.target).attr('href');
+    history.pushState({ href: href }, '', href);
+    changeEnquiryForm();
   });
 });

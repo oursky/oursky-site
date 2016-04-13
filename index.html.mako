@@ -9,10 +9,10 @@
         <img src="img/arrow-down.svg">
       </a>
     </span>
-    
+
   </div>
-  
-  <div class="tag-line-wrap cycle-slideshow show-for-medium-up" 
+
+  <div class="tag-line-wrap cycle-slideshow show-for-medium-up"
     data-cycle-timeout="3500"
     data-cycle-fx="fadeout"
     data-cycle-speed="1500"
@@ -76,7 +76,7 @@
           </p>
 
       </div>
-  
+
     </div>
 
     <div class="row">
@@ -116,7 +116,7 @@
         <div class="swiper-wrapper">
 
             <div class="swiper-slide">
-              <div class="index-asos index-slide-fullwidth"> 
+              <div class="index-asos index-slide-fullwidth">
                 <h2>ASOS NEW IN</h2>
                 <p></p>
                 <p><a href="${bf.util.site_path_helper('asos')}" class="btn all-caps">Read more</a></p>
@@ -125,7 +125,7 @@
             </div>
 
             <div class="swiper-slide">
-              <div class="index-jamn index-slide-fullwidth"> 
+              <div class="index-jamn index-slide-fullwidth">
                 <h2>Jamn Player</h2>
                 <p></p>
                 <p><a href="${bf.util.site_path_helper('jamn')}" class="btn all-caps white">Read more</a></p>
@@ -140,7 +140,7 @@
              </div>
             </div>
             <div class="swiper-slide">
-              <div class="index-snaptee index-slide-fullwidth"> 
+              <div class="index-snaptee index-slide-fullwidth">
                 <h2>Snaptee</h2>
                 <p></p>
                 <p><a href="${bf.util.site_path_helper('snaptee')}" class="btn all-caps white">Read more</a></p>
@@ -148,7 +148,7 @@
               </div>
             </div>
             <div class="swiper-slide">
-              <div class="index-wifibb index-slide-fullwidth"> 
+              <div class="index-wifibb index-slide-fullwidth">
                 <h2>WiFibb</h2>
                 <p></p>
                 <p><a href="${bf.util.site_path_helper('wifibb')}" class="btn all-caps white">Read more</a></p>
@@ -156,7 +156,7 @@
               </div>
             </div>
             <div class="swiper-slide">
-              <div class="index-ourcam index-slide-fullwidth"> 
+              <div class="index-ourcam index-slide-fullwidth">
                 <h2>Ourcam</h2>
                 <p></p>
                 <p><a href="${bf.util.site_path_helper('ourcam')}" class="btn all-caps white">Read more</a></p>
@@ -188,7 +188,7 @@
   </section>
 
   <section id="jamn" class="show-for-medium-up index-jamn">
-  
+
     <div class="row">
       <div class="columns large-6 medium-6">
         <h2>Jamn Player</h2>
@@ -221,7 +221,7 @@
 
 
   <section id="bindle" class="show-for-medium-up index-bindle">
-  
+
     <div class="row">
       <div class="columns large-6 medium-6">
         <h2>Bindle</h2>
@@ -240,15 +240,15 @@
 
   <div class="row">
   <div class="columns large-6 medium-6 small-12">
-    
+
     <div class="row">
       <div class="columns large-12 medium-12 small-12">
 
-           <h3 class="sub-tag">  
+           <h3 class="sub-tag">
             We believe short iterations deliver great experience and products
 
            </h3>
-            
+
             <ul class="list-paragraph">
               <li>
                   <p> <span class="bold">Everything begin with a design consultant meeting</span> <br>Together we understand your goal and ideas, then we develop the user flow, wireframe, high fidelity mockups and clickable prototype for your web / mobile app.</p>
@@ -259,7 +259,7 @@
                   <p> <span class="bold">We build your app one week at a time.</span> <br>Our Project Manager prepare weekly builds and reports, so your users can try the app earlier, you can track our progress better, and we can get your feedback faster.</p>
 
               </li>
-     
+
                 <li>
                    <p> <span class="bold">We embrace iterations and changes</span> <br>As the app start to take shape, we expect scope and features need to be changed. We don’t want you to get bounded by a fixed scope and build features end up not necessary.</p>
                 </li>
@@ -286,11 +286,11 @@
               <path id="XMLID_8_" style="fill:none;stroke:#ff8f4c;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1000;stroke-dashoffset:0" data-bottom="stroke-dashoffset:1000;" data-end="stroke-dashoffset:0;" d="M127.8,81.4
                 c-13.6-13.5-35.6-13.5-49.1,0s-13.5,35.6,0,49.1c1.8,1.8,3.7,3.3,5.6,4.6v14.6h37.8v-14.6c2-1.3,3.9-2.8,5.7-4.6
                 C141.4,116.9,141.4,95,127.8,81.4z"/>
-              
+
                 <line id="XMLID_4_" style="fill:none;stroke:#ff8f4c;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1000;stroke-dashoffset:0" data-bottom="stroke-dashoffset:1000;" data-end="stroke-dashoffset:0;" x1="89.1" y1="157.3" x2="117.5" y2="157.3"/>
-              
+
                 <line id="XMLID_6_" style="fill:none;stroke:#ff8f4c;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1000;stroke-dashoffset:0" data-bottom="stroke-dashoffset:1000;" data-end="stroke-dashoffset:0;" x1="89.1" y1="164.9" x2="117.5" y2="164.9"/>
-              
+
                 <line id="XMLID_7_" style="fill:none;stroke:#ff8f4c;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3000;stroke-dashoffset:0" data-bottom="stroke-dashoffset:3000;" data-end="stroke-dashoffset:0;" x1="95.3" y1="173.4" x2="111.3" y2="173.4"/>
               </g>
               <g id="XMLID_13_" data-center="transform:translate3d(0px, 0px, 0px)" data-200-bottom="transform:translate3d(0px, 50px, 0px)">
@@ -369,9 +369,9 @@
           <path id="XMLID_20_" style="fill:none;stroke:#333333;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1000;stroke-dashoffset:0" data-bottom="stroke-dashoffset:1000;" data-end="stroke-dashoffset:0;" d="M438.7,270.2
             c-5.5,21.2-15.6,41.7-30.3,59.8c-13.7,16.9-30.1,30.2-48.1,39.8l17.1,4.5"/>
           <g id="XMLID_87_" data-bottom-top="transform:translate3d(0px, 50px, 0px)" data-center="transform:translate3d(0px, 0px, 0px)">
-          <polyline id="XMLID_18_" style="fill:none;stroke:#333333;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:200;stroke-dashoffset:0" data-200-top="stroke-dashoffset:0;" data--100-bottom="stroke-dashoffset:200;" points="259.6,509.6 259.6,590 
+          <polyline id="XMLID_18_" style="fill:none;stroke:#333333;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:200;stroke-dashoffset:0" data-200-top="stroke-dashoffset:0;" data--100-bottom="stroke-dashoffset:200;" points="259.6,509.6 259.6,590
             243.8,574.1 "/>
-          <polyline id="XMLID_23_" style="fill:none;stroke:#333333;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:200;stroke-dashoffset:0" data-200-top="stroke-dashoffset:0;" data--100-bottom="stroke-dashoffset:200;" points="265.4,509.6 265.4,590 
+          <polyline id="XMLID_23_" style="fill:none;stroke:#333333;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:200;stroke-dashoffset:0" data-200-top="stroke-dashoffset:0;" data--100-bottom="stroke-dashoffset:200;" points="265.4,509.6 265.4,590
             281.2,574.1 "/>
           </g>
           <g id="XMLID_50_" data-100-bottom="transform:translate3d(0px, 20px, 0px); opacity:0"  data-center="transform:translate3d(0px, 0px, 0px); opacity:1">
@@ -465,7 +465,7 @@
   </div>
 
   </section>
-    
+
 
   <section id="cta" class="contents">
     <div class="row">
@@ -475,7 +475,7 @@
           Got an idea for a project? <br>
           We'd love to hear from you
         </p>
-        <a href="${bf.util.site_path_helper('enquiry')}" class="btn">Start your project</a>
+        <a href="${bf.util.site_path_helper('enquiry/general')}" class="btn">Start your project</a>
       </div>
     </div>
   </section>
