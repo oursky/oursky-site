@@ -8,7 +8,7 @@
       </div>
     </div>
    </div>
-  
+
 </div>
 
 <section id="prototype">
@@ -58,7 +58,7 @@
                         </p>
                    </div>
 
-                
+
                     <div class="info-card">
 
                         <p class="center">
@@ -98,7 +98,7 @@
                   <p class="center"><img src="../img/prototype.svg" class="info-card-img"></p>
 
                   <p><span class="all-caps font-spacer bold center">
-                    
+
                     Interactive prototype</span>
                     <br>
                     Designers will develop the idea into user flow, wireframes, and design the User interfaces. Interactive UI will be design with tools like Pixate or InvisionApp for users to experience the design on real devices.
@@ -118,12 +118,12 @@
                   </p>
 
                   <p> <span class="all-caps font-spacer bold mid">Your investment</span> <br>
-                    HKD 60,000 / USD 8,000 
+                    HKD 60,000 / USD 8,000
                   </p>
 
-                  <p><a href="${bf.util.site_path_helper('enquiry')}" class="btn">Get Started</a></p>
+                  <p><a href="${bf.util.site_path_helper('enquiry/prototype')}" class="btn">Get Started</a></p>
                 </div>
-             
+
 
                 <div class="info-card">
 
@@ -131,7 +131,7 @@
 
 
                   <p><span class="all-caps font-spacer bold center">
-                  
+
                     Proof of concept app</span>
                     <br>
                     We will build the interactive prototype, in addition with a Proof-of-Concept native app without a backend, with a rough interface and dummy data.
@@ -156,13 +156,13 @@
                     HKD 135,000 / USD 18,000
                   </p>
 
-                  <p><a href="${bf.util.site_path_helper('enquiry')}" class="btn">Get Started</a></p>
+                  <p><a href="${bf.util.site_path_helper('enquiry/prototype')}" class="btn">Get Started</a></p>
 
                 </div>
 
               </div>
 
-              </div> 
+              </div>
            </div>
 
 
@@ -172,7 +172,7 @@
               <div class="spacer-small">
                 </div>
               <h3 class="sub-tag">Next steps?</h3>
-                
+
                 <p>After the prototype was built, you will play with it and it is common if you want to tweaks it with new features, usability enhancement, or further develop it into a market-ready product.</p>
 
                 <p>We can provide retainer services for:
@@ -187,7 +187,7 @@
                 Monthly Retainer for dedicated developer with support from <span class="bold">Project Manager, QA Team, and Code Reviewer</span>: <br>
                 HKD 40,000+ / USD 5,200+ </p>
 
-                 <p><a href="${bf.util.site_path_helper('enquiry')}" class="btn">Build your prototype now</a>
+                 <p><a href="${bf.util.site_path_helper('enquiry/prototype')}" class="btn">Build your prototype now</a>
                 </p>
 
               </div>
@@ -195,5 +195,5 @@
 
        </div>
   </div>
-  
+
 </section>

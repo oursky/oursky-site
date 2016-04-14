@@ -8,7 +8,7 @@
       </div>
     </div>
    </div>
-  
+
 </div>
 
 <section id="works">
@@ -21,7 +21,7 @@
        </div>
     </div>
 
-   
+
 
     <div class="row">
 
@@ -29,32 +29,32 @@
 
             <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-2">
 
-              <li> 
+              <li>
                   <a href="${bf.util.site_path_helper('asos')}" class="center work-link-asos work-link">
                   ASOS NEW IN
                   </a>
               </li>
 
-              <li> 
+              <li>
                   <a href="${bf.util.site_path_helper('jamn')}" class="center work-link-jamn work-link">
                     Jamn Player</a>
               </li>
 
-              <li> 
+              <li>
                   <a href="${bf.util.site_path_helper('snaptee')}"  class="center work-link-snaptee work-link">
                     Snaptee</a>
               </li>
 
-              <li> 
+              <li>
                   <a href="${bf.util.site_path_helper('bindle')}" class="center work-link-bindle work-link">
                     Bindle</a>
               </li>
 
-              <li> 
+              <li>
                   <a href="${bf.util.site_path_helper('ourcam')}"  class="center work-link-ourcam work-link">
                     Ourcam</a>
               </li>
-              <li> 
+              <li>
                   <a href="${bf.util.site_path_helper('wifibb')}" class="center work-link-wifibb work-link">
                     WiFiBB</a>
               </li>
@@ -70,7 +70,7 @@
        </div>
     </div>
 
-   
+
 
     <div class="row">
 
@@ -79,34 +79,34 @@
       <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-2">
 
 
-         <li> 
+         <li>
             <a href="http://skygear.io" target="_blank" class="center work-link-skygear work-link">
               Skygear.io</a>
           </li>
 
 
-          <li> 
+          <li>
             <a href="http://makeappicon.com" target="_blank" class="center work-link-mai work-link">
               MakeAppIcon</a>
           </li>
 
-         <li> 
+         <li>
             <a href="http://shotbot.io" target="_blank" class="center work-link-shotbot work-link">
               Shotbot</a>
           </li>
 
 
-         <li> 
+         <li>
             <a href="http://gitlo.co" target="_blank" class="center work-link-gitlo work-link">
               Gitlo/co</a>
           </li>
 
-          <li> 
+          <li>
             <a href="https://itunes.apple.com/hk/app/spentable-track-your-daily/id500630565?mt=8" target="_blank" class="center work-link-spentable work-link">
               Spentable</a>
           </li>
 
-          <li> 
+          <li>
             <a href="http://pandaform.com" target="_blank" class="center work-link-pandaform work-link">
               Pandaform</a>
           </li>
@@ -115,9 +115,9 @@
       </ul>
 
       </div>
-     
+
   </div>
-  
+
 </section>
 
 
@@ -129,7 +129,7 @@
           Got an idea for a project? <br>
           We'd love to hear from you
         </p>
-        <a href="${bf.util.site_path_helper('enquiry')}" class="btn">Start your project</a>
+        <a href="${bf.util.site_path_helper('enquiry/general')}" class="btn">Start your project</a>
       </div>
     </div>
   </section>

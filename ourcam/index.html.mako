@@ -17,7 +17,7 @@
       <p class="spacer"><img src="../img/ourcam-1.png" class="large-img"></p>
       <p class="paragraph">In the beginning, Jeffery had an idea and he wanted our help to execute the idea quickly. Our involvement starts with an iOS app design and development project, Jeffery sat down with our designers and project managers to map out the wireframes, user flow, and UI designs.
       </p>
-      <p class="paragraph">After the development of the first iOS version, the positive reaction of the public urged Jeffery to set up his own technical team to handle maintenances and future updates of the app. Our team worked together with his technical team to hand over the development process of the iOS app. 
+      <p class="paragraph">After the development of the first iOS version, the positive reaction of the public urged Jeffery to set up his own technical team to handle maintenances and future updates of the app. Our team worked together with his technical team to hand over the development process of the iOS app.
       </p>
       <p class="paragraph">After the hand over of iOS development, we kickstarted the development of an Android version. Our team helped OurCam to quickly expands to the Android market by developing the Android version of the application.
       </p>
@@ -48,7 +48,7 @@
       <h3>Work with us.</h3>
       <p>Got an idea for a project? <br>
       We'd love to hear from you</p>
-      <a href="${bf.util.site_path_helper('enquiry')}" class="btn">Start your project</a>
+      <a href="${bf.util.site_path_helper('enquiry/general')}" class="btn">Start your project</a>
     </div>
   </div>
 </section>

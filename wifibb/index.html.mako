@@ -29,7 +29,7 @@
   <div class="row">
     <div class="columns small-12 large-8 large-centered center">
       <p class="paragraph">
-      The internal POS iPad app keeps the company organised - it helps internal staffs to manage their daily operations of services, e.g. scanning QR code to check device / order info, showing usage breakdown to confirm exceed usage / extra charges, etc. 
+      The internal POS iPad app keeps the company organised - it helps internal staffs to manage their daily operations of services, e.g. scanning QR code to check device / order info, showing usage breakdown to confirm exceed usage / extra charges, etc.
       <p>
       <p class="paragraph">
         We also provide ongoing maintenance and enhancement services to ensure both platforms is running smoothly for specific users to use. Collaboration was crucial through out the project process; luckily, we got dedicated support from the WiFiBB team, and the project went smoothly. For all intents and purposes, we became a supporting part of the WiFiBB team, and were able to enact real change within an amazing product.
@@ -45,7 +45,7 @@
       <h1><img src="../img/up-arrow.svg"></h1>
       <p> Increasing operational efficiency</p>
     </div>
-    
+
     <div class="columns small-12 large-4  medium-4 center results">
       <h1><img src="../img/ipad.svg"></h1>
       <p> iPad platform for admin users</p>
@@ -64,7 +64,7 @@
       <h3>Work with us.</h3>
       <p>Got an idea for a project? <br>
       We'd love to hear from you</p>
-      <a href="${bf.util.site_path_helper('enquiry')}" class="btn">Start your project</a>
+      <a href="${bf.util.site_path_helper('enquiry/general')}" class="btn">Start your project</a>
     </div>
   </div>
 </section>

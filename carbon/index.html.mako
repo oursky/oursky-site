@@ -12,12 +12,12 @@
   <div class="row">
     <div class="columns small-12 large-8 large-centered center">
       <h3 class="sub-tag">Everyone can be a chef - Make cooking fun, simple, and effortless </h3>
-      <p class="paragraph">Families are cooking more at home worldwide and young people are increasingly making their own meals. However, not everyone are experienced in cooking; and it is often hard to manage the timing and temperature while cooking. Carbon is an iOS Application that makes everything easy. It uses bluetooth technology to connect to a uniquely built food thermostat that helps users to efficiently keep track of the temperature of their food, the app allows users to precisely calculate the temperature and time-left during cooking to ensure the food is prepared right under the desired temperature. 
+      <p class="paragraph">Families are cooking more at home worldwide and young people are increasingly making their own meals. However, not everyone are experienced in cooking; and it is often hard to manage the timing and temperature while cooking. Carbon is an iOS Application that makes everything easy. It uses bluetooth technology to connect to a uniquely built food thermostat that helps users to efficiently keep track of the temperature of their food, the app allows users to precisely calculate the temperature and time-left during cooking to ensure the food is prepared right under the desired temperature.
       </p>
       <p class="spacer"><img src="../img/carbon-1.png" class="large-img"></p>
       <p class="paragraph">Our engagement with Carbon starts with a design project, we designed a user-friendly and easy-to-use, yet modern interface tailored to the hardware uniquely built. Then, we moved on to development of an iOS Application: Albert showed us the hardware and we developed an app the works well with it.
       </p>
-      <p class="paragraph">We believed this application helps simplify the cooking process and we are excited to see how the product will evolve and create an impact in the community. 
+      <p class="paragraph">We believed this application helps simplify the cooking process and we are excited to see how the product will evolve and create an impact in the community.
       </p>
       </p>
 
@@ -45,7 +45,7 @@
       <h3>Work with us.</h3>
       <p>Got an idea for a project? <br>
       We'd love to hear from you</p>
-      <a href="${bf.util.site_path_helper('enquiry')}" class="btn">Start your project</a>
+      <a href="${bf.util.site_path_helper('enquiry/general')}" class="btn">Start your project</a>
     </div>
   </div>
 </section>

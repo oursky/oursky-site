@@ -30,7 +30,7 @@
       <h1 class="grey">2K</h1>
       <p>Users in the largest chat room</p>
     </div>
-    
+
     <div class="columns small-12 large-4  medium-4 center results">
       <h1><img src="../img/apple-logo-grey.svg"></h1>
       <p>Featured on Apple App Store</p>
@@ -48,7 +48,7 @@
       <h3>Work with us.</h3>
       <p>Got an idea for a project? <br>
       We'd love to hear from you</p>
-      <a href="${bf.util.site_path_helper('enquiry')}" class="btn">Start your project</a>
+      <a href="${bf.util.site_path_helper('enquiry/general')}" class="btn">Start your project</a>
     </div>
   </div>
 </section>
