@@ -9,5 +9,5 @@
   %>
 </%def>
 
-<%include file="../../_templates/prototype.mako" args="showForm='show'"/>
-<%include file="../../_templates/general.mako"/>
+<%include file="../_prototype.mako" args="showForm='show'"/>
+<%include file="../_general.mako"/>
