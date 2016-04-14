@@ -1,4 +1,12 @@
 <%inherit file="site-white.mako" />
+<%def name="checkEnquiryType(type)">
+  <%
+    if type == 'general':
+      return True
+    else:
+      return False
+  %>
+</%def>
 
 <section class="spacer">
   <div  class="row">
@@ -14,8 +22,16 @@
 
         <p>
           <div class="small button-group center">
-            <a href="${bf.util.site_path_helper('enquiry/prototype')}" id="prototype-switch" ${'class="button active"' if self.checkEnquiryType('prototype') else 'class="button"'}>Build a Prototype</a>
-            <a href="${bf.util.site_path_helper('enquiry/general')}" id="general-switch" ${'class="button active"' if self.checkEnquiryType('general') else 'class="button"'}>Other Enquiries</a>
+            <a
+              href="${bf.util.site_path_helper('enquiry/prototype')}"
+              id="prototype-switch"
+              class="button ${"active" if self.checkEnquiryType('prototype') else ''}"
+            >Build a Prototype</a>
+            <a
+              href="${bf.util.site_path_helper('enquiry/general')}"
+              id="general-switch"
+              class="button ${"active" if self.checkEnquiryType('general') else ''}"
+            >Other Enquiries</a>
           </div>
         </p>
 
