@@ -1,14 +1,5 @@
 <%inherit file="site-white.mako" />
 
-<style>
-   .services{
-    list-style-type:none;
-    margin-left:0;
-   }
-   .services li{
-    overflow:hidden;
-   }
-</style>
 <section class="spacer">
   <div  class="row">
     <div class="columns large-8 large-centered medium-8 medium-centered">

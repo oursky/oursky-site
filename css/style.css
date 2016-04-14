@@ -1152,6 +1152,15 @@ a.tag-anchor:hover {
   display: inherit;
 }
 
+.services {
+  list-style-type: none;
+  margin-left: 0;
+}
+
+.services li {
+  overflow: hidden;
+}
+
 /* Form */
 
 input[type=text], input[type=email] {
