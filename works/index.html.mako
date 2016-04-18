@@ -46,11 +46,6 @@
               </li>
 
               <li>
-                  <a href="${bf.util.site_path_helper('bindle')}" class="center work-link-bindle work-link">
-                    Bindle</a>
-              </li>
-
-              <li>
                   <a href="${bf.util.site_path_helper('ourcam')}"  class="center work-link-ourcam work-link">
                     Ourcam</a>
               </li>

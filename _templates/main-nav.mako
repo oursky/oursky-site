@@ -25,9 +25,6 @@
         <a href="${bf.util.site_path_helper('jamn')}" class="nav-work-block" style="background-image:url('${bf.util.site_path_helper('img/nav-work-1.png')}')">
           Jamn Player
         </a>
-        <a href="${bf.util.site_path_helper('bindle')}" class="nav-work-block" style="background-image:url('${bf.util.site_path_helper('img/nav-work-2.png')}')">
-          Bindle
-        </a>
         <a href="${bf.util.site_path_helper('snaptee')}" class="nav-work-block" style="background-image:url('${bf.util.site_path_helper('img/nav-work-st.png')}')">
           Snaptee
         </a>

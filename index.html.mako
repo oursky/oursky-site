@@ -133,13 +133,6 @@
               </div>
             </div>
             <div class="swiper-slide">
-              <div class="index-bindle index-slide-fullwidth">
-                <h2>Bindle</h2>
-                <p><a href="${bf.util.site_path_helper('bindle')}" class="btn all-caps white">Read more</a></p>
-                <img src="img/product-bindle.png">
-             </div>
-            </div>
-            <div class="swiper-slide">
               <div class="index-snaptee index-slide-fullwidth">
                 <h2>Snaptee</h2>
                 <p></p>
@@ -217,24 +210,6 @@
     </div>
 
   </section>
-
-
-
-  <section id="bindle" class="show-for-medium-up index-bindle">
-
-    <div class="row">
-      <div class="columns large-6 medium-6">
-        <h2>Bindle</h2>
-        <p>Bindle aims to bring you the best way of group messaging on Android, iPhone and iPad - no unwanted noise, no participant limit, no phone number required. You can search a chat hashtag and talk with people that share an interest. </p>
-        <p><a href="${bf.util.site_path_helper('bindle')}" class="btn all-caps white">Read more</a></p>
-      </div>
-      <div class="columns large-6 medium-6 center">
-        <img src="img/15-10-bindle.png" data-bottom-top="transform:translate3d(0px, 100px, 0px)" data-center="transform:translate3d(0px, 0px, 0px)" data-top="transform:translate3d(0px, -50px, 0px)">
-      </div>
-    </div>
-
-  </section>
-
 
   <section id="learn-mvp" class="contents">
 
