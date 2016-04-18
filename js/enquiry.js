@@ -19,6 +19,9 @@ $(document).ready(function() {
     $(e.target).next().text(fileName || 'Upload Files');
   });
 
+  $.validator.addMethod('strictEmail', function (value) {
+    return !!value.match(/^(.+)\@(\w+)\.(\w+)$/);
+  }, 'Please enter a valid email address.');
   $('form.enquiry').each(function () {
     var formId = this.id;
     $(this).validate({
@@ -29,7 +32,7 @@ $(document).ready(function() {
         },
         email: {
           required: true,
-          email: true
+          strictEmail: true
         },
         noOfEmployees: {
           required: true
@@ -54,10 +57,6 @@ $(document).ready(function() {
         }
       },
       submitHandler: function(form) {
-        if (!form.email.value.match(/^(.+)\@(\w+)\.(\w+)$/)) {
-          alert('Please input valid email.')
-          return false;
-        }
         ga('send', 'event', {
           eventCategory: 'Enquiry',
           eventAction: 'Submit enquiry form',
