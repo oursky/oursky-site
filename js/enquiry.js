@@ -19,31 +19,43 @@ $(document).ready(function() {
     $(this).next().text(fileName || 'Upload Files');
   });
 
-  $('#enquiry-form').validate({
-    rules: {
-      services: {
-        required: true,
-        minlength: 1
+  $('form.enquiry').each(function () {
+    var formId = this.id;
+    $(this).validate({
+      rules: {
+        services: {
+          required: true,
+          minlength: 1
+        },
+        email: {
+          required: true,
+          email: true
+        }
+      },
+      errorPlacement: function(error, element) {
+        var inputName = $(element).attr("name");
+        var elements = $("#" + formId).find("[name ='" + inputName + "']");
+        if (elements.length > 1) {
+          error.insertAfter($(elements[elements.length-1]).next());
+        } else {
+          error.insertAfter(element);
+        }
+      },
+      submitHandler: function(form) {
+        if (!form.email.value.match(/^(.+)\@(\w+)\.(\w+)$/)) {
+          alert('Please input valid email.')
+          return false;
+        }
+        ga('send', 'event', {
+          eventCategory: 'Enquiry',
+          eventAction: 'Submit enquiry form',
+          transport: 'beacon'
+        });
+        window['optimizely'] = window['optimizely'] || [];
+        window['optimizely'].push(["trackEvent", "enquiryformSubmit"]);
+        form.submit();
       }
-    },
-    errorPlacement: function(error, element) {
-      var elements = $("[name ='" + $(element).attr("name") + "']");
-      if (elements.length > 1) {
-        error.insertAfter($(elements[elements.length-1]).next());
-      } else {
-        error.insertAfter(element);
-      }
-    },
-    submitHandler: function(form) {
-      ga('send', 'event', {
-        eventCategory: 'Enquiry',
-        eventAction: 'Submit enquiry form',
-        transport: 'beacon'
-      });
-      window['optimizely'] = window['optimizely'] || [];
-      window['optimizely'].push(["trackEvent", "enquiryformSubmit"]);
-      form.submit();
-    }
+    });
   });
 
   $(document).on('click', '.button-group', function(e) {

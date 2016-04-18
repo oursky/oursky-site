@@ -1,7 +1,7 @@
 <%page args="showForm=''"/>
 
 <div id="prototype-form" class="inner-form-wrap ${showForm}">
-   <form id="enquiry-form" action="https://oursky.pandaform.com/pub/bpo4vz" enctype="multipart/form-data" method="post">
+   <form id="prototype-enquiry-form" class="enquiry" action="https://oursky.pandaform.com/pub/bpo4vz" enctype="multipart/form-data" method="post">
     <div class="row">
       <div class="large-12 columns">
         <input type="text" placeholder="Contact Person" class="required" id="contact" name="contact" value="" required />
