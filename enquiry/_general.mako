@@ -79,7 +79,7 @@
             Such as sitemap, specification or wireframe that would help our understanding on the project
           </span>
         </p>
-        <input type="file" name="generalFile" id="generalFile" class="inputfile">
+        <input type="file" name="file" id="generalFile" class="inputfile">
         <label for="generalFile" class="btn btn-grey">Upload Files </label>
       </div>
       <div class="hidden"><input type="hidden" name="$action" value="_firstSubmitInstep"></div>
