@@ -14,9 +14,9 @@ $(document).ready(function() {
     }
   }
 
-  $('input[type=file]').on('change', function(e) {
+  $('.inputfile').on('change', function(e) {
     var fileName = e.target.value.replace(/(.*)\\(.*)/, '$2');
-    $(this).next().text(fileName || 'Upload Files');
+    $(e.target).next().text(fileName || 'Upload Files');
   });
 
   $('form.enquiry').each(function () {
@@ -30,6 +30,18 @@ $(document).ready(function() {
         email: {
           required: true,
           email: true
+        },
+        noOfEmployees: {
+          required: true
+        },
+        role: {
+          required: true
+        },
+        invest: {
+          required: true
+        },
+        interactOrPoc: {
+          required: true
         }
       },
       errorPlacement: function(error, element) {
