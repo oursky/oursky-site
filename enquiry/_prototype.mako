@@ -32,6 +32,7 @@
         <input type="text" placeholder="Country / City" value="" name="country" id="country"/>
       </div>
     </div>
+    <input type="hidden" name="services" value="Prototype">
 
     <div class="row">
       <div class="large-12 columns select-options">
