@@ -11,6 +11,7 @@
       ${self.header()}
       ${next.body()}
       ${self.footer()}
+      ${self.popup()}
     </div>
       ${self.body_scripts()}
   </body>
@@ -18,4 +19,5 @@
 <%def name="head()"><%include file="head.mako" /></%def>
 <%def name="header()"><%include file="header.mako" /></%def>
 <%def name="footer()"><%include file="footer.mako" /></%def>
+<%def name="popup()"><%include file="popup.mako" /></%def>
 <%def name="body_scripts()"><%include file="body_scripts.mako" /></%def>
