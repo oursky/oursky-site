@@ -53,7 +53,7 @@
           Company
           <ul>
             <li><a href="${bf.util.site_path_helper('about')}">About</a></li>
-            <li><a href="${bf.util.site_path_helper('work')}">Work</a></li>
+            <li><a href="${bf.util.site_path_helper('works')}">Work</a></li>
             <li><a href="${bf.util.site_path_helper('contact')}">Contact</a></li>
             <li><a href="${bf.util.site_path_helper('opensource')}">Open Source</a></li>
             <li><a href="http://jobs.oursky.com" target="_blank">Jobs</a></li>
