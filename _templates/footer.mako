@@ -31,7 +31,7 @@
             <li><a href="http://blog.oursky.com/2016/03/29/guide-to-google-analytics-for-websites/" target="_blank" class="carbon">Beginner’s guide to Google Analytics for Websites</a></li>
             <li><a href="http://blog.oursky.com/2016/03/21/two-common-reasons-startup-failure/" class="carbon">Startup fails when it’s just about a dream</a></li>
             <li><a href="http://blog.oursky.com/2016/03/17/always-focus-frontend-instead-backend/" class="carbon">Dear Founders: Here’s Why You Should Always Focus on Frontend Instead of Backend for an MVP</a></li>
-            <li><a hred="http://blog.oursky.com/2016/03/14/mvp-into-an-award-winning-app/" class="carbon">From MVP to Best of Year App featured by Apple</a></li>
+            <li><a href="http://blog.oursky.com/2016/04/26/mvp-into-an-award-winning-app/" class="carbon">From MVP to Best of Year App featured by Apple</a></li>
           </ul>
 
     </div>
