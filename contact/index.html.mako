@@ -24,7 +24,8 @@
     <div class="columns small-12 large-6 end">
       <ul class="contact-info">
         <li class="location">
-          <a href="https://www.google.com/maps/place/Oursky+Limited/@22.3971082,114.1961154,17z/data=!4m7!1m4!3m3!1s0x3404063436858b0d:0xd7e290b161aeb290!2sOursky+Limited!3b1!3m1!1s0x3404063436858b0d:0xd7e290b161aeb290" target="_blank">Workshop Unit B, 9/F, Wah Wai Industrial Building, No 1-7 Wo Heung St, Fo Tan, Shatin, Hong Kong</a>
+          <a href="https://goo.gl/maps/mV8zNAqgUNt" target="_blank">Rm B, 10/F,
+          Great Wall Factory Bldg, 11 Cheung Shun St, Cheung Sha Wan</a>
         </li>
         <li class="tel">+852 2155 9299 (Office)  +852 3020 0215 (Fax)
         </li>
