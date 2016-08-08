@@ -25,7 +25,8 @@
       <ul class="contact-info">
         <li class="location">
           <a href="https://goo.gl/maps/mV8zNAqgUNt" target="_blank">Rm B, 10/F,
-          Great Wall Factory Bldg, 11 Cheung Shun St, Cheung Sha Wan</a>
+          Great Wall Factory Bldg, 11 Cheung Shun St, Cheung Sha Wan (Lai Chi
+          Kok MTR Exit D2)</a>
         </li>
         <li class="tel">+852 2155 9299 (Office)  +852 3020 0215 (Fax)
         </li>
