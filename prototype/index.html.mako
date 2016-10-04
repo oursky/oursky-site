@@ -66,10 +66,10 @@
                           For Business / Enterprise
                         </p>
                         <p>
-                          We help you to understand how a mobile experiences would work for your customers.
+                          We help you to understand how a mobile experience would work for your customers.
                         </p>
                         <p>
-                          Most importantly, we gives you the benefits of having an entire design &amp; development team at the fraction of cost to hire a new developer for it!
+                          Most importantly, we give you the benefits of having an entire design &amp; development team at the fraction of cost to hire a new developer for it!
                         </p>
 
                     </div>
@@ -101,17 +101,19 @@
 
                     Interactive prototype</span>
                     <br>
-                    Designers will develop the idea into user flow, wireframes, and design the User interfaces. Interactive UI will be design with tools like Pixate or InvisionApp for users to experience the design on real devices.
+                    Designers will develop the idea into user flow, wireframes, and design the User interfaces. Interactive UI will be designed with tools like Pixate or InvisionApp for users to experience the design on real devices.
                   </p>
 
-                  <p> <span class="all-caps font-spacer bold mid">Services</span>
-                  <br>~2 hours idea discussion
-                  <br>User stories discovery and planning
-                  <br>User flow planning
-                  <br>Wireframe design<br>
-                  UX planning and UI design<br>
-                    Interaction design<br>
-                  Feedback meeting on user flow and wireframe.</p>
+                  <p>
+                    <span class="all-caps font-spacer bold mid">Services</span>
+                    <br>~2 hours idea discussion
+                    <br>User stories discovery and planning
+                    <br>User flow planning
+                    <br>Wireframe design
+                    <br>UX planning and UI design
+                    <br>Interaction design
+                    <br>Feedback meeting on user flow and wireframe.
+                  </p>
 
                   <p> <span class="all-caps font-spacer bold mid">Schedule</span> <br>
                     2 weeks
@@ -134,18 +136,20 @@
 
                     Proof of concept app</span>
                     <br>
-                    We will build the interactive prototype, in addition with a Proof-of-Concept native app without a backend, with a rough interface and dummy data.
+                    We will build the interactive prototype, in addition to a Proof-of-Concept native app without a backend, with a rough interface and dummy data.
                   </p>
 
-                  <p> <span class="all-caps font-spacer bold mid">Services</span>
-                  <br>~2 hours idea discussion
-                  <br>User stories discovery and planning
-                  <br>User flow planning
-                  <br>Wireframe design<br>
-                  UX planning and UI design<br>
-                    Interaction design<br>
-                  Feedback meeting on user flow and wireframe<br>
-                  Frontend-UI coding<br>
+                  <p>
+                    <span class="all-caps font-spacer bold mid">Services</span>
+                    <br>~2 hours idea discussion
+                    <br>User stories discovery and planning
+                    <br>User flow planning
+                    <br>Wireframe design
+                    <br>UX planning and UI design
+                    <br>Interaction design
+                    <br>Feedback meeting on user flow and wireframe
+                    <br>Frontend-UI coding
+                    <br>
                   </p>
 
                   <p> <span class="all-caps font-spacer bold mid">Schedule</span> <br>
@@ -173,7 +177,7 @@
                 </div>
               <h3 class="sub-tag">Next steps?</h3>
 
-                <p>After the prototype was built, you will play with it and it is common if you want to tweaks it with new features, usability enhancement, or further develop it into a market-ready product.</p>
+                <p>After the prototype is built, you can play with it and it is common if you want to tweaks it with new features, usability enhancement, or further develop it into a market-ready product.</p>
 
                 <p>We can provide retainer services for:
                   <ul>
