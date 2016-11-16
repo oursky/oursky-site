@@ -23,7 +23,7 @@
                 Skygear</a>
             </h4>
             <p class="column-paragraph">
-              Open source development kit for mobile, web & IoT apps.
+              Secure Serverless Development platform for mobile, web &amp; IoT apps.
             </p>
         </li>
 
