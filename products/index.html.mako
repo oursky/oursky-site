@@ -19,6 +19,16 @@
 
         <li> 
             <h4 class="center">
+                <a href="https://skygear.io"><img src="../img/logo-skygear.png"><br>
+                Skygear</a>
+            </h4>
+            <p class="column-paragraph">
+              Open source development kit for mobile, web & IoT apps.
+            </p>
+        </li>
+
+        <li> 
+            <h4 class="center">
                 <a href="http://shotbot.io"><img src="../img/logo-shotbot.png"><br>
                 Shotbot</a>
             </h4>
