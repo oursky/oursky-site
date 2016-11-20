@@ -28,9 +28,16 @@
 
       <span class="bold carbon mid ">Blog</span>
           <ul class="blog-posts">
-            <li><a href="http://blog.oursky.com/2016/03/29/guide-to-google-analytics-for-websites/" target="_blank" class="carbon">Beginner’s guide to Google Analytics for Websites</a></li>
-            <li><a href="http://blog.oursky.com/2016/03/21/two-common-reasons-startup-failure/" class="carbon">Startup fails when it’s just about a dream</a></li>
-            <li><a href="http://blog.oursky.com/2016/03/17/always-focus-frontend-instead-backend/" class="carbon">Dear Founders: Here’s Why You Should Always Focus on Frontend Instead of Backend for an MVP</a></li>
+            <li><a
+            href="https://code.oursky.com/tensorflow-svm-image-classifications-engine/"
+            class="carbon">Using Tensorflow and Support Vector Machine to Create
+            an Image Classifications Engine</a></li>
+            <li><a href="https://code.oursky.com/software-testing-world-cup-2016-learnings/" class="carbon">Software Testing World Cup 2016 Recap:
+            7 Critical Learnings You May have Missed</a></li>
+            <li><a
+            href="https://code.oursky.com/ethereum-blockchain-computation-platform/"
+            class="carbon">Ethereum 101: Blockchain as Distributed Computation
+            Platform</a></li>
             <li><a href="http://blog.oursky.com/2016/04/26/mvp-into-an-award-winning-app/" class="carbon">From MVP to Best of Year App featured by Apple</a></li>
           </ul>
 
