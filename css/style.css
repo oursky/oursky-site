@@ -883,6 +883,10 @@ a.tag-anchor:hover {
   background-image: url("../img/nav-work-1.png");
 }
 
+.work-link-carbon {
+  background-image: url("../img/nav-work-carbon.png");
+}
+
 .work-link-bindle {
   background-image: url("../img/nav-work-2.png");
 }

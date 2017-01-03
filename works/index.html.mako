@@ -41,6 +41,11 @@
               </li>
 
               <li>
+                  <a href="${bf.util.site_path_helper('carbon')}" class="center work-link-carbon work-link">
+                    Carbon</a>
+              </li>
+
+              <li>
                   <a href="${bf.util.site_path_helper('snaptee')}"  class="center work-link-snaptee work-link">
                     Snaptee</a>
               </li>
