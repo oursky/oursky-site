@@ -1189,6 +1189,19 @@ input:focus:invalid {
   border-color: orange;
 }
 
+/* Email suggestions */
+
+#email-hint {
+  color: #B94A48;
+  display: none;
+}
+
+.domain {
+    color: #08c;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
 /* Input file */
 
 .inputfile {
