@@ -16,6 +16,7 @@ gulp.task('js', function() {
     'js/swiper.jquery.js',
     'js/jquery.scrollTo.min.js',
     'js/main.js',
+    'js/mailcheck.min.js',
     'js/enquiry.js',
     'js/skrollr.min.js'
   ]).pipe(concat("index.js"))

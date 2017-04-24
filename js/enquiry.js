@@ -19,9 +19,53 @@ $(document).ready(function() {
     $(e.target).next().text(fileName || 'Upload Files');
   });
 
-  $.validator.addMethod('strictEmail', function (value) {
-    return !!value.match(/^(.+)\@(\w+)\.(\w+)$/);
-  }, 'Please enter a valid email address.');
+  var domains = ["yahoo.com.hk", "yahoo.com", "google.com", "hotmail.com", "gmail.com", "me.com", "aol.com", "mac.com",
+    "live.com", "comcast.net", "googlemail.com", "msn.com", "hotmail.co.uk", "yahoo.co.uk",
+    "facebook.com", "verizon.net", "sbcglobal.net", "att.net", "gmx.com", "mail.com", "outlook.com", "icloud.com"];
+  var topLevelDomains = ["co.jp", "co.uk", "hk", "com.hk", "edu.hk", "org.hk", "com", "net", "org", "info", "edu", "gov", "mil", "ca"];
+
+  var $email = $('input#email');
+  var $hint = $("#email-hint");
+  
+  $(document).on('blur', '#email', function(e) {
+    // Clear existing suggestions
+    $hint.css('display', 'none').empty();
+
+    $(e.target).mailcheck({
+      domains: domains,
+      topLevelDomains: topLevelDomains,
+      suggested: function(element, suggestion) {
+        if(!$hint.html()) {
+          // This is the first time to show suggestions
+          var suggestionContent = [
+            'Did you mean <span class="suggestion">',
+              '<span class="address">',
+                suggestion.address,
+              '</span>',
+              '@<a class="domain">',
+                suggestion.domain,
+              '</a>',
+            '</span>?'
+          ].join('');
+
+          $hint.html(suggestionContent).fadeIn(150);
+        } else {
+          // Subsequent errors
+          $(".address").html(suggestion.address);
+          $(".domain").html(suggestion.domain);
+        }
+      }
+    });
+  });
+
+  $hint.on('click', '.domain', function() {
+    $email.val($(".suggestion").text());
+    $hint.fadeOut(200, function() {
+      $(this).empty();
+    });
+    return false;
+  });
+
   $('form.enquiry').each(function () {
     var formId = this.id;
     $(this).validate({
@@ -29,10 +73,6 @@ $(document).ready(function() {
         services: {
           required: true,
           minlength: 1
-        },
-        email: {
-          required: true,
-          strictEmail: true
         },
         noOfEmployees: {
           required: true
