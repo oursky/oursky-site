@@ -48,6 +48,8 @@
               <ul class="list-large">
                   <li><a href="https://github.com/skygeario" class="blue">Skygear</a> - Backend-as-a-Service for Web, Mobile and IoT applications (parse alternatives)
                   </li>
+                  <li><a href="https://github.com/oursky/kubernetes-github-authn" class="blue"></a> - GitHub token authentication for Kubernetes</li>
+                  <li><a href="https://github.com/oursky/aws-site-manager" class="blue"></a> - Very simple CLI to create S3/Cloudfront Static Website</li>
                   <li><a href="https://github.com/oursky/dotfiles" class="blue">dotfiles</a> - Various dotfiles suggest to use company-wide</li>
                   <li><a
                   href="https://github.com/oursky/parse-server-sendgrid-adapter" class="blue">parse-server-sendgrid-adapter</a> - Simple sendgrid adapter for parse server</li>
