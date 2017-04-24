@@ -29,10 +29,10 @@
       <span class="bold carbon mid ">Blog</span>
           <ul class="blog-posts">
             <li><a
-            href="https://code.oursky.com/tensorflow-svm-image-classifications-engine/"
+            href="https://m.oursky.com/using-tensorflow-and-support-vector-machine-to-create-an-image-classifications-engine-7ee51b5617d5"
             class="carbon">Using Tensorflow and Support Vector Machine to Create
             an Image Classifications Engine</a></li>
-            <li><a href="https://code.oursky.com/software-testing-world-cup-2016-learnings/" class="carbon">Software Testing World Cup 2016 Recap:
+            <li><a href="https://m.oursky.com/software-testing-world-cup-2016-recap-7-critical-learnings-you-may-have-missedlast-week-while-34d5402642c9" class="carbon">Software Testing World Cup 2016 Recap:
             7 Critical Learnings You May have Missed</a></li>
             <li><a
             href="https://code.oursky.com/ethereum-blockchain-computation-platform/"
@@ -49,7 +49,7 @@
           Connect
           <ul>
             <li><a href="https://www.facebook.com/oursky.hk" target="_blank">Facebook</a></li>
-            <li><a href="http://blog.oursky.com" target="_blank">Blog</a></li>
+            <li><a href="http://m.oursky.com" target="_blank">Blog</a></li>
             <li><a href="http://blog-tw.oursky.com"
             target="_blank">Oursky@Taipei</a></li>
             <li><a href="http://life.oursky.com" target="_blank">Life</a></li>

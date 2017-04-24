@@ -5,7 +5,7 @@
   <div class="v-center title-cover-wrap">
     <h2>We work with clients to plan, design <br>and build digital products.</h2>
     <p class="paragraph spacer-small">
-      We are a team of 40 geeky folks who are passionate about creating world-class products. Over the past six years, we have been working with individuals and businesses of all sizes to build quality digital products and experiences.
+      We are a team of 45 geeky folks who are passionate about creating world-class products. Over the past six years, we have been working with individuals and businesses of all sizes to build quality digital products and experiences.
     </p>
   </div>
   
@@ -73,20 +73,20 @@
   <div class="row">
     <div class="columns small-12 medium-8 large-8 large-centered medium-centered center">
       <h6 class="all-caps spacer-small">Our team</h6>
-      <p> Oursky has 35 talented staff, including experienced Project Managers, Developers, QA Engineers, Designers, Growth Hackers and Project Consultants. </p>
+      <p> Oursky has 45 talented staff, including experienced Project Managers, Developers, QA Engineers, Designers, Growth Hackers and Project Consultants. </p>
     </div>
   </div>
 </section>
 <section id="team">
   <div class="row">
     <div class="columns small-12 large-4  medium-4 center results">
-      <h1 class="white">35</h1>
-      <p class="white">People</p>
+      <h1 class="white">32</h1>
+      <p class="white">Dev, Design and QA</p>
     </div>
     
     <div class="columns small-12 large-4  medium-4 center results">
-      <h1 class="white">24</h1>
-      <p class="white">Developers and QA Engineers</p>
+      <h1 class="white">5</h1>
+      <p class="white">Project Managers</p>
     </div>
     <div class="columns small-12 large-4 medium-4 center results end">
       <h1 class="white">4</h1>
