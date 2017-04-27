@@ -72,7 +72,7 @@
     <div class="row">
       <div class="columns small-12 medium-10 large-9">
           <h3 class="sub-tag">We craft state-of-the-art applications</h3>
-          <p class="huge thin"  data-bottom-top="opacity:0;"  data-center="opacity:1;">We are a team of 40 talented Hong Kong app developers and designers. With cutting-edge technologies and best practices, we develop web and mobile apps which have got millions of downloads, and won multiple awards including Best of the Year app selected by Apple App Store and Hong Kong ICT Awards of the Year 2014.
+          <p class="huge thin"  data-bottom-top="opacity:0;"  data-center="opacity:1;">We are a team of 45 talented Hong Kong app developers and designers. With cutting-edge technologies and best practices, we develop web and mobile apps which have got millions of downloads, and won multiple awards including Best of the Year app selected by Apple App Store and Hong Kong ICT Awards of the Year 2014.
           </p>
 
       </div>
