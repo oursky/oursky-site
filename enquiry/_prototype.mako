@@ -10,6 +10,7 @@
     <div class="row">
       <div class="large-12 columns">
         <input type="email" placeholder="Email" class="required" value="" name="email" id="email" required />
+        <label class="email-hint"></label>
       </div>
     </div>
     <div class="row">

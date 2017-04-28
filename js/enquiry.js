@@ -12,6 +12,12 @@ $(document).ready(function() {
       _thisTarget.addClass('active');
       sibling.removeClass('active');
     }
+
+    // Update the snapshotted selector variable,
+    // whenever the tab is switched.
+    $activeForm = $($activeForm.selector);
+    $email = $($email.selector);
+    $hint = $($hint.selector);
   }
 
   $('.inputfile').on('change', function(e) {
@@ -24,10 +30,13 @@ $(document).ready(function() {
     "facebook.com", "verizon.net", "sbcglobal.net", "att.net", "gmx.com", "mail.com", "outlook.com", "icloud.com"];
   var topLevelDomains = ["co.jp", "co.uk", "hk", "com.hk", "edu.hk", "org.hk", "com", "net", "org", "info", "edu", "gov", "mil", "ca"];
 
-  var $email = $('input#email');
-  var $hint = $("#email-hint");
+  // Select the corresponding element,
+  // according to the active form.
+  var $activeForm = $('.inner-form-wrap.show');
+  var $email = $activeForm.find('input[name="email"]');
+  var $hint = $activeForm.find('.email-hint');
   
-  $(document).on('blur', '#email', function(e) {
+  $(document).on('blur', 'input[name="email"]', function(e) {
     // Clear existing suggestions
     $hint.css('display', 'none').empty();
 
@@ -50,16 +59,16 @@ $(document).ready(function() {
 
           $hint.html(suggestionContent).fadeIn(150);
         } else {
-          // Subsequent errors
-          $(".address").html(suggestion.address);
-          $(".domain").html(suggestion.domain);
+          // Subsequent suggestion
+          $activeForm.find('.address').html(suggestion.address);
+          $activeForm.find('.domain').html(suggestion.domain);
         }
       }
     });
   });
 
-  $hint.on('click', '.domain', function() {
-    $email.val($(".suggestion").text());
+  $(document).on('click', '.email-hint .domain', function() {
+    $email.val($activeForm.find('.suggestion').text());
     $hint.fadeOut(200, function() {
       $(this).empty();
     });

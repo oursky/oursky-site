@@ -1191,7 +1191,7 @@ input:focus:invalid {
 
 /* Email suggestions */
 
-#email-hint {
+.email-hint {
   color: #B94A48;
   display: none;
 }
