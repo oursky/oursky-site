@@ -1576,3 +1576,76 @@ input:focus:invalid {
 
 /* Hide AdWords Remarketing iFrame */
 iframe[name="google_conversion_frame"]{display:block; height:0;}
+
+/* Subscribe Newsletter Popup */
+.popup {
+  width:100%;
+  height:100%;
+  display:none;
+  position:fixed;
+  top:0px;
+  left:0px;
+  z-index: 101;
+}
+
+.popup .view-newsletter {
+  text-align: left;
+  position: absolute;
+  top: 10px;
+  left: 20px;
+  letter-spacing: 2px;
+  font-size: 16px;
+}
+
+.popup-content-wrapper {
+  text-align: left;
+}
+
+.popup-inner {
+  width: 600px;
+  padding: 80px 110px;
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%, -50%);
+  box-shadow:0px 2px 6px rgba(0,0,0,1);
+  background-color: rgba(255, 255, 255, 0.9);
+  text-align: center;
+  letter-spacing: 4px;
+}
+
+.popup-title {
+  margin: 15px 0;
+}
+
+.popup-text {
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+
+input.mail-subscribe-input {
+  border: 1px solid #000;
+  font-size: 22px;
+  padding: 10px;
+  margin-top: 0;
+}
+
+.popup-submit {
+  font-size: 20px;
+  border-radius: 8px;
+  background: #26439A;
+  font-weight: 200;
+  padding: 3px 35px 10px;
+  letter-spacing: 4px;
+}
+
+.popup-close {
+  width: 30px;
+  height: 30px;
+  position:absolute;
+  top: 5px;
+  right: 0;
+  font-size: 30px;
+  line-height:100%;
+  color: #000;
+}

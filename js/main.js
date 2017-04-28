@@ -120,3 +120,37 @@ $('.header-white').exists(function(){
     $('header')[func]('add-bg');
   });
 })
+
+$(function() {
+  // Subscribe Newsletter Popup
+  setTimeout(function(){
+    $('.popup').fadeIn(350);
+  }, 30000);
+
+  $('.popup-close').on('click', function(e) {
+      $('.popup').fadeOut(350);
+      e.preventDefault();
+  });
+
+  $('.popup-submit').on('click', function(e)  {
+      $('.popup').fadeOut(350);
+
+      $.ajax({
+        type: 'POST',
+        url: 'https://us2.api.mailchimp.com/3.0/lists/975e5abdfc/members',
+        data: JSON.stringify({
+          email_address: $('.mail-subscribe-input').val(),
+          status: 'subscribed',
+        }),
+        beforeSend: function (xhr) {
+          xhr.setRequestHeader ("Authorization", "Basic " + btoa('apikey:a405e2c9916de43d74843869adc71d35-us2'));
+        },
+        dataType: 'json',
+        contentType: "application/json; charset=utf-8",
+        error: function(err) {
+          console.log('Cannot post to the mailchimp server.', err);
+        },
+      });
+
+  });
+});
