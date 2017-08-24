@@ -39,7 +39,7 @@
     </div>
     <div class="columns small-12 large-6  end">
       <ul class="contact-info">
-        <li class="location"><a href="https://goo.gl/maps/QFB13sSg59B2" target="_blank">Rm. A, 6F., No.60, Fuxing N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)</a></li>
+        <li class="location"><a href="https://goo.gl/maps/QFB13sSg59B2" target="_blank">Rm 2, 6F., No.60, Fuxing N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)</a></li>
         <li class="tel">+886 02-27400130 (Office)
         </li>
       </ul>
