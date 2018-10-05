@@ -25,7 +25,7 @@
                 </h3>
                 <p>As developers, we're commit to make the world a better place
                 by opensourcing as much as we can. We have sponsored numerous
-                community event including <a href="http://2015.opensource.hk/" class='blue'>
+                community event including <a href="https://hkoscon.org/" class='blue'>
                 Hong Kong Open Source Conference</a>, <a
                 href="https://tw.pycon.org/2015apac/en/" class='blue'>PyCon APAC 2015</a>, <a
                 href="http://sitcon.org/2016/" class='blue'>SITCON 2016</a> etc.</p>
