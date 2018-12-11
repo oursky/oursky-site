@@ -49,10 +49,11 @@
           Connect
           <ul>
             <li><a href="https://www.facebook.com/oursky.hk" target="_blank">Facebook</a></li>
-            <li><a href="http://m.oursky.com" target="_blank">Blog</a></li>
-            <li><a href="http://blog-tw.oursky.com"
+            <li><a href="https://twitter.com/oursky" target="_blank">Twitter</a></li>
+            <li><a href="https://m.oursky.com" target="_blank">Blog</a></li>
+            <li><a href="https://blog-tw.oursky.com"
             target="_blank">Oursky@Taipei</a></li>
-            <li><a href="http://life.oursky.com" target="_blank">Life</a></li>
+            <li><a href="https://life.oursky.com" target="_blank">Life</a></li>
             <li><a href="https://code.oursky.com" target="_blank">Code@Oursky</a></li>
           </ul>
         </li>
@@ -71,6 +72,7 @@
           <ul>
             <li><a href="${bf.util.site_path_helper('enquiry/general')}">Enquiry</a></li>
             <li><a href="${bf.util.site_path_helper('prototype')}">Prototype</a></li>
+            <li><a href="https://www.notion.so/Oursky-Workshop-Series-1ce1451c99684e9c8f759b1d210b649c" target="_blank">Workshops</a></li>
           </ul>
         </li>
       </ul>

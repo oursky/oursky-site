@@ -7,8 +7,9 @@
       <ul>
         <li><a href="${bf.util.site_path_helper('about')}">About</a></li>
         <li><a href="${bf.util.site_path_helper('works')}">Work</a></li>
-        <li><a href="http://blog.oursky.com" target="_blank">Blog</a></li>
-        <li><a href="http://jobs.oursky.com" target="_blank">Jobs</a></li>
+        <li><a href="https://www.notion.so/Oursky-Workshop-Series-1ce1451c99684e9c8f759b1d210b649c" target="_blank">Workshops</a></li>
+        <li><a href="https://blog.oursky.com" target="_blank">Blog</a></li>
+        <li><a href="https://jobs.oursky.com" target="_blank">Jobs</a></li>
         <li><a href="${bf.util.site_path_helper('contact')}">Contact</a></li>
       </ul>
     </div>
