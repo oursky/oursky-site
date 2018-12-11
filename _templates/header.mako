@@ -22,7 +22,8 @@
     <div class="visible-for-medium-up desktop-nav">
        <a href="${bf.util.site_path_helper('about')}" class="nav-link">About</a>
        <a href="${bf.util.site_path_helper('works')}" class="nav-link ">Work</a>
-       <a href="http://jobs.oursky.com" target="_blank" class="nav-link ">Jobs</a>
+       <a href="https://www.notion.so/Oursky-Workshop-Series-1ce1451c99684e9c8f759b1d210b649c" target="_blank">Workshops</a>
+       <a href="https://jobs.oursky.com" target="_blank" class="nav-link ">Jobs</a>
        <a href="${bf.util.site_path_helper('contact')}" class="nav-link ">Contact</a>
        <a href="${bf.util.site_path_helper('enquiry/general')}" class="btn-header btn">Start your project</a>
      </div>
