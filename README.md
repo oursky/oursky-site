@@ -9,6 +9,7 @@ To potential clients: this is not the standard of our code XD
 ```shell
 virtualenv _py
 pip install -r requirements.txt
+gulp
 blogofile serve
 ```
 
@@ -22,3 +23,17 @@ Notes:
 Deployed to S3 + Cloudfront using [aws-site-manager](https://github.com/oursky/aws-site-manager)
 
 run `blogofile build`
+
+## Trouble shooting
+If you are developing on Mac and face the following problem:
+
+```
+File "~/oursky-site/_py/lib/python2.7/locale.py", line 475, in _parse_localename
+  raise ValueError, 'unknown locale: %s' % localename
+```
+
+Try running these commands in the shell
+```
+export LC_ALL=en_US.UTF-8
+export LANG=en_US.UTF-8
+```
