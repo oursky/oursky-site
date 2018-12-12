@@ -51,8 +51,6 @@
             <li><a href="https://www.facebook.com/oursky.hk" target="_blank">Facebook</a></li>
             <li><a href="https://twitter.com/oursky" target="_blank">Twitter</a></li>
             <li><a href="https://m.oursky.com" target="_blank">Blog</a></li>
-            <li><a href="https://blog-tw.oursky.com"
-            target="_blank">Oursky@Taipei</a></li>
             <li><a href="https://life.oursky.com" target="_blank">Life</a></li>
             <li><a href="https://code.oursky.com" target="_blank">Code@Oursky</a></li>
           </ul>
