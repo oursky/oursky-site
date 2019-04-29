@@ -1,12 +1,12 @@
 <div id="merged-form" class="inner-form-wrap show">
   <form id="merged-enquiry-form" class="enquiry" action="https://oursky.pandaform.com/pub/bpo4vz" enctype="multipart/form-data" method="post">
     <div class="row">
-      <div class="large-12 columns">
+      <div class="large-12 columns input-required">
         <input type="text" placeholder="Your name" class="required" id="contact" name="contact" value="" required />
       </div>
     </div>
     <div class="row">
-      <div class="large-12 columns">
+      <div class="large-12 columns input-required">
         <input type="email" placeholder="Email" class="required" value="" name="email" id="email" required />
         <label class="email-hint"></label>
       </div>
@@ -17,18 +17,18 @@
       </div>
     </div>
     <div class="row">
-      <div class="large-12 columns">
+      <div class="large-12 columns input-required">
         <input type="text" placeholder="Country / City" class="required" value="" name="country" id="country"/>
       </div>
     </div>
     <div class="row">
-      <div class="large-12 columns">
+      <div class="large-12 columns input-required">
         <input type="text" placeholder="Company Name" class="required" value="" name="companyname" id="companyname"/>
       </div>
     </div>
     <div class="row">
       <div class="large-12 columns select-options">
-        <label>Role <span class="red">*</span></label>
+        <label class="input-required">Role</label>
         <select name="role" id="role">
           <option value="C-Level">C-Level</option>
           <option value="VP">VP</option>
@@ -41,7 +41,7 @@
     </div>
     <div class="row">
       <div class="large-12 columns checklist spacer-small">
-        <label>How can we help you? <span class="red">*</span></label><br>
+        <label class="input-required">How can we help you?</label><br>
         <ul class="services">
           <li>
             <input id="checkbox1" type="checkbox" name="services" value="I need a mock-up prototype to illustrate my app idea visually.">
