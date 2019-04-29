@@ -1212,28 +1212,6 @@ input:focus:invalid {
   z-index: -1;
 }
 
-.required::-webkit-input-placeholder:after {
-  content: ' *';
-  color: red;
-}
-
-.required:-moz-placeholder:after {
-  /* Firefox 18- */
-  content: ' *';
-  color: red;
-}
-
-.required::-moz-placeholder:after {
-  /* Firefox 19+ */
-  content: ' *';
-  color: red;
-}
-
-.required:-ms-input-placeholder:after {
-  content: ' *';
-  color: red;
-}
-
 .checklist input[type="checkbox"] + label, input[type="radio"] + label {
   margin-bottom: 5px;
   display: block;
