@@ -41,7 +41,7 @@
             <li>Push an app to test the market and validate the idea quickly.</li>
             <li>Deliverable: A quick prototype app on iOS / Android / Web build with tools such as parse.com</li>
           </ul>
-          <p class="center"><a href="${bf.util.site_path_helper('enquiry/general')}/?ref=mvp" class="btn">Get Started</a></p>
+          <p class="center"><a href="${bf.util.site_path_helper('enquiry')}/?ref=mvp" class="btn">Get Started</a></p>
         </div>
       </div>
       <div class="swiper-slide">
@@ -54,7 +54,7 @@
             <li>Suitable only if your idea needs to be launched on multiple platforms.</li>
             <li>Continuous development from MVP for improvement and scalability.</li>
           </ul>
-          <p class="center"><a href="${bf.util.site_path_helper('enquiry/general')}/?ref=largescale" class="btn">Get Started</a></p>
+          <p class="center"><a href="${bf.util.site_path_helper('enquiry')}/?ref=largescale" class="btn">Get Started</a></p>
         </div>
       </div>
 
@@ -88,7 +88,7 @@
         <li>Push an app to test the market and validate the idea quickly.</li>
         <li>Deliverable: A quick prototype app on iOS / Android / Web build with tools such as parse.com</li>
       </ul>
-      <p class="center"><a href="${bf.util.site_path_helper('enquiry/general')}/?ref=mvp" class="btn">Get Started</a></p>
+      <p class="center"><a href="${bf.util.site_path_helper('enquiry')}/?ref=mvp" class="btn">Get Started</a></p>
     </div>
     <div class="columns large-4  medium-4 plan-block">
       <div class="plan-icon-wrap center">
@@ -99,7 +99,7 @@
         <li>Suitable only if your idea needs to be launched on multiple platforms.</li>
         <li>Continuous development from MVP for improvement and scalability.</li>
       </ul>
-      <p class="center"><a href="${bf.util.site_path_helper('enquiry/general')}/?ref=largescale" class="btn">Get Started</a></p>
+      <p class="center"><a href="${bf.util.site_path_helper('enquiry')}/?ref=largescale" class="btn">Get Started</a></p>
     </div>
   </div>
 </section>
@@ -138,7 +138,7 @@
   </div>
   <div class="row">
     <div class="columns large-6 large-centered medium-6 medium-centered spacer-small">
-      <p class="center"><a href="${bf.util.site_path_helper('enquiry/general')}" class="btn">Service Enquiry</a></p>
+      <p class="center"><a href="${bf.util.site_path_helper('enquiry')}" class="btn">Service Enquiry</a></p>
     </div>
   </div>
 </section>

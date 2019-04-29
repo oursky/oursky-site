@@ -25,7 +25,7 @@
        <a href="https://blog.oursky.com" target="_blank">Blog</a>
        <a href="https://jobs.oursky.com" target="_blank" class="nav-link ">Jobs</a>
        <a href="${bf.util.site_path_helper('contact')}" class="nav-link ">Contact</a>
-       <a href="${bf.util.site_path_helper('enquiry/general')}" class="btn-header btn">Start your project</a>
+       <a href="${bf.util.site_path_helper('enquiry')}" class="btn-header btn">Start your project</a>
      </div>
    <div class="btn-menu nav-toggle show-for-small-only">
     <button class="menu-toggle-switch menu-toggle-switch-x">

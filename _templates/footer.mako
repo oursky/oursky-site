@@ -69,7 +69,7 @@
         <li>
           Services
           <ul>
-            <li><a href="${bf.util.site_path_helper('enquiry/general')}">Enquiry</a></li>
+            <li><a href="${bf.util.site_path_helper('enquiry')}">Enquiry</a></li>
             <li><a href="${bf.util.site_path_helper('prototype')}">Prototype</a></li>
             <li><a href="https://www.notion.so/Oursky-Workshop-Series-1ce1451c99684e9c8f759b1d210b649c" target="_blank">Workshops</a></li>
           </ul>

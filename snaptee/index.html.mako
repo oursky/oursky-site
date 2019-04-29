@@ -59,7 +59,7 @@
       <h3>Work with us.</h3>
       <p>Got an idea for a project? <br>
       We'd love to hear from you</p>
-      <a href="${bf.util.site_path_helper('enquiry/general')}" class="btn">Start your project</a>
+      <a href="${bf.util.site_path_helper('enquiry')}" class="btn">Start your project</a>
     </div>
   </div>
 </section>
