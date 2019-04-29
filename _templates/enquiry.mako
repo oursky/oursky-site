@@ -17,28 +17,12 @@
           Start your Project
         </h3>
         <p class="center">
-          I would like to...
+          We would like to hear from you. <br>
+          Please fill in a few details and
+          we will get back to you real soon!
         </p>
-
-        <p>
-          <div class="small button-group center">
-            <a
-              href="${bf.util.site_path_helper('enquiry/prototype')}"
-              id="prototype-switch"
-              class="button ${"active" if self.checkEnquiryType('prototype') else ''}"
-            >Build a Prototype</a>
-            <a
-              href="${bf.util.site_path_helper('enquiry/general')}"
-              id="general-switch"
-              class="button ${"active" if self.checkEnquiryType('general') else ''}"
-            >Other Enquiries</a>
-          </div>
-        </p>
-
         <p class="small center"> Fields with <span class="red">*</span> are required </p>
-
         ${next.body()}
-
       </div>
     </div>
   </div>

@@ -83,18 +83,6 @@ $(document).ready(function() {
           required: true,
           minlength: 1
         },
-        noOfEmployees: {
-          required: true
-        },
-        role: {
-          required: true
-        },
-        invest: {
-          required: true
-        },
-        interactOrPoc: {
-          required: true
-        }
       },
       errorPlacement: function(error, element) {
         var inputName = $(element).attr("name");
