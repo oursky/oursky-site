@@ -6,17 +6,30 @@ To potential clients: this is not the standard of our code XD
 
 ## Development
 
-```shell
-virtualenv _py
+```sh
+# Install Python 2 and Node in case you do not have them.
+brew install python@2 node
+# Install and upgrade virtualenv
+pip install -U virtualenv
+# Create a virtual environment
+virtualenv pyenv
+# Activate the virtual environment
+. ./pyenv/bin/activate
+# Install the Python dependencies
 pip install -r requirements.txt
-gulp
-blogofile serve
+# Install the JavaScript dependencies
+npm install
+# Build and serve the static website
+npm start
+# Make changes
+# CTRL-C
+# Rebuild and see your results
+npm start
 ```
 
 Notes:
-* Use py2.7, npm is written in py2, don't attemp to run the blogofile under py3. It will fail.
+* blogofile supports Python 2 only. Use Python 2.
 * For debug, comment out the `minifyCss` and `uglify` at gulpfile.js.
-* Assuming node.js was installed, at mac just run `brew install nodejs`
 
 ## Deployment
 

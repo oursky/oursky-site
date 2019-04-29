@@ -4,7 +4,8 @@
   "description": "Build js of the site",
   "main": "index.js",
   "scripts": {
-    "build": "gulp"
+    "build": "gulp",
+    "start": "blogofile build && blogofile serve"
   },
   "repository": {
     "type": "git",
