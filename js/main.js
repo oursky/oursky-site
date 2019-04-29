@@ -113,7 +113,7 @@ $('.header-white').exists(function(){
     up   : effectStart - 20,
     down : effectEnd
   });
-      
+
   $(document).on('scrollPointMove', '.header-white', function(e) {
     if($('.no-scroll').length) return;
     var func = !e.isIn ? "addClass" : "removeClass";

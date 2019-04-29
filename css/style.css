@@ -324,19 +324,18 @@ header.add-bg {
   -webkit-backdrop-filter: blur(10px);
 }
 
+header.header-white {
+  background: rgba(0, 0, 0, 0.5);
+}
+
 header.header-white.add-bg {
-  background: rgba(255,255,255,0.9);
-  border-bottom: 1px solid #eee;
+  padding: 10px 0.9375rem 10px;
 }
 
 header.active, header.active.add-bg {
   background: none;
   padding: 20px 0.9375rem 20px;
   border-bottom: none;
-}
-
-header.header-white .header-logo path {
-  fill: rgba(49, 85, 165, 1);
 }
 
 a.btn-header:hover {
