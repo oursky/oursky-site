@@ -28,7 +28,7 @@
     </div>
     <div class="row">
       <div class="large-12 columns select-options">
-        <label class="input-required">Role</label>
+        <label class="title input-required">Role</label>
         <select name="role" id="role">
           <option value="C-Level">C-Level</option>
           <option value="VP">VP</option>
@@ -41,7 +41,7 @@
     </div>
     <div class="row">
       <div class="large-12 columns checklist spacer-small">
-        <label class="input-required">How can we help you?</label><br>
+        <label class="title input-required">How can we help you?</label><br>
         <ul class="services">
           <li>
             <input id="checkbox1" type="checkbox" name="services" value="I need a mock-up prototype to illustrate my app idea visually.">
@@ -84,7 +84,7 @@
     </div>
     <div class="row">
       <div class="large-12 columns textarea">
-        <label>Can you briefly describe your project needs?</label>
+        <label class="title">Can you briefly describe your project needs?</label>
         <textarea name="summary" id="summary" class="paragraph"></textarea>
       </div>
     </div>
