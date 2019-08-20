@@ -41,7 +41,7 @@
       <ul class="contact-info">
         <li class="location"><a href="https://goo.gl/maps/zQapCjP9SETqJcB7A" target="_blank">2F - 3F, No.
           318, Changchun Road, Zhongshan District, Taipei City</a></li>
-        <li class="tel">+886 02-27400130 (Office)
+        <li class="tel">+886 02-27120059 (Office)
         </li>
       </ul>
     </div>
